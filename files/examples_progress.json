@@ -1,0 +1,8006 @@
+{
+"able": {
+"ex": "I am able to speak English well.",
+"exZh": "我能夠說得很好的英文。"
+},
+"about": {
+"ex": "Tell me about your favorite hobby.",
+"exZh": "告訴我關於你最喜歡的嗜好。"
+},
+"above": {
+"ex": "The bird is flying above the tree.",
+"exZh": "那隻鳥在樹的上方飛行。"
+},
+"across": {
+"ex": "We walk across the street together.",
+"exZh": "我們一起穿越那條街。"
+},
+"act": {
+"ex": "He acts like a silly boy today.",
+"exZh": "他今天表演得很傻氣。"
+},
+"add": {
+"ex": "Add sugar to your coffee, please.",
+"exZh": "請在你的咖啡裡增加糖。"
+},
+"afraid": {
+"ex": "Are you afraid of the dark?",
+"exZh": "你害怕黑暗嗎？"
+},
+"after": {
+"ex": "Come here after you finish homework.",
+"exZh": "你完成功課之後來這裡。"
+},
+"again": {
+"ex": "Can you try again one more time?",
+"exZh": "你能再試一次嗎？"
+},
+"age": {
+"ex": "My brother is twelve years of age.",
+"exZh": "我的哥哥年齡十二歲。"
+},
+"ago": {
+"ex": "I saw him two weeks ago.",
+"exZh": "我兩週以前看到他。"
+},
+"air": {
+"ex": "Fresh air makes me feel very good.",
+"exZh": "新鮮空氣讓我感覺很好。"
+},
+"all": {
+"ex": "All students must listen carefully.",
+"exZh": "所有的學生都必須仔細聽。"
+},
+"also": {
+"ex": "I like pizza, and I also like pasta.",
+"exZh": "我喜歡披薩，我也喜歡義大利麵。"
+},
+"always": {
+"ex": "She is always happy and very kind.",
+"exZh": "她總是快樂的和很友善的。"
+},
+"animal": {
+"ex": "The dog is a very cute animal.",
+"exZh": "那隻狗是一個很可愛的動物。"
+},
+"answer": {
+"ex": "Did you know the answer already?",
+"exZh": "你已經知道答案了嗎？"
+},
+"any": {
+"ex": "Do you have any questions for me?",
+"exZh": "你有任何問題要問我嗎？"
+},
+"apple": {
+"ex": "I eat an apple for breakfast.",
+"exZh": "我早餐吃一個蘋果。"
+},
+"ask": {
+"ex": "Ask the teacher for more help, okay?",
+"exZh": "請問老師要求更多幫助，好嗎？"
+},
+"back": {
+"ex": "I hurt my back during the game.",
+"exZh": "我在遊戲中傷了我的背部。"
+},
+"bad": {
+"ex": "That is a really bad idea, friend.",
+"exZh": "那是一個很壞的想法，朋友。"
+},
+"ball": {
+"ex": "He plays basketball with the ball.",
+"exZh": "他用球玩籃球。"
+},
+"bank": {
+"ex": "My dad works at the bank.",
+"exZh": "我爸爸在銀行工作。"
+},
+"basketball": {
+"ex": "We play basketball every weekend.",
+"exZh": "我們每個週末玩籃球。"
+},
+"because": {
+"ex": "I did not go because I was sick.",
+"exZh": "因為我生病了，所以我沒去。"
+},
+"become": {
+"ex": "He became a good student this year.",
+"exZh": "他今年變成一個好學生。"
+},
+"before": {
+"ex": "Eat lunch before you go outside.",
+"exZh": "在你出去之前先吃午餐。"
+},
+"begin": {
+"ex": "Class begins at eight o'clock every day.",
+"exZh": "課程每天八點開始。"
+},
+"believe": {
+"ex": "I believe you are telling the truth.",
+"exZh": "我相信你說的是真話。"
+},
+"between": {
+"ex": "She stands between her two friends.",
+"exZh": "她站在她的兩個朋友之間。"
+},
+"big": {
+"ex": "That is a big house on the hill.",
+"exZh": "那是山上一個大房子。"
+},
+"bike": {
+"ex": "I ride my bike to school daily.",
+"exZh": "我每天騎我的腳踏車上學。"
+},
+"bird": {
+"ex": "A small bird sings in the morning.",
+"exZh": "一隻小鳥在早上唱歌。"
+},
+"birthday": {
+"ex": "My birthday is in December next month.",
+"exZh": "我的生日在下個月的十二月。"
+},
+"black": {
+"ex": "He wears a black shirt to school.",
+"exZh": "他穿著黑色襯衫上學。"
+},
+"blue": {
+"ex": "The sky is blue and very beautiful.",
+"exZh": "天空是藍色的且很漂亮。"
+},
+"book": {
+"ex": "Read this book in your free time.",
+"exZh": "在你的空閒時間裡讀這本書。"
+},
+"boring": {
+"ex": "This movie is very boring, not fun.",
+"exZh": "這部電影很無聊，不有趣。"
+},
+"boy": {
+"ex": "That boy is my best friend, really.",
+"exZh": "那個男孩是我最好的朋友。"
+},
+"bread": {
+"ex": "I eat bread and jam for breakfast.",
+"exZh": "我早餐吃麵包和果醬。"
+},
+"break": {
+"ex": "Do not break the glass, be careful.",
+"exZh": "不要打破玻璃，要小心。"
+},
+"brother": {
+"ex": "My brother helps me with homework.",
+"exZh": "我的哥哥幫我做功課。"
+},
+"build": {
+"ex": "They will build a new school.",
+"exZh": "他們將會建造一個新學校。"
+},
+"bus": {
+"ex": "I take the bus to school every day.",
+"exZh": "我每天搭公車上學。"
+},
+"busy": {
+"ex": "My mom is busy with work today.",
+"exZh": "我媽媽今天忙著工作。"
+},
+"buy": {
+"ex": "I want to buy a new shirt tomorrow.",
+"exZh": "我想明天買一件新襯衫。"
+},
+"call": {
+"ex": "Call me when you get home.",
+"exZh": "你到家時打電話給我。"
+},
+"can": {
+"ex": "You can help me with my homework.",
+"exZh": "你可以幫我做功課。"
+},
+"car": {
+"ex": "My dad drives his car to work.",
+"exZh": "我爸爸開車去上班。"
+},
+"careful": {
+"ex": "Be careful when you cross the road.",
+"exZh": "過馬路時要小心。"
+},
+"cat": {
+"ex": "My cat is sleeping on the bed.",
+"exZh": "我的貓在床上睡覺。"
+},
+"change": {
+"ex": "The weather changes every season.",
+"exZh": "天氣每季都在改變。"
+},
+"cheap": {
+"ex": "These shoes are very cheap.",
+"exZh": "這些鞋子非常便宜。"
+},
+"check": {
+"ex": "I check my email every morning.",
+"exZh": "我每天早上檢查我的電郵。"
+},
+"child": {
+"ex": "The child plays in the park.",
+"exZh": "小孩在公園裡玩耍。"
+},
+"choose": {
+"ex": "Choose your favorite color please.",
+"exZh": "請選擇你最喜歡的顏色。"
+},
+"city": {
+"ex": "Taipei is a big city in Taiwan.",
+"exZh": "台北是台灣的大城市。"
+},
+"class": {
+"ex": "My class has thirty students now.",
+"exZh": "我的班級現在有三十個學生。"
+},
+"clean": {
+"ex": "Your room is clean and nice.",
+"exZh": "你的房間乾淨又漂亮。"
+},
+"clear": {
+"ex": "The answer is clear and simple.",
+"exZh": "答案很清楚且簡單。"
+},
+"close": {
+"ex": "Close the door when you leave.",
+"exZh": "你離開時關上門。"
+},
+"clothes": {
+"ex": "I wear clean clothes to school.",
+"exZh": "我穿著乾淨的衣服上學。"
+},
+"cloud": {
+"ex": "White clouds float in the sky.",
+"exZh": "白色的雲在天空飄浮。"
+},
+"cold": {
+"ex": "It is cold in winter season.",
+"exZh": "冬天時天氣很冷。"
+},
+"color": {
+"ex": "What is your favorite color.",
+"exZh": "你最喜歡的顏色是什麼。"
+},
+"come": {
+"ex": "Come to my house this weekend.",
+"exZh": "這個週末來我家玩。"
+},
+"cook": {
+"ex": "My mother cooks dinner for us.",
+"exZh": "我媽媽為我們烹飪晚餐。"
+},
+"cool": {
+"ex": "Today is a cool and nice day.",
+"exZh": "今天是涼爽且舒服的一天。"
+},
+"country": {
+"ex": "Japan is a beautiful country.",
+"exZh": "日本是一個美麗的國家。"
+},
+"cry": {
+"ex": "The baby cries when it is hungry.",
+"exZh": "寶寶餓時會哭泣。"
+},
+"cut": {
+"ex": "Cut the bread into small pieces.",
+"exZh": "把麵包切成小塊。"
+},
+"dance": {
+"ex": "I love to dance at the party.",
+"exZh": "我喜歡在派對上跳舞。"
+},
+"dangerous": {
+"ex": "Driving too fast is dangerous.",
+"exZh": "開車太快是危險的。"
+},
+"dark": {
+"ex": "The dark night scared the children.",
+"exZh": "黑暗的夜晚嚇到了孩子們。"
+},
+"daughter": {
+"ex": "My daughter likes drawing pictures.",
+"exZh": "我的女兒喜歡畫圖。"
+},
+"day": {
+"ex": "Every day has twenty-four hours.",
+"exZh": "每一天都有二十四小時。"
+},
+"decide": {
+"ex": "I decided to study harder now.",
+"exZh": "我決定現在更努力讀書。"
+},
+"delicious": {
+"ex": "This food tastes so delicious.",
+"exZh": "這食物嚐起來非常美味。"
+},
+"desk": {
+"ex": "My desk is next to the window.",
+"exZh": "我的書桌在窗戶旁邊。"
+},
+"difficult": {
+"ex": "Math is difficult but interesting.",
+"exZh": "數學很困難但有趣。"
+},
+"dinner": {
+"ex": "We eat dinner at six o'clock.",
+"exZh": "我們在六點吃晚餐。"
+},
+"dirty": {
+"ex": "The dirty dishes need washing.",
+"exZh": "骯髒的盤子需要清洗。"
+},
+"do": {
+"ex": "Do your homework before going out.",
+"exZh": "出門前做完你的功課。"
+},
+"doctor": {
+"ex": "The doctor helps sick people.",
+"exZh": "醫生幫助生病的人。"
+},
+"dog": {
+"ex": "My dog loves to play fetch.",
+"exZh": "我的狗喜歡玩取東西。"
+},
+"door": {
+"ex": "Open the door slowly please.",
+"exZh": "請慢慢打開門。"
+},
+"dream": {
+"ex": "I dream about traveling abroad.",
+"exZh": "我夢想著出國旅遊。"
+},
+"drink": {
+"ex": "Drink more water every single day.",
+"exZh": "每天多喝水。"
+},
+"drive": {
+"ex": "My mom drives to work daily.",
+"exZh": "我媽媽每天開車上班。"
+},
+"during": {
+"ex": "During the class we must listen.",
+"exZh": "上課期間我們必須聽講。"
+},
+"each": {
+"ex": "Each student gets a new notebook.",
+"exZh": "每個學生都得到新筆記本。"
+},
+"early": {
+"ex": "I get up early every morning for school.",
+"exZh": "我每天早上為了上學早起。"
+},
+"earth": {
+"ex": "The Earth is our home and we must protect it.",
+"exZh": "地球是我們的家，我們必須保護它。"
+},
+"easy": {
+"ex": "This math problem is very easy for me.",
+"exZh": "這道數學題對我來說很容易。"
+},
+"eat": {
+"ex": "I eat breakfast with my family every day.",
+"exZh": "我每天和家人一起吃早餐。"
+},
+"egg": {
+"ex": "She likes to eat one egg for breakfast.",
+"exZh": "她喜歡早餐吃一個蛋。"
+},
+"enjoy": {
+"ex": "I enjoy playing basketball with my friends.",
+"exZh": "我喜歡和朋友一起打籃球。"
+},
+"enough": {
+"ex": "I have enough time to finish my homework.",
+"exZh": "我有足夠的時間完成功課。"
+},
+"even": {
+"ex": "Even small mistakes can cause big problems.",
+"exZh": "即使是小錯誤也可能造成大問題。"
+},
+"evening": {
+"ex": "We usually have dinner in the evening.",
+"exZh": "我們通常在傍晚吃晚餐。"
+},
+"every": {
+"ex": "Every student needs to study hard for exams.",
+"exZh": "每個學生都需要為考試努力讀書。"
+},
+"exam": {
+"ex": "I studied hard for my English exam yesterday.",
+"exZh": "我昨天為英語考試努力讀書。"
+},
+"example": {
+"ex": "Can you give me an example of this word?",
+"exZh": "你能給我這個單字的例子嗎？"
+},
+"excited": {
+"ex": "I was excited about the birthday party.",
+"exZh": "我對生日派對感到興奮。"
+},
+"exercise": {
+"ex": "I do exercise in the gym after school.",
+"exZh": "我放學後在健身房運動。"
+},
+"expensive": {
+"ex": "These shoes are too expensive for me.",
+"exZh": "這些鞋對我來說太昂貴了。"
+},
+"face": {
+"ex": "She has a beautiful face and smile.",
+"exZh": "她有漂亮的臉和微笑。"
+},
+"fall": {
+"ex": "The leaves fall from the trees in autumn.",
+"exZh": "葉子在秋天從樹上落下。"
+},
+"family": {
+"ex": "My family is very important to me.",
+"exZh": "我的家庭對我很重要。"
+},
+"famous": {
+"ex": "This actor is very famous in Hollywood.",
+"exZh": "這位演員在好萊塢很著名。"
+},
+"fast": {
+"ex": "The fast runner won the race easily.",
+"exZh": "快速的跑者輕鬆贏了比賽。"
+},
+"father": {
+"ex": "My father teaches me how to ride a bike.",
+"exZh": "我的父親教我如何騎腳踏車。"
+},
+"favorite": {
+"ex": "My favorite color is blue not red.",
+"exZh": "我最喜愛的顏色是藍色，不是紅色。"
+},
+"feel": {
+"ex": "How do you feel about the test today?",
+"exZh": "你對今天的測驗感覺如何？"
+},
+"finish": {
+"ex": "I finished all my homework before dinner.",
+"exZh": "我在晚餐前完成了所有功課。"
+},
+"fish": {
+"ex": "My grandfather likes to fish at the lake.",
+"exZh": "我的祖父喜歡在湖邊釣魚。"
+},
+"flower": {
+"ex": "There are beautiful flowers in our garden.",
+"exZh": "我們花園裡有美麗的花。"
+},
+"fly": {
+"ex": "Birds fly high in the blue sky.",
+"exZh": "鳥在藍天高空中飛行。"
+},
+"follow": {
+"ex": "I follow my teacher's instructions carefully.",
+"exZh": "我仔細遵循老師的指示。"
+},
+"food": {
+"ex": "Healthy food is important for our bodies.",
+"exZh": "健康食物對我們身體很重要。"
+},
+"forget": {
+"ex": "I forgot to bring my book to school.",
+"exZh": "我忘記帶我的書到學校。"
+},
+"free": {
+"ex": "Many websites provide free content online.",
+"exZh": "許多網站在線提供免費內容。"
+},
+"fresh": {
+"ex": "These vegetables are fresh from the farm.",
+"exZh": "這些蔬菜是新鮮農產品。"
+},
+"friend": {
+"ex": "My best friend helps me with everything.",
+"exZh": "我最好的朋友幫我解決一切。"
+},
+"fruit": {
+"ex": "Fruit is good for your health and body.",
+"exZh": "水果對你的健康和身體很好。"
+},
+"funny": {
+"ex": "This movie is so funny that we laugh.",
+"exZh": "這部電影非常有趣，我們都笑了。"
+},
+"game": {
+"ex": "We play games together after school.",
+"exZh": "我們放學後一起玩遊戲。"
+},
+"garden": {
+"ex": "My mother grows vegetables in the garden.",
+"exZh": "我的母親在花園裡種蔬菜。"
+},
+"get": {
+"ex": "Can I get some water please?",
+"exZh": "請問我能喝點水嗎？"
+},
+"gift": {
+"ex": "I received a gift for my birthday.",
+"exZh": "我收到了生日禮物。"
+},
+"girl": {
+"ex": "That girl is very smart in math class.",
+"exZh": "那個女孩在數學課上非常聰明。"
+},
+"give": {
+"ex": "She gave me a book for my birthday.",
+"exZh": "她送了我一本書作為生日禮物。"
+},
+"glad": {
+"ex": "I am glad to see you today here.",
+"exZh": "我很高興今天見到你。"
+},
+"go": {
+"ex": "Let's go to the park after school today.",
+"exZh": "我們放學後去公園吧。"
+},
+"good": {
+"ex": "You are a good friend to help me.",
+"exZh": "你是幫我的好朋友。"
+},
+"great": {
+"ex": "That was a great game and we won.",
+"exZh": "那是一場很棒的比賽，我們贏了。"
+},
+"green": {
+"ex": "The green tree in front of my house.",
+"exZh": "我房子前面的綠樹。"
+},
+"grow": {
+"ex": "Plants grow taller when you water them.",
+"exZh": "當你澆水時，植物會長得更高。"
+},
+"guess": {
+"ex": "I guess the answer is B on the test.",
+"exZh": "我猜測考試上的答案是B。"
+},
+"happy": {
+"ex": "My sister is happy about her birthday party.",
+"exZh": "我妹妹對她的生日派對感到快樂。"
+},
+"hard": {
+"ex": "The diamond is very hard and won't break.",
+"exZh": "鑽石非常硬，不會破裂。"
+},
+"hate": {
+"ex": "I hate waiting in long lines at the store.",
+"exZh": "我討厭在商店裡排隊等候。"
+},
+"health": {
+"ex": "Good health is more valuable than money.",
+"exZh": "良好的健康比金錢更有價值。"
+},
+"hear": {
+"ex": "Did you hear the loud noise last night?",
+"exZh": "你昨晚聽到那個大聲的噪音了嗎？"
+},
+"heart": {
+"ex": "My heart beats faster when I run fast.",
+"exZh": "當我快速跑步時，我的心臟跳得更快。"
+},
+"heavy": {
+"ex": "This box is too heavy for me to carry.",
+"exZh": "這個盒子太重了，我無法搬動。"
+},
+"help": {
+"ex": "Can you help me with my homework today?",
+"exZh": "你今天能幫我做功課嗎？"
+},
+"here": {
+"ex": "Come here and sit down next to me please.",
+"exZh": "請過來坐在我旁邊。"
+},
+"high": {
+"ex": "The basketball hoop is very high on the wall.",
+"exZh": "籃球框在牆上非常高。"
+},
+"hobby": {
+"ex": "Playing video games is my favorite hobby.",
+"exZh": "玩電玩是我最喜歡的嗜好。"
+},
+"home": {
+"ex": "I love spending time with my family at home.",
+"exZh": "我喜歡在家裡和我的家人一起度過時光。"
+},
+"hope": {
+"ex": "I hope we can go to the beach tomorrow.",
+"exZh": "我希望明天我們能去海灘。"
+},
+"hospital": {
+"ex": "My grandfather stayed in the hospital last week.",
+"exZh": "我的祖父上週住在醫院。"
+},
+"hot": {
+"ex": "The hot sun made us all want cold drinks.",
+"exZh": "炎熱的太陽使我們都想要冷飲。"
+},
+"house": {
+"ex": "Our house has a beautiful garden in back.",
+"exZh": "我們的房子後面有一個漂亮的花園。"
+},
+"how": {
+"ex": "How do you spell that word in English?",
+"exZh": "你如何用英文拼寫那個單字？"
+},
+"hungry": {
+"ex": "I feel hungry after playing sports for hours.",
+"exZh": "玩了幾小時運動後，我感到飢餓。"
+},
+"hurry": {
+"ex": "Hurry up or we will miss the bus!",
+"exZh": "趕快，否則我們會錯過公車！"
+},
+"idea": {
+"ex": "That's a great idea for our class project.",
+"exZh": "那是我們班級專案的好想法。"
+},
+"important": {
+"ex": "Getting enough sleep is important for health.",
+"exZh": "獲得足夠的睡眠對健康很重要。"
+},
+"interesting": {
+"ex": "The movie was so interesting, we loved it.",
+"exZh": "這部電影非常有趣，我們很喜歡。"
+},
+"job": {
+"ex": "My mother has a good job at the company.",
+"exZh": "我媽媽在公司有一份好工作。"
+},
+"join": {
+"ex": "Many students want to join the soccer team.",
+"exZh": "許多學生想加入足球隊。"
+},
+"jump": {
+"ex": "Children love to jump on the trampoline.",
+"exZh": "孩子喜歡在蹦床上跳躍。"
+},
+"keep": {
+"ex": "Please keep your promises to your friends.",
+"exZh": "請對朋友信守承諾。"
+},
+"kind": {
+"ex": "She is always kind to everyone in school.",
+"exZh": "她在學校對每個人都很友善。"
+},
+"know": {
+"ex": "Do you know the capital of that country?",
+"exZh": "你知道那個國家的首都嗎？"
+},
+"language": {
+"ex": "Learning English language is fun and useful.",
+"exZh": "學習英文語言既有趣又有用。"
+},
+"late": {
+"ex": "We went to school late because of traffic.",
+"exZh": "因為交通，我們去學校遲到了。"
+},
+"laugh": {
+"ex": "Everyone laughs at the funny jokes she tells.",
+"exZh": "每個人都笑她說的有趣笑話。"
+},
+"learn": {
+"ex": "I want to learn how to play the guitar.",
+"exZh": "我想學習如何彈吉他。"
+},
+"leave": {
+"ex": "When will you leave for your summer trip?",
+"exZh": "你什麼時候離開去夏季旅行？"
+},
+"lesson": {
+"ex": "Our English lesson today was very interesting.",
+"exZh": "我們今天的英文課非常有趣。"
+},
+"letter": {
+"ex": "I wrote a letter to my cousin overseas.",
+"exZh": "我給我海外的表哥寫了一封信。"
+},
+"library": {
+"ex": "We often study books in the library after school.",
+"exZh": "我們經常在放學後在圖書館學習書籍。"
+},
+"life": {
+"ex": "I want to live a happy and healthy life.",
+"exZh": "我想過著幸福健康的生活。"
+},
+"like": {
+"ex": "I like eating pizza more than any other food.",
+"exZh": "我喜歡吃披薩勝過任何其他食物。"
+},
+"listen": {
+"ex": "Please listen carefully to the teacher's words.",
+"exZh": "請仔細聽老師的話。"
+},
+"live": {
+"ex": "My best friend lives just two blocks from me.",
+"exZh": "我最好的朋友住在距我兩個街區遠處。"
+},
+"lonely": {
+"ex": "He feels lonely when his friends are gone away.",
+"exZh": "當他的朋友離開時，他感到孤獨。"
+},
+"long": {
+"ex": "The river is very long and flows to the ocean.",
+"exZh": "這條河很長，流入大海。"
+},
+"look": {
+"ex": "Look outside the window at the beautiful sky.",
+"exZh": "看看窗外美麗的天空。"
+},
+"love": {
+"ex": "I love my parents more than anything in world.",
+"exZh": "我愛我的父母勝過世界上的任何東西。"
+},
+"lucky": {
+"ex": "I was very lucky to win the first prize.",
+"exZh": "我很幸運贏得一等獎。"
+},
+"lunch": {
+"ex": "What do you usually eat for lunch?",
+"exZh": "你午餐通常吃什麼？"
+},
+"make": {
+"ex": "Can you help me make a birthday cake?",
+"exZh": "你能幫我做生日蛋糕嗎？"
+},
+"map": {
+"ex": "I need a map to find the restaurant.",
+"exZh": "我需要一張地圖來找餐廳。"
+},
+"market": {
+"ex": "Let's go to the market to buy vegetables.",
+"exZh": "我們去市場買蔬菜吧。"
+},
+"math": {
+"ex": "I find math very difficult but interesting.",
+"exZh": "我覺得數學很難但有趣。"
+},
+"mean": {
+"ex": "What does this word mean in English?",
+"exZh": "這個單字在英文中是什麼意思？"
+},
+"meet": {
+"ex": "I will meet my friend at the cafe.",
+"exZh": "我會在咖啡館見我的朋友。"
+},
+"message": {
+"ex": "Can you send me a message later?",
+"exZh": "你可以稍後傳訊息給我嗎？"
+},
+"milk": {
+"ex": "My mom drinks milk every morning.",
+"exZh": "我媽媽每天早上喝牛奶。"
+},
+"minute": {
+"ex": "Please wait a minute for me.",
+"exZh": "請等我一分鐘。"
+},
+"miss": {
+"ex": "I miss my grandparents very much.",
+"exZh": "我很想念我的祖父母。"
+},
+"money": {
+"ex": "How much money do you have?",
+"exZh": "你有多少錢？"
+},
+"month": {
+"ex": "My birthday is next month.",
+"exZh": "我的生日是下個月。"
+},
+"morning": {
+"ex": "I always wake up early in morning.",
+"exZh": "我早上總是很早起床。"
+},
+"mother": {
+"ex": "My mother works at a hospital.",
+"exZh": "我媽媽在醫院工作。"
+},
+"mountain": {
+"ex": "The mountain view is very beautiful today.",
+"exZh": "今天山景非常漂亮。"
+},
+"movie": {
+"ex": "Let's watch a movie tonight.",
+"exZh": "我們今晚看一部電影吧。"
+},
+"music": {
+"ex": "I love listening to pop music.",
+"exZh": "我喜歡聽流行音樂。"
+},
+"name": {
+"ex": "What is your full name please?",
+"exZh": "請問你的全名是什麼？"
+},
+"need": {
+"ex": "Do you need any help with work?",
+"exZh": "你工作上需要幫助嗎？"
+},
+"never": {
+"ex": "I never eat spicy food at all.",
+"exZh": "我從不吃辛辣食物。"
+},
+"newspaper": {
+"ex": "My grandfather reads newspaper daily.",
+"exZh": "我祖父每天看報紙。"
+},
+"nice": {
+"ex": "That's a nice dress you're wearing.",
+"exZh": "你穿的洋裝很漂亮。"
+},
+"night": {
+"ex": "The night sky is so beautiful.",
+"exZh": "夜空非常漂亮。"
+},
+"noise": {
+"ex": "The noise from outside is too loud.",
+"exZh": "外面的噪音太大了。"
+},
+"noon": {
+"ex": "Let's have lunch at noon.",
+"exZh": "我們在正午吃午餐吧。"
+},
+"now": {
+"ex": "I'm very busy now so call later.",
+"exZh": "我現在很忙所以待會再打。"
+},
+"office": {
+"ex": "My father's office is downtown.",
+"exZh": "我父親的辦公室在市中心。"
+},
+"often": {
+"ex": "I often go to the library.",
+"exZh": "我經常去圖書館。"
+},
+"old": {
+"ex": "My grandfather is very old.",
+"exZh": "我祖父很老了。"
+},
+"only": {
+"ex": "I only have one hour to study.",
+"exZh": "我只有一小時的時間讀書。"
+},
+"open": {
+"ex": "Please open the window please.",
+"exZh": "請打開窗戶。"
+},
+"order": {
+"ex": "Can I order a pizza please?",
+"exZh": "我可以點披薩嗎？"
+},
+"outside": {
+"ex": "It's raining outside so stay inside.",
+"exZh": "外面下雨所以待在裡面。"
+},
+"own": {
+"ex": "I own a bicycle and skateboard.",
+"exZh": "我擁有一輛腳踏車和滑板。"
+},
+"parent": {
+"ex": "My parents work in company.",
+"exZh": "我父母在公司工作。"
+},
+"park": {
+"ex": "Let's play soccer in park.",
+"exZh": "我們在公園踢足球吧。"
+},
+"party": {
+"ex": "I went to a birthday party.",
+"exZh": "我去參加生日派對。"
+},
+"pay": {
+"ex": "How much should I pay here?",
+"exZh": "我應該在這裡付多少錢？"
+},
+"people": {
+"ex": "Many people come to beach.",
+"exZh": "很多人來到海灘。"
+},
+"perhaps": {
+"ex": "Perhaps you can come tomorrow.",
+"exZh": "也許你明天可以來。"
+},
+"phone": {
+"ex": "Can I use your phone please?",
+"exZh": "我可以用你的電話嗎？"
+},
+"photo": {
+"ex": "Take a photo of the sunset.",
+"exZh": "拍一張日落的照片。"
+},
+"picnic": {
+"ex": "We had a fun picnic yesterday.",
+"exZh": "我們昨天有一個有趣的野餐。"
+},
+"place": {
+"ex": "This place is very crowded today.",
+"exZh": "這個地方今天人很多。"
+},
+"plan": {
+"ex": "I need to plan my vacation for next summer.",
+"exZh": "我需要為明年暑假計畫旅程。"
+},
+"play": {
+"ex": "My little sister likes to play with her toys.",
+"exZh": "我的妹妹喜歡玩她的玩具。"
+},
+"please": {
+"ex": "Please help me with my homework after school.",
+"exZh": "請在放學後幫我做功課。"
+},
+"poor": {
+"ex": "That poor boy doesn't have enough money.",
+"exZh": "那個可憐的男孩沒有足夠的錢。"
+},
+"popular": {
+"ex": "This is a very popular song among teenagers.",
+"exZh": "這是一首在青少年中很受歡迎的歌。"
+},
+"practice": {
+"ex": "You must practice piano every day to improve.",
+"exZh": "你必須每天練習鋼琴才能進步。"
+},
+"pretty": {
+"ex": "She looks pretty in that new red dress.",
+"exZh": "她穿著新紅色洋裝看起來很漂亮。"
+},
+"price": {
+"ex": "The price of this book is fifteen dollars.",
+"exZh": "這本書的價格是十五美元。"
+},
+"proud": {
+"ex": "I am very proud of my son's good grades.",
+"exZh": "我為兒子的好成績感到非常驕傲。"
+},
+"put": {
+"ex": "Please put your backpack in the locker now.",
+"exZh": "請現在把你的背包放進置物櫃。"
+},
+"question": {
+"ex": "Do you have any questions about this lesson?",
+"exZh": "你對這堂課有任何問題嗎？"
+},
+"quick": {
+"ex": "Please walk a bit quicker or we will be late.",
+"exZh": "請走快一點，否則我們會遲到。"
+},
+"quiet": {
+"ex": "The library is a quiet place to study.",
+"exZh": "圖書館是個安靜的讀書地方。"
+},
+"rain": {
+"ex": "It rained heavily yesterday so we stayed home.",
+"exZh": "昨天下了大雨，所以我們待在家裡。"
+},
+"read": {
+"ex": "I enjoy reading books in my free time.",
+"exZh": "我喜歡在空閒時間閱讀書籍。"
+},
+"ready": {
+"ex": "Are you ready for the big exam tomorrow?",
+"exZh": "你為明天的大考準備好了嗎？"
+},
+"red": {
+"ex": "My favorite color is red because it is bright.",
+"exZh": "我最喜歡的顏色是紅色，因為它很鮮豔。"
+},
+"remember": {
+"ex": "I can never remember all the English vocabulary.",
+"exZh": "我永遠記不住所有的英文單字。"
+},
+"rest": {
+"ex": "Let's rest for a while before we continue.",
+"exZh": "讓我們在繼續之前休息一會兒。"
+},
+"rich": {
+"ex": "Bill's family is rich and has a big house.",
+"exZh": "比爾的家庭很富有，有一棟大房子。"
+},
+"right": {
+"ex": "I think the answer is right but I need to check.",
+"exZh": "我認為答案是正確的，但我需要檢查。"
+},
+"room": {
+"ex": "My room is very small but I like it a lot.",
+"exZh": "我的房間很小，但我很喜歡。"
+},
+"run": {
+"ex": "She runs very fast and always wins the race.",
+"exZh": "她跑得非常快，總是贏得比賽。"
+},
+"sad": {
+"ex": "Tom looks sad today because his dog is sick.",
+"exZh": "湯姆今天看起來很難過，因為他的狗生病了。"
+},
+"safe": {
+"ex": "This building is safe because police guard it.",
+"exZh": "這棟建築很安全，因為警察看守著。"
+},
+"same": {
+"ex": "Your backpack is the same color as my backpack.",
+"exZh": "你的背包和我的背包顏色一樣。"
+},
+"save": {
+"ex": "We need to save money for a school trip.",
+"exZh": "我們需要存錢以便進行學校旅遊。"
+},
+"say": {
+"ex": "He said that he studied very hard for exams.",
+"exZh": "他說他為考試認真複習過。"
+},
+"school": {
+"ex": "My school has two buildings and a big gym.",
+"exZh": "我的學校有兩棟建築物和一個大體育館。"
+},
+"season": {
+"ex": "Spring is my favorite season because flowers bloom.",
+"exZh": "春天是我最喜歡的季節，因為花會開放。"
+},
+"see": {
+"ex": "Can you see the mountains from this window?",
+"exZh": "你能從這個窗戶看到山嗎？"
+},
+"send": {
+"ex": "Please send this letter to your grandmother tomorrow.",
+"exZh": "請明天把這封信寄給你的祖母。"
+},
+"shirt": {
+"ex": "I bought a new blue shirt at the mall.",
+"exZh": "我在購物中心買了一件新的藍色襯衫。"
+},
+"shop": {
+"ex": "Let's go shop for clothes this weekend together.",
+"exZh": "讓我們這個週末一起去買衣服。"
+},
+"short": {
+"ex": "His hair is short but mine is very long.",
+"exZh": "他的頭髮很短，但我的很長。"
+},
+"show": {
+"ex": "Please show me your new drawing.",
+"exZh": "請給我看你的新畫作。"
+},
+"sick": {
+"ex": "Tom was sick last week so he didn't come.",
+"exZh": "湯姆上週生病了，所以他沒有來。"
+},
+"sing": {
+"ex": "She sings beautifully and loves to perform.",
+"exZh": "她唱歌很好聽，喜歡表演。"
+},
+"sister": {
+"ex": "My sister is younger than me by two years.",
+"exZh": "我的妹妹比我年輕兩歲。"
+},
+"sit": {
+"ex": "Please sit down quietly during the class.",
+"exZh": "在課堂中請安靜地坐下。"
+},
+"sleep": {
+"ex": "I usually sleep eight hours every night.",
+"exZh": "我通常每晚睡八小時。"
+},
+"slow": {
+"ex": "The turtle moves very slowly through the garden.",
+"exZh": "烏龜在花園裡移動得非常慢。"
+},
+"small": {
+"ex": "She has a small dog and two small rabbits.",
+"exZh": "她有一隻小狗和兩隻小兔子。"
+},
+"smile": {
+"ex": "The baby smiled at his mother's funny faces.",
+"exZh": "嬰兒對他媽媽滑稽的表情微笑了。"
+},
+"snow": {
+"ex": "It snowed all night and the ground is white.",
+"exZh": "整個晚上都在下雪，地面都是白色的。"
+},
+"soccer": {
+"ex": "My brothers like to play soccer after school.",
+"exZh": "我的哥哥們喜歡放學後踢足球。"
+},
+"soft": {
+"ex": "This pillow is very soft and comfortable.",
+"exZh": "這個枕頭非常柔軟舒適。"
+},
+"sometimes": {
+"ex": "Sometimes I eat breakfast before going to school.",
+"exZh": "有時候我上學前會吃早餐。"
+},
+"sorry": {
+"ex": "I'm sorry for being late to class today.",
+"exZh": "我為今天遲到上課感到抱歉。"
+},
+"speak": {
+"ex": "Can you speak English? Yes, I can speak a little.",
+"exZh": "你會說英文嗎？是的，我會說一點。"
+},
+"special": {
+"ex": "This restaurant serves special food from Thailand.",
+"exZh": "這家餐廳提供來自泰國的特別食物。"
+},
+"spend": {
+"ex": "I spend two hours doing homework every day.",
+"exZh": "我每天花兩個小時做功課。"
+},
+"sport": {
+"ex": "My favorite sport is playing basketball with friends.",
+"exZh": "我最喜愛的運動是和朋友打籃球。"
+},
+"spring": {
+"ex": "Spring is the best season for outdoor activities.",
+"exZh": "春天是進行戶外活動的最佳季節。"
+},
+"stand": {
+"ex": "All students should stand when the teacher enters.",
+"exZh": "當老師進來時，所有學生應該站起來。"
+},
+"start": {
+"ex": "Let's start studying for the English test now.",
+"exZh": "我們現在開始為英文測驗讀書吧。"
+},
+"stay": {
+"ex": "I stay at home to study on weekends.",
+"exZh": "我在週末待在家裡讀書。"
+},
+"still": {
+"ex": "He's still waiting for the bus this morning.",
+"exZh": "他今早仍然在等公車。"
+},
+"stop": {
+"ex": "Please stop talking during the class right now.",
+"exZh": "請現在停止在課堂上說話。"
+},
+"store": {
+"ex": "I like shopping for new clothes at the store.",
+"exZh": "我喜歡在商店裡購物買新衣服。"
+},
+"story": {
+"ex": "This story is interesting and easy to understand.",
+"exZh": "這個故事有趣而且容易理解。"
+},
+"student": {
+"ex": "All students must bring their homework to school.",
+"exZh": "所有學生必須把功課帶到學校。"
+},
+"study": {
+"ex": "I study hard because I want to pass the exam.",
+"exZh": "我努力讀書因為我想通過考試。"
+},
+"summer": {
+"ex": "We go on vacation during summer every year.",
+"exZh": "我們每年在暑假期間去度假。"
+},
+"sun": {
+"ex": "The sun rises in the east every morning.",
+"exZh": "太陽每天早上從東邊升起。"
+},
+"surprised": {
+"ex": "I was surprised to see my old friend here.",
+"exZh": "看到我的老朋友在這裡我感到驚訝。"
+},
+"swim": {
+"ex": "We swim in the pool every Friday after school.",
+"exZh": "我們每個週五放學後在游泳池游泳。"
+},
+"table": {
+"ex": "Please put your books on the table carefully now.",
+"exZh": "請小心地把你的書放在桌子上。"
+},
+"take": {
+"ex": "It takes thirty minutes to walk to school.",
+"exZh": "走路到學校需要三十分鐘。"
+},
+"talk": {
+"ex": "Let's talk about our plans for next weekend.",
+"exZh": "我們談論一下下週末的計畫吧。"
+},
+"tall": {
+"ex": "Tom is very tall and plays basketball well.",
+"exZh": "湯姆非常高而且籃球打得很好。"
+},
+"tea": {
+"ex": "I usually drink tea instead of coffee.",
+"exZh": "我通常喝茶而不是喝咖啡。"
+},
+"teach": {
+"ex": "My teacher teaches English every day in class.",
+"exZh": "我的老師每天在班上教英文。"
+},
+"teacher": {
+"ex": "Our teacher is kind and helps us learn well.",
+"exZh": "我們的老師很親切並幫助我們學好。"
+},
+"team": {
+"ex": "Our school team won the soccer game yesterday.",
+"exZh": "我們學校隊昨天贏了足球比賽。"
+},
+"tell": {
+"ex": "She told me an interesting story about her trip.",
+"exZh": "她告訴我一個關於她旅行的有趣故事。"
+},
+"test": {
+"ex": "The math test was difficult but interesting.",
+"exZh": "數學測驗很困難但有趣。"
+},
+"thing": {
+"ex": "I want to buy many things at the market.",
+"exZh": "我想在市場買很多東西。"
+},
+"think": {
+"ex": "I think English is an important subject to learn.",
+"exZh": "我認為英文是重要的學習科目。"
+},
+"thirsty": {
+"ex": "After running, I feel very thirsty and tired.",
+"exZh": "跑步後，我感到非常口渴和疲倦。"
+},
+"time": {
+"ex": "What time do you usually go to bed every night?",
+"exZh": "你通常每晚什麼時候上床睡覺？"
+},
+"tired": {
+"ex": "I'm tired now and need to rest a while.",
+"exZh": "我現在感到疲倦需要休息一下。"
+},
+"together": {
+"ex": "Let's work together because we can finish faster.",
+"exZh": "我們一起工作因為我們能更快完成。"
+},
+"tomorrow": {
+"ex": "Tomorrow is Saturday and I have no school.",
+"exZh": "明天是星期六我沒有上學。"
+},
+"tonight": {
+"ex": "I'm excited to watch the movie tonight with friends.",
+"exZh": "我很興奮今晚要和朋友看電影。"
+},
+"too": {
+"ex": "I like math, and I also like English too.",
+"exZh": "我喜歡數學，我也喜歡英文。"
+},
+"town": {
+"ex": "Many people live in the town near the mountain.",
+"exZh": "許多人住在山附近的城鎮。"
+},
+"train": {
+"ex": "We took the train to visit my grandparents yesterday.",
+"exZh": "我們昨天搭火車去看我的祖父母。"
+},
+"travel": {
+"ex": "I want to travel to Japan and visit Tokyo.",
+"exZh": "我想旅行到日本並訪問東京。"
+},
+"tree": {
+"ex": "There is a big tree under my classroom window.",
+"exZh": "我教室窗戶下有一棵大樹。"
+},
+"trip": {
+"ex": "Our school trip to the museum was very fun.",
+"exZh": "我們學校去博物館的旅遊非常有趣。"
+},
+"try": {
+"ex": "Please try to finish your homework before dinner.",
+"exZh": "請試著在晚餐前完成你的功課。"
+},
+"turn": {
+"ex": "It's your turn to answer the question.",
+"exZh": "換你回答這個問題了。"
+},
+"understand": {
+"ex": "Do you understand what the teacher said?",
+"exZh": "你了解老師說的話嗎？"
+},
+"use": {
+"ex": "I use my computer to do my homework.",
+"exZh": "我用電腦做功課。"
+},
+"useful": {
+"ex": "This dictionary is very useful for learning.",
+"exZh": "這本辭典對學習很有用。"
+},
+"vacation": {
+"ex": "We will travel during summer vacation.",
+"exZh": "我們將在暑假期間去旅行。"
+},
+"vegetable": {
+"ex": "My mother bought fresh vegetables yesterday.",
+"exZh": "我媽媽昨天買了新鮮蔬菜。"
+},
+"visit": {
+"ex": "I want to visit my grandmother next week.",
+"exZh": "我想下週去拜訪我的祖母。"
+},
+"wait": {
+"ex": "Wait for me outside the school gate please.",
+"exZh": "請在校門外等我。"
+},
+"walk": {
+"ex": "She walks to school every morning.",
+"exZh": "她每天早上走路上學。"
+},
+"want": {
+"ex": "Do you want to go to the movie?",
+"exZh": "你想去看電影嗎？"
+},
+"warm": {
+"ex": "It's warm today so I wear short sleeves.",
+"exZh": "今天很溫暖所以我穿短袖。"
+},
+"watch": {
+"ex": "We watch TV after dinner every night.",
+"exZh": "我們每晚吃完飯後看電視。"
+},
+"weather": {
+"ex": "The weather is nice this weekend.",
+"exZh": "這個週末天氣很好。"
+},
+"week": {
+"ex": "I have four tests next week.",
+"exZh": "我下週有四場測驗。"
+},
+"weekend": {
+"ex": "What do you usually do on the weekend?",
+"exZh": "你通常在週末做什麼？"
+},
+"white": {
+"ex": "This shirt is white and very clean.",
+"exZh": "這件襯衫是白色且很乾淨。"
+},
+"win": {
+"ex": "Our team won the basketball game yesterday.",
+"exZh": "我們隊昨天贏得籃球比賽。"
+},
+"window": {
+"ex": "I look out the window at the birds.",
+"exZh": "我從窗戶向外看鳥兒。"
+},
+"winter": {
+"ex": "Winter is very cold in Taiwan.",
+"exZh": "台灣的冬天很冷。"
+},
+"wish": {
+"ex": "I wish I could travel around the world.",
+"exZh": "我希望能環遊世界。"
+},
+"wonderful": {
+"ex": "The party was wonderful and very fun.",
+"exZh": "派對很棒且非常有趣。"
+},
+"word": {
+"ex": "What does this word mean in Chinese?",
+"exZh": "這個單字用中文是什麼意思？"
+},
+"work": {
+"ex": "Many students work hard during exam week.",
+"exZh": "許多學生在考試週努力工作。"
+},
+"world": {
+"ex": "There are many countries in the world.",
+"exZh": "世界上有很多國家。"
+},
+"worry": {
+"ex": "Don't worry about the math test.",
+"exZh": "別擔心數學測驗。"
+},
+"write": {
+"ex": "Please write your name at the top.",
+"exZh": "請在頂部寫你的名字。"
+},
+"wrong": {
+"ex": "Your answer is wrong try again please.",
+"exZh": "你的答案是錯誤的，請再試一次。"
+},
+"year": {
+"ex": "I have lived here for one year.",
+"exZh": "我在這裡已經住了一年。"
+},
+"yellow": {
+"ex": "The sun is bright and yellow today.",
+"exZh": "太陽今天很亮且是黃色的。"
+},
+"young": {
+"ex": "My sister is young and clever.",
+"exZh": "我妹妹年輕且聰明。"
+},
+"abroad": {
+"ex": "Have you ever traveled abroad before?",
+"exZh": "你以前曾在國外旅行過嗎？"
+},
+"accept": {
+"ex": "I accept your invitation to the party.",
+"exZh": "我接受你派對的邀請。"
+},
+"achieve": {
+"ex": "She achieved her dream to be a doctor.",
+"exZh": "她達成了成為醫生的夢想。"
+},
+"advise": {
+"ex": "My father advises me to study harder.",
+"exZh": "我父親建議我更努力地讀書。"
+},
+"agree": {
+"ex": "Do you agree with my opinion here?",
+"exZh": "你同意我的看法嗎？"
+},
+"allow": {
+"ex": "Parents allow their kids to play outside.",
+"exZh": "父母允許孩子在外面玩。"
+},
+"although": {
+"ex": "Although it rained he still went outside.",
+"exZh": "雖然下雨他仍然出去了。"
+},
+"amazed": {
+"ex": "I was amazed by the magic show.",
+"exZh": "我被魔術表演驚奇了。"
+},
+"anymore": {
+"ex": "I don't live here anymore so goodbye.",
+"exZh": "我不再住這裡了，再見。"
+},
+"anywhere": {
+"ex": "You can find books anywhere in the library.",
+"exZh": "你可以在圖書館任何地方找到書。"
+},
+"appear": {
+"ex": "A rainbow appeared after the heavy rain.",
+"exZh": "大雨後出現了彩虹。"
+},
+"appreciate": {
+"ex": "I appreciate your help with my homework.",
+"exZh": "我感謝你幫助我做功課。"
+},
+"argue": {
+"ex": "The boys argue about the soccer game.",
+"exZh": "男孩們爭論關於足球比賽。"
+},
+"arrive": {
+"ex": "We arrive at school at eight o'clock.",
+"exZh": "我們八點鐘抵達學校。"
+},
+"attention": {
+"ex": "Pay attention to the teacher in class.",
+"exZh": "上課時注意老師。"
+},
+"audience": {
+"ex": "The audience clapped after the concert.",
+"exZh": "音樂會後觀眾鼓掌。"
+},
+"avoid": {
+"ex": "You should avoid eating too much candy.",
+"exZh": "你應該避免吃太多糖果。"
+},
+"award": {
+"ex": "She won an award for her excellent work.",
+"exZh": "她因優秀的工作贏得了一個獎項。"
+},
+"basic": {
+"ex": "Math is a basic subject in every school.",
+"exZh": "數學是每所學校的基本科目。"
+},
+"behavior": {
+"ex": "Good behavior will get you more free time.",
+"exZh": "好的行為會讓你得到更多自由時間。"
+},
+"belong": {
+"ex": "This backpack belongs to my best friend.",
+"exZh": "這個背包屬於我最好的朋友。"
+},
+"benefit": {
+"ex": "Exercise has many benefits for your health.",
+"exZh": "運動對你的健康有許多好處。"
+},
+"bored": {
+"ex": "I was bored by that movie last night.",
+"exZh": "昨晚那部電影讓我感到無聊。"
+},
+"bother": {
+"ex": "Don't bother your sister when she's studying.",
+"exZh": "你姐姐讀書時不要打擾她。"
+},
+"brave": {
+"ex": "The brave boy helped his younger sister.",
+"exZh": "勇敢的男孩幫助了他的妹妹。"
+},
+"breathe": {
+"ex": "We breathe air to stay alive every day.",
+"exZh": "我們每天呼吸空氣來保持生命。"
+},
+"carry": {
+"ex": "She carries her books in a big backpack.",
+"exZh": "她用大背包攜帶她的書。"
+},
+"cause": {
+"ex": "Bad weather caused the game to be cancelled.",
+"exZh": "壞天氣導致比賽被取消。"
+},
+"celebrate": {
+"ex": "We celebrate our family's birthday every year.",
+"exZh": "我們每年慶祝家人的生日。"
+},
+"centimeter": {
+"ex": "This table is about one hundred centimeters long.",
+"exZh": "這張桌子長約一百公分。"
+},
+"challenge": {
+"ex": "The challenge was difficult but really interesting.",
+"exZh": "這個挑戰很困難但真的很有趣。"
+},
+"chance": {
+"ex": "You have a chance to win a great prize.",
+"exZh": "你有機會贏得一個很棒的獎品。"
+},
+"character": {
+"ex": "The main character in the movie was very brave.",
+"exZh": "電影裡的主要角色非常勇敢。"
+},
+"collect": {
+"ex": "I collect stamps from many different countries.",
+"exZh": "我收集來自許多不同國家的郵票。"
+},
+"comfortable": {
+"ex": "This chair is very comfortable to sit in.",
+"exZh": "這把椅子坐起來非常舒適。"
+},
+"communicate": {
+"ex": "Good communication helps teams work together well.",
+"exZh": "良好的溝通幫助團隊一起工作。"
+},
+"community": {
+"ex": "Our community has many parks for everyone.",
+"exZh": "我們的社區為每個人都有許多公園。"
+},
+"compare": {
+"ex": "Compare these two shoes and choose the better.",
+"exZh": "比較這兩雙鞋並選擇較好的。"
+},
+"complain": {
+"ex": "Don't complain too much when things are hard.",
+"exZh": "事情很難時不要抱怨太多。"
+},
+"concentrate": {
+"ex": "You should concentrate on your test answers.",
+"exZh": "你應該專心做你的測驗答案。"
+},
+"confident": {
+"ex": "I feel confident about the English test tomorrow.",
+"exZh": "我對明天的英語測驗感到自信。"
+},
+"confuse": {
+"ex": "The hard question confused many of the students.",
+"exZh": "那個難題讓許多學生感到困惑。"
+},
+"consider": {
+"ex": "We need to consider all the different options.",
+"exZh": "我們需要考慮所有不同的選項。"
+},
+"continue": {
+"ex": "She will continue to study English every day.",
+"exZh": "她將繼續每天學習英語。"
+},
+"control": {
+"ex": "You can control how you behave in class.",
+"exZh": "你可以控制你在課堂上的行為。"
+},
+"convenient": {
+"ex": "The location is convenient for all students.",
+"exZh": "這個位置對所有學生來說很方便。"
+},
+"culture": {
+"ex": "Learning about different cultures is very interesting.",
+"exZh": "學習不同的文化非常有趣。"
+},
+"curious": {
+"ex": "Young children are curious about everything around.",
+"exZh": "小孩子對周圍的一切都很好奇。"
+},
+"custom": {
+"ex": "Many countries have unique holiday customs today.",
+"exZh": "許多國家今天都有獨特的節日習俗。"
+},
+"damage": {
+"ex": "The accident caused serious damage to the car.",
+"exZh": "這場事故對汽車造成了嚴重損壞。"
+},
+"deal": {
+"ex": "We need to deal with this problem quickly.",
+"exZh": "我們需要快速處理這個問題。"
+},
+"develop": {
+"ex": "Technology will develop more in the future years.",
+"exZh": "未來幾年科技將進一步發展。"
+},
+"difference": {
+"ex": "There is a big difference between these two books.",
+"exZh": "這兩本書之間有很大的差異。"
+},
+"disappear": {
+"ex": "The magician made the rabbit disappear from box.",
+"exZh": "魔術師讓兔子從盒子裡消失了。"
+},
+"disappoint": {
+"ex": "I was disappointed when my friend cancelled party.",
+"exZh": "當我的朋友取消派對時我很失望。"
+},
+"discover": {
+"ex": "Columbus discovered America in fourteen ninety-two.",
+"exZh": "哥倫布在1492年發現了美洲。"
+},
+"discuss": {
+"ex": "Let's discuss the homework in our group together.",
+"exZh": "讓我們一起在小組裡討論功課。"
+},
+"distance": {
+"ex": "The distance between home and school is far.",
+"exZh": "家和學校之間的距離很遠。"
+},
+"downtown": {
+"ex": "Many people work and shop downtown every day.",
+"exZh": "許多人每天在市中心工作和購物。"
+},
+"education": {
+"ex": "Good education helps students achieve their dreams.",
+"exZh": "好的教育幫助學生實現他們的夢想。"
+},
+"effect": {
+"ex": "Exercise has a good effect on your health.",
+"exZh": "運動對你的健康有很好的效果。"
+},
+"effort": {
+"ex": "He studied hard with great effort for the test.",
+"exZh": "他為了考試而加倍努力讀書。"
+},
+"embarrass": {
+"ex": "I made a silly mistake and felt very embarrassed.",
+"exZh": "我犯了一個愚蠢的錯誤，感到非常尷尬。"
+},
+"encourage": {
+"ex": "The teacher encouraged me to try my best.",
+"exZh": "老師鼓勵我要盡力而為。"
+},
+"environment": {
+"ex": "We need to protect our natural environment.",
+"exZh": "我們需要保護自然環境。"
+},
+"especially": {
+"ex": "I like all sports, especially basketball and soccer.",
+"exZh": "我喜歡所有運動，尤其是籃球和足球。"
+},
+"event": {
+"ex": "There's a school event happening this Friday.",
+"exZh": "這週五有一場學校活動。"
+},
+"excellent": {
+"ex": "Your excellent work deserves a good grade.",
+"exZh": "你優秀的作品值得好成績。"
+},
+"experience": {
+"ex": "I had a wonderful experience traveling in Japan.",
+"exZh": "我在日本旅行有了很棒的體驗。"
+},
+"explain": {
+"ex": "Can you explain this difficult math problem?",
+"exZh": "你能解釋這個困難的數學題嗎？"
+},
+"express": {
+"ex": "She expressed her feelings in a kind way.",
+"exZh": "她以親切的方式表達了她的感受。"
+},
+"fact": {
+"ex": "It is a fact that the Earth is round.",
+"exZh": "地球是圓的是一個事實。"
+},
+"fail": {
+"ex": "I tried my best, but I failed the test.",
+"exZh": "我盡力了，但我考試不及格。"
+},
+"fair": {
+"ex": "The teacher gave us a fair chance to redo the homework.",
+"exZh": "老師給了我們一個公平的重做功課機會。"
+},
+"fantastic": {
+"ex": "The vacation was fantastic and unforgettable.",
+"exZh": "假期極好且難以忘懷。"
+},
+"finally": {
+"ex": "Finally, we finished the project after hard work.",
+"exZh": "最終，我們在努力之後完成了專案。"
+},
+"foreign": {
+"ex": "He is interested in learning foreign languages.",
+"exZh": "他對學習外國語言感興趣。"
+},
+"forever": {
+"ex": "I will remember this beautiful day forever.",
+"exZh": "我會永遠記得這個美好的一天。"
+},
+"fortunately": {
+"ex": "Fortunately, no one was hurt in the accident.",
+"exZh": "幸運地，事故中沒有人受傷。"
+},
+"gather": {
+"ex": "All the students gathered in the gymnasium.",
+"exZh": "所有學生在體育館裡聚集。"
+},
+"general": {
+"ex": "In general, our class likes pizza and hamburgers.",
+"exZh": "一般而言，我們班喜歡披薩和漢堡。"
+},
+"goal": {
+"ex": "My goal is to become a good English teacher.",
+"exZh": "我的目標是成為一位好英語老師。"
+},
+"gradually": {
+"ex": "The flowers gradually bloomed as spring came.",
+"exZh": "隨著春天到來，花朵逐漸綻放。"
+},
+"grateful": {
+"ex": "I am grateful for your help and support.",
+"exZh": "我對你的幫助和支持感到感激。"
+},
+"habit": {
+"ex": "My bad habit is staying up too late.",
+"exZh": "我的壞習慣是熬夜太晚。"
+},
+"happen": {
+"ex": "What happened to you yesterday afternoon?",
+"exZh": "昨天下午你身上發生了什麼？"
+},
+"hardly": {
+"ex": "I hardly ever eat fast food these days.",
+"exZh": "我這些天幾乎不吃速食。"
+},
+"harm": {
+"ex": "Smoking is harmful to our health.",
+"exZh": "吸菸對我們的健康有害。"
+},
+"honest": {
+"ex": "An honest person tells the truth always.",
+"exZh": "誠實的人總是說實話。"
+},
+"humor": {
+"ex": "His humor made all the classmates laugh.",
+"exZh": "他的幽默使所有同學都笑了。"
+},
+"imagine": {
+"ex": "Try to imagine yourself living on a island.",
+"exZh": "試著想像自己住在島嶼上。"
+},
+"improve": {
+"ex": "Exercise and good food can improve your health.",
+"exZh": "運動和好食物能改善你的健康。"
+},
+"include": {
+"ex": "The price includes free delivery to your home.",
+"exZh": "價格包括免費送到你家。"
+},
+"increase": {
+"ex": "The population in the city increases every year.",
+"exZh": "城市人口每年都在增加。"
+},
+"indeed": {
+"ex": "This book is indeed very interesting and helpful.",
+"exZh": "這本書確實非常有趣且有幫助。"
+},
+"information": {
+"ex": "I need more information about the summer camp.",
+"exZh": "我需要更多關於夏令營的資訊。"
+},
+"instead": {
+"ex": "I don't like coffee. Instead, I prefer tea.",
+"exZh": "我不喜歡咖啡。反而，我更喜歡茶。"
+},
+"introduce": {
+"ex": "Let me introduce my best friend to you.",
+"exZh": "讓我把我最好的朋友介紹給你。"
+},
+"invite": {
+"ex": "I invited my friends to my birthday party.",
+"exZh": "我邀請了朋友參加我的生日派對。"
+},
+"island": {
+"ex": "We went to a beautiful island for vacation.",
+"exZh": "我們去了一個美麗的島嶼渡假。"
+},
+"knowledge": {
+"ex": "Reading books helps increase our knowledge.",
+"exZh": "閱讀書籍幫助我們增加知識。"
+},
+"lack": {
+"ex": "The school lacks enough funds for new computers.",
+"exZh": "學校缺乏足夠的資金購買新電腦。"
+},
+"local": {
+"ex": "The local market sells fresh vegetables daily.",
+"exZh": "當地市場每天銷售新鮮蔬菜。"
+},
+"magazine": {
+"ex": "I read magazine articles about science and art.",
+"exZh": "我閱讀關於科學和藝術的雜誌文章。"
+},
+"manage": {
+"ex": "Can you manage these three tasks at once?",
+"exZh": "你能同時管理這三項任務嗎？"
+},
+"manner": {
+"ex": "Please speak in a polite manner to others.",
+"exZh": "請以禮貌的方式與他人交談。"
+},
+"mention": {
+"ex": "She mentioned the problem in her speech.",
+"exZh": "她在演講中提及了那個問題。"
+},
+"method": {
+"ex": "The best method to study is by practicing every day.",
+"exZh": "最好的學習方法就是每天練習。"
+},
+"mistake": {
+"ex": "I made a mistake on the math test yesterday.",
+"exZh": "我昨天在數學考試中犯了一個錯誤。"
+},
+"modern": {
+"ex": "She has a modern apartment in the city center.",
+"exZh": "她在市中心有一套現代化的公寓。"
+},
+"moreover": {
+"ex": "Moreover, he is also a very talented musician.",
+"exZh": "此外，他也是一位非常有才華的音樂家。"
+},
+"mostly": {
+"ex": "The children mostly like playing video games.",
+"exZh": "孩子們主要喜歡玩電子遊戲。"
+},
+"nature": {
+"ex": "We should appreciate the beauty of nature.",
+"exZh": "我們應該欣賞大自然的美麗。"
+},
+"necessary": {
+"ex": "It is necessary to wear a seatbelt in the car.",
+"exZh": "在汽車裡繫安全帶是必要的。"
+},
+"negative": {
+"ex": "Don't have a negative attitude about the task.",
+"exZh": "不要對這個任務有負面態度。"
+},
+"nervous": {
+"ex": "Mary feels nervous before her English presentation.",
+"exZh": "瑪麗在英語演講前感到緊張。"
+},
+"notice": {
+"ex": "Did you notice the new student in our class?",
+"exZh": "你注意到我們班級的新同學嗎？"
+},
+"opportunity": {
+"ex": "This is a good opportunity to learn new skills.",
+"exZh": "這是學習新技能的好機會。"
+},
+"patient": {
+"ex": "The patient waited patiently for the doctor.",
+"exZh": "病人耐心地等待醫生。"
+},
+"perform": {
+"ex": "She performs excellently in school concerts.",
+"exZh": "她在學校音樂會上表演很出色。"
+},
+"personality": {
+"ex": "Her friendly personality makes everyone like her.",
+"exZh": "她友善的個性使每個人都喜歡她。"
+},
+"polite": {
+"ex": "A polite child always says thank you and please.",
+"exZh": "有禮貌的孩子總是說謝謝和請。"
+},
+"pollution": {
+"ex": "Air pollution is a serious problem in big cities.",
+"exZh": "空氣污染是大城市的一個嚴重問題。"
+},
+"positive": {
+"ex": "Try to think positive even when things are difficult.",
+"exZh": "即使事情很困難，也要嘗試保持積極思維。"
+},
+"prepare": {
+"ex": "We need to prepare well for the final exam.",
+"exZh": "我們需要為期末考試做好充分準備。"
+},
+"pressure": {
+"ex": "High school students often feel pressure about grades.",
+"exZh": "高中學生經常感受到來自成績的壓力。"
+},
+"prevent": {
+"ex": "Good health habits prevent many diseases.",
+"exZh": "良好的健康習慣可以預防許多疾病。"
+},
+"probably": {
+"ex": "It will probably rain tomorrow, so bring an umbrella.",
+"exZh": "明天可能會下雨，所以帶把傘。"
+},
+"progress": {
+"ex": "He has made great progress in English this year.",
+"exZh": "他今年在英語方面取得了很大進步。"
+},
+"project": {
+"ex": "Our science project is due next Monday.",
+"exZh": "我們的科學專案下週一就要交。"
+},
+"protect": {
+"ex": "We must protect the environment for future generations.",
+"exZh": "我們必須為子孫後代保護環境。"
+},
+"provide": {
+"ex": "The school provides free breakfast for all students.",
+"exZh": "學校為所有學生提供免費早餐。"
+},
+"punish": {
+"ex": "Teachers sometimes punish students for misbehavior.",
+"exZh": "老師有時會因為不當行為懲罰學生。"
+},
+"realize": {
+"ex": "I finally realized the importance of studying hard.",
+"exZh": "我終於意識到努力學習的重要性。"
+},
+"recently": {
+"ex": "She moved to a new house recently.",
+"exZh": "她最近搬到了新房子。"
+},
+"recycle": {
+"ex": "We should recycle plastic bags to help Earth.",
+"exZh": "我們應該回收塑膠袋來幫助地球。"
+},
+"reduce": {
+"ex": "We need to reduce the amount of trash we produce.",
+"exZh": "我們需要減少產生的垃圾量。"
+},
+"refuse": {
+"ex": "He refused to eat vegetables at dinner time.",
+"exZh": "他拒絕在晚餐時吃蔬菜。"
+},
+"relationship": {
+"ex": "A good relationship between friends is very important.",
+"exZh": "朋友之間的良好關係非常重要。"
+},
+"relaxed": {
+"ex": "Tom feels relaxed after a day at the beach.",
+"exZh": "湯姆在海灘待了一天後感到放鬆。"
+},
+"respect": {
+"ex": "We should respect our teachers and parents always.",
+"exZh": "我們應該始終尊重我們的老師和父母。"
+},
+"responsible": {
+"ex": "A responsible student always finishes homework on time.",
+"exZh": "負責任的學生總是按時完成功課。"
+},
+"result": {
+"ex": "The result of the game was a tie between teams.",
+"exZh": "比賽的結果是兩隊平手。"
+},
+"return": {
+"ex": "She will return home from school at five o'clock.",
+"exZh": "她會在五點鐘從學校返回家裡。"
+},
+"review": {
+"ex": "Let's review the grammar before the test tomorrow.",
+"exZh": "讓我們在明天考試前複習語法。"
+},
+"role": {
+"ex": "She played the main role in the school play.",
+"exZh": "她在學校話劇中扮演主角。"
+},
+"scene": {
+"ex": "The scene where they meet is very romantic.",
+"exZh": "他們見面的場景非常浪漫。"
+},
+"schedule": {
+"ex": "Check your class schedule to find your next class.",
+"exZh": "查看你的課程表找到你的下一堂課。"
+},
+"secret": {
+"ex": "I have a secret that I cannot tell anyone.",
+"exZh": "我有一個不能告訴任何人的秘密。"
+},
+"select": {
+"ex": "You can select any toppings you want for pizza.",
+"exZh": "你可以為披薩選擇任何你想要的配料。"
+},
+"serious": {
+"ex": "He takes his studies very seriously every day.",
+"exZh": "他每天都很認真地對待他的學習。"
+},
+"several": {
+"ex": "There are several reasons why I like this movie.",
+"exZh": "我喜歡這部電影有幾個原因。"
+},
+"share": {
+"ex": "I like to share my lunch with my best friend.",
+"exZh": "我喜歡和我最要好的朋友分享午餐。"
+},
+"situation": {
+"ex": "The situation in the classroom became very serious.",
+"exZh": "教室裡的情況變得非常嚴肅。"
+},
+"skill": {
+"ex": "Playing basketball requires good skill and practice.",
+"exZh": "打籃球需要良好的技能和練習。"
+},
+"smart": {
+"ex": "Tom is a smart student who always gets good grades.",
+"exZh": "湯姆是一個聰明的學生，總是得到好成績。"
+},
+"solve": {
+"ex": "We can solve this math problem together very easily.",
+"exZh": "我們可以很輕鬆地一起解決這道數學問題。"
+},
+"spirit": {
+"ex": "The team's winning spirit helped them become champions.",
+"exZh": "球隊的必勝精神幫助他們成為冠軍。"
+},
+"stress": {
+"ex": "Too much stress makes students feel tired and worried.",
+"exZh": "太多壓力讓學生感到疲倦和擔心。"
+},
+"strict": {
+"ex": "My teacher is strict, but we all respect her rules.",
+"exZh": "我的老師很嚴格，但我們都尊重她的規則。"
+},
+"success": {
+"ex": "Hard work leads to success in school and life.",
+"exZh": "努力工作在學校和生活中導致成功。"
+},
+"suggest": {
+"ex": "The teacher suggests that we study every night.",
+"exZh": "老師建議我們每晚都要學習。"
+},
+"support": {
+"ex": "Your family will support you in your dreams.",
+"exZh": "你的家人會在你的夢想中支持你。"
+},
+"suppose": {
+"ex": "I suppose you will come to the party tomorrow.",
+"exZh": "我認為你明天會來參加派對。"
+},
+"technology": {
+"ex": "Technology changes our lives in many useful ways.",
+"exZh": "科技以許多有用的方式改變我們的生活。"
+},
+"therefore": {
+"ex": "The restaurant was closed; therefore, we went home.",
+"exZh": "餐廳關門了；因此，我們回家了。"
+},
+"though": {
+"ex": "Though the test was difficult, I passed it.",
+"exZh": "雖然測驗很難，但我通過了它。"
+},
+"through": {
+"ex": "We walked through the park after school today.",
+"exZh": "放學後我們今天穿過公園走著。"
+},
+"throughout": {
+"ex": "She stayed happy throughout the entire difficult year.",
+"exZh": "在整個困難的一年中她始終保持快樂。"
+},
+"toward": {
+"ex": "The students walked toward the playground excited.",
+"exZh": "學生們興高采烈地朝操場走去。"
+},
+"tradition": {
+"ex": "My family has a tradition of eating dumplings.",
+"exZh": "我的家人有吃餃子的傳統。"
+},
+"trust": {
+"ex": "I trust my best friend with all my secrets.",
+"exZh": "我信任我最好的朋友關於所有我的祕密。"
+},
+"truth": {
+"ex": "The truth is that everyone makes mistakes sometimes.",
+"exZh": "真相是每個人有時都會犯錯誤。"
+},
+"typical": {
+"ex": "That is a typical rainy day in Taiwan summer.",
+"exZh": "那是台灣夏天典型的下雨天。"
+},
+"unfortunately": {
+"ex": "Unfortunately, I could not attend the concert yesterday.",
+"exZh": "不幸地，我昨天無法參加演唱會。"
+},
+"unique": {
+"ex": "Each person has their unique talent and special skill.",
+"exZh": "每個人都有自己獨特的才能和特殊技能。"
+},
+"upset": {
+"ex": "Mom was upset when I did not do my homework.",
+"exZh": "當我沒有做功課時媽媽感到心煩。"
+},
+"value": {
+"ex": "Education has great value for our future success.",
+"exZh": "教育對我們的未來成功有很大價值。"
+},
+"various": {
+"ex": "There are various kinds of fruit in the market.",
+"exZh": "市場上有各種各樣的水果。"
+},
+"view": {
+"ex": "Everyone has a different view about this important issue.",
+"exZh": "每個人對這個重要問題都有不同的看法。"
+},
+"volunteer": {
+"ex": "She volunteers at the hospital every weekend to help.",
+"exZh": "她每個週末在醫院做志工來幫助。"
+},
+"waste": {
+"ex": "Do not waste water and electricity in your home.",
+"exZh": "不要在家裡浪費水和電。"
+},
+"whether": {
+"ex": "Whether it rains or not, we will have the game.",
+"exZh": "無論是否下雨，我們都會進行比賽。"
+},
+"widely": {
+"ex": "English is widely spoken around the whole world.",
+"exZh": "英語在世界各地被廣泛使用。"
+},
+"willing": {
+"ex": "I am willing to help you with your English homework.",
+"exZh": "我願意幫助你做英文功課。"
+},
+"wisdom": {
+"ex": "We need wisdom to make good decisions in life.",
+"exZh": "我們需要智慧在生活中做出好決定。"
+},
+"within": {
+"ex": "You must finish your work within two hours today.",
+"exZh": "你必須在兩個小時內今天完成你的工作。"
+},
+"without": {
+"ex": "It is impossible to live without food and water.",
+"exZh": "沒有食物和水不可能活著。"
+},
+"absent": {
+"ex": "Tom was absent from school today.",
+"exZh": "湯姆今天沒來學校。"
+},
+"accident": {
+"ex": "There was a car accident near my home.",
+"exZh": "我家附近發生了一場車禍。"
+},
+"action": {
+"ex": "We need to take action right now.",
+"exZh": "我們現在就需要採取行動。"
+},
+"active": {
+"ex": "My sister is very active in sports.",
+"exZh": "我姊姊在運動方面很積極。"
+},
+"activity": {
+"ex": "Swimming is my favorite summer activity.",
+"exZh": "游泳是我最喜歡的夏日活動。"
+},
+"actor": {
+"ex": "He wants to be a famous actor.",
+"exZh": "他想成為一位知名的男演員。"
+},
+"actress": {
+"ex": "That actress is in many TV shows.",
+"exZh": "那位女演員演過很多電視節目。"
+},
+"actually": {
+"ex": "I actually finished my homework already.",
+"exZh": "我其實已經做完功課了。"
+},
+"address": {
+"ex": "Please write your home address here.",
+"exZh": "請在這裡寫下你的住家地址。"
+},
+"admire": {
+"ex": "I really admire my English teacher.",
+"exZh": "我真的很欽佩我的英文老師。"
+},
+"adult": {
+"ex": "Every adult must pay for the ticket.",
+"exZh": "每位成人都必須付票錢。"
+},
+"advertisement": {
+"ex": "I saw a funny advertisement on TV.",
+"exZh": "我在電視上看到一則有趣的廣告。"
+},
+"advice": {
+"ex": "My mother gave me good advice.",
+"exZh": "我媽媽給了我很好的勸告。"
+},
+"affect": {
+"ex": "The rain may affect our school trip.",
+"exZh": "這場雨可能會影響我們的校外旅行。"
+},
+"afternoon": {
+"ex": "We have music class in the afternoon.",
+"exZh": "我們下午有音樂課。"
+},
+"against": {
+"ex": "He leaned against the classroom wall.",
+"exZh": "他靠著教室的牆壁。"
+},
+"ahead": {
+"ex": "Walk ahead and turn left.",
+"exZh": "向前走然後左轉。"
+},
+"aim": {
+"ex": "My aim is to pass the exam.",
+"exZh": "我的目標是通過考試。"
+},
+"airplane": {
+"ex": "The airplane is flying over the city.",
+"exZh": "飛機正飛越這座城市。"
+},
+"airport": {
+"ex": "We met my uncle at the airport.",
+"exZh": "我們在機場接到了我叔叔。"
+},
+"alarm": {
+"ex": "The fire alarm rang very loudly.",
+"exZh": "火災警報器響得很大聲。"
+},
+"album": {
+"ex": "She put the photos in her album.",
+"exZh": "她把照片放進她的相簿裡。"
+},
+"alike": {
+"ex": "The twins look very much alike.",
+"exZh": "這對雙胞胎長得非常相像。"
+},
+"alive": {
+"ex": "The little bird is still alive.",
+"exZh": "那隻小鳥還活著。"
+},
+"almost": {
+"ex": "I almost missed the school bus.",
+"exZh": "我差點錯過了校車。"
+},
+"alone": {
+"ex": "She likes to study alone at home.",
+"exZh": "她喜歡獨自在家讀書。"
+},
+"along": {
+"ex": "We walked along the river yesterday.",
+"exZh": "我們昨天沿著河邊散步。"
+},
+"aloud": {
+"ex": "Please read the story aloud.",
+"exZh": "請大聲地把故事念出來。"
+},
+"already": {
+"ex": "I have already eaten my lunch.",
+"exZh": "我已經吃過午餐了。"
+},
+"altogether": {
+"ex": "The books cost five hundred dollars altogether.",
+"exZh": "這些書總共五百元。"
+},
+"ambulance": {
+"ex": "The ambulance took him to the hospital.",
+"exZh": "救護車把他送到醫院。"
+},
+"among": {
+"ex": "She sat among her good friends.",
+"exZh": "她坐在她的好朋友之間。"
+},
+"ancient": {
+"ex": "We learned about ancient China today.",
+"exZh": "我們今天學到了古代中國。"
+},
+"angel": {
+"ex": "The girl drew a beautiful angel.",
+"exZh": "那女孩畫了一個美麗的天使。"
+},
+"anger": {
+"ex": "He could not hide his anger.",
+"exZh": "他無法隱藏他的憤怒。"
+},
+"angry": {
+"ex": "My dad was angry about the mess.",
+"exZh": "我爸爸對這團亂很生氣。"
+},
+"ankle": {
+"ex": "I hurt my ankle during the game.",
+"exZh": "我在比賽中弄傷了腳踝。"
+},
+"another": {
+"ex": "Can I have another piece of cake?",
+"exZh": "我可以再吃另一塊蛋糕嗎？"
+},
+"ant": {
+"ex": "A small ant is on my desk.",
+"exZh": "一隻小螞蟻在我的桌上。"
+},
+"anyone": {
+"ex": "Does anyone know the answer?",
+"exZh": "有任何人知道答案嗎？"
+},
+"anything": {
+"ex": "I didn't buy anything at the store.",
+"exZh": "我在店裡沒有買任何東西。"
+},
+"apartment": {
+"ex": "They live in a small apartment.",
+"exZh": "他們住在一間小公寓裡。"
+},
+"apologize": {
+"ex": "You should apologize to your friend.",
+"exZh": "你應該向你的朋友道歉。"
+},
+"april": {
+"ex": "My birthday is in April.",
+"exZh": "我的生日在四月。"
+},
+"area": {
+"ex": "This area has many good restaurants.",
+"exZh": "這個地區有許多好餐廳。"
+},
+"arm": {
+"ex": "He broke his arm last week.",
+"exZh": "他上週弄斷了手臂。"
+},
+"armchair": {
+"ex": "Grandpa fell asleep in the armchair.",
+"exZh": "爺爺在扶手椅上睡著了。"
+},
+"army": {
+"ex": "His brother joined the army.",
+"exZh": "他哥哥加入了軍隊。"
+},
+"around": {
+"ex": "There are many shops around here.",
+"exZh": "這附近有許多商店。"
+},
+"arrange": {
+"ex": "Let's arrange the chairs for the party.",
+"exZh": "我們來安排派對的椅子吧。"
+},
+"art": {
+"ex": "I love drawing in art class at school.",
+"exZh": "我喜歡在學校的美術課畫畫。"
+},
+"artist": {
+"ex": "My sister wants to be a famous artist.",
+"exZh": "我姊姊想成為一位有名的藝術家。"
+},
+"as": {
+"ex": "She works as a teacher in our town.",
+"exZh": "她在我們鎮上當老師。"
+},
+"asleep": {
+"ex": "The baby is asleep on the soft bed.",
+"exZh": "嬰兒在柔軟的床上睡著了。"
+},
+"assistant": {
+"ex": "The shop assistant helped me find a shirt.",
+"exZh": "店員幫我找到一件襯衫。"
+},
+"assume": {
+"ex": "I assume she is at home now.",
+"exZh": "我假設她現在在家。"
+},
+"attack": {
+"ex": "The dog's attack scared the little boy.",
+"exZh": "那隻狗的攻擊嚇到了小男孩。"
+},
+"august": {
+"ex": "My birthday is in August every year.",
+"exZh": "我的生日每年都在八月。"
+},
+"aunt": {
+"ex": "My aunt baked a cake for us.",
+"exZh": "我姑媽為我們烤了一個蛋糕。"
+},
+"autumn": {
+"ex": "The leaves turn red in autumn.",
+"exZh": "葉子在秋天變紅。"
+},
+"available": {
+"ex": "This book is not available right now.",
+"exZh": "這本書現在無法取得。"
+},
+"away": {
+"ex": "My friend lives far away from school.",
+"exZh": "我朋友住得離學校很遠。"
+},
+"baby": {
+"ex": "The baby is crying for her mother.",
+"exZh": "嬰兒在哭著找媽媽。"
+},
+"baby sitter": {
+"ex": "Our baby sitter plays games with us.",
+"exZh": "我們的保母陪我們玩遊戲。"
+},
+"backward(s)": {
+"ex": "He took two steps backward(s) slowly.",
+"exZh": "他慢慢地向後退了兩步。"
+},
+"badminton": {
+"ex": "We play badminton in the park together.",
+"exZh": "我們一起在公園打羽毛球。"
+},
+"bag": {
+"ex": "I put my books in my school bag.",
+"exZh": "我把書放進我的書包裡。"
+},
+"bake": {
+"ex": "My mom likes to bake bread on Sunday.",
+"exZh": "我媽媽喜歡在星期天烤麵包。"
+},
+"bakery": {
+"ex": "We buy fresh bread at the bakery.",
+"exZh": "我們在麵包店買新鮮的麵包。"
+},
+"balcony": {
+"ex": "She waters the flowers on the balcony.",
+"exZh": "她在陽臺上澆花。"
+},
+"balloon": {
+"ex": "The child held a red balloon tightly.",
+"exZh": "那個小孩緊緊握著一顆紅氣球。"
+},
+"banana": {
+"ex": "I eat a banana for breakfast every day.",
+"exZh": "我每天早餐吃一根香蕉。"
+},
+"band": {
+"ex": "My brother plays drums in a band.",
+"exZh": "我哥哥在一個樂團裡打鼓。"
+},
+"barbecue": {
+"ex": "We barbecue meat in the backyard tonight.",
+"exZh": "我們今晚在後院火烤肉。"
+},
+"barber": {
+"ex": "The barber cut my dad's hair short.",
+"exZh": "理髮師把我爸爸的頭髮剪短了。"
+},
+"bark": {
+"ex": "Dogs often bark at strangers loudly.",
+"exZh": "狗常常對陌生人大聲吠叫。"
+},
+"base": {
+"ex": "Math is the base of many subjects.",
+"exZh": "數學是許多科目的基礎。"
+},
+"baseball": {
+"ex": "We watch a baseball game after school.",
+"exZh": "我們放學後看一場棒球比賽。"
+},
+"basement": {
+"ex": "We keep old boxes in the basement.",
+"exZh": "我們把舊箱子放在地下室。"
+},
+"basket": {
+"ex": "She put the apples in the basket.",
+"exZh": "她把蘋果放進籃子裡。"
+},
+"bat": {
+"ex": "A bat flew out of the dark cave.",
+"exZh": "一隻蝙蝠從黑暗的洞穴飛出來。"
+},
+"bath": {
+"ex": "I take a warm bath before bed.",
+"exZh": "我睡前洗個溫水澡。"
+},
+"bathe": {
+"ex": "She bathes her little dog every week.",
+"exZh": "她每週幫她的小狗洗澡。"
+},
+"bathroom": {
+"ex": "May I go to the bathroom, please?",
+"exZh": "請問我可以去廁所嗎？"
+},
+"beach": {
+"ex": "We build sandcastles on the beach.",
+"exZh": "我們在沙灘上堆沙堡。"
+},
+"bean": {
+"ex": "I don't like green beans very much.",
+"exZh": "我不太喜歡四季豆。"
+},
+"bear": {
+"ex": "The big bear is sleeping in winter.",
+"exZh": "那隻大熊在冬天睡覺。"
+},
+"beard": {
+"ex": "My grandpa has a long white beard.",
+"exZh": "我爺爺有一把長長的白鬍鬚。"
+},
+"beat": {
+"ex": "The rain beat against my window all night.",
+"exZh": "雨整晚拍打著我的窗戶。"
+},
+"beautiful": {
+"ex": "The garden looks very beautiful in spring.",
+"exZh": "這座花園在春天看起來很美麗。"
+},
+"beauty": {
+"ex": "We enjoyed the beauty of the mountains.",
+"exZh": "我們欣賞了山脈的美。"
+},
+"bed": {
+"ex": "I go to bed at ten every night.",
+"exZh": "我每晚十點上床睡覺。"
+},
+"bedroom": {
+"ex": "My bedroom has a big blue window.",
+"exZh": "我的臥室有一扇藍色大窗戶。"
+},
+"bee": {
+"ex": "A bee is flying around the flower.",
+"exZh": "一隻蜜蜂在花朵旁飛來飛去。"
+},
+"beef": {
+"ex": "My father cooked beef noodles for dinner.",
+"exZh": "我爸爸煮了牛肉麵當晚餐。"
+},
+"beer": {
+"ex": "My uncle drinks beer after work.",
+"exZh": "我叔叔下班後喝啤酒。"
+},
+"beginner": {
+"ex": "I am still a beginner at the piano.",
+"exZh": "我彈鋼琴還是個初學者。"
+},
+"beginning": {
+"ex": "At the beginning, the movie was boring.",
+"exZh": "一開始，這部電影很無聊。"
+},
+"behave": {
+"ex": "The students behave well in class.",
+"exZh": "學生們在課堂上表現良好。"
+},
+"behind": {
+"ex": "My little brother is hiding behind.",
+"exZh": "我弟弟躲在後面。"
+},
+"bell": {
+"ex": "The school bell rings at eight every morning.",
+"exZh": "學校的鈴每天早上八點響。"
+},
+"below": {
+"ex": "My classroom is on the floor below.",
+"exZh": "我的教室在下面那一層。"
+},
+"belt": {
+"ex": "He wears a black belt with his pants.",
+"exZh": "他繫著一條黑色皮帶配長褲。"
+},
+"bench": {
+"ex": "We sat on a bench in the park.",
+"exZh": "我們坐在公園的長凳上。"
+},
+"besides": {
+"ex": "I like math; besides, I enjoy science.",
+"exZh": "我喜歡數學；此外，我也喜歡科學。"
+},
+"beyond": {
+"ex": "The store is just beyond the school gate.",
+"exZh": "那家店就在校門超出一點的地方。"
+},
+"bicycle": {
+"ex": "I ride my bicycle to school every day.",
+"exZh": "我每天騎腳踏車上學。"
+},
+"bill": {
+"ex": "My father paid the dinner bill last night.",
+"exZh": "昨晚我爸爸付了晚餐的帳單。"
+},
+"biology": {
+"ex": "We study plants and animals in biology class.",
+"exZh": "我們在生物學課學習植物和動物。"
+},
+"bite": {
+"ex": "Be careful, the dog may bite you.",
+"exZh": "小心，那隻狗可能會咬你。"
+},
+"bitter": {
+"ex": "Losing the game was a bitter memory.",
+"exZh": "輸掉比賽是個痛苦的回憶。"
+},
+"blackboard": {
+"ex": "The teacher wrote the date on the blackboard.",
+"exZh": "老師把日期寫在黑板上。"
+},
+"blame": {
+"ex": "Please don't blame me for the mistake.",
+"exZh": "請不要為這個錯誤責怪我。"
+},
+"blank": {
+"ex": "Write your name on the blank line.",
+"exZh": "在空白的橫線上寫下你的名字。"
+},
+"blanket": {
+"ex": "She covered the baby with a warm blanket.",
+"exZh": "她用溫暖的毯子蓋住寶寶。"
+},
+"blind": {
+"ex": "The blind man walks with a white cane.",
+"exZh": "那位失明的男士用白色拐杖走路。"
+},
+"block": {
+"ex": "The library is two blocks from here.",
+"exZh": "圖書館離這裡有兩個街區。"
+},
+"blood": {
+"ex": "He gave some blood at the hospital.",
+"exZh": "他在醫院捐了一些血。"
+},
+"bloody": {
+"ex": "The movie had too many bloody scenes.",
+"exZh": "那部電影有太多血腥的畫面。"
+},
+"blow": {
+"ex": "The strong wind can blow the leaves away.",
+"exZh": "強風會把樹葉吹走。"
+},
+"boat": {
+"ex": "We took a boat across the lake.",
+"exZh": "我們搭船橫渡湖面。"
+},
+"body": {
+"ex": "Exercise keeps your body strong and healthy.",
+"exZh": "運動讓你的身體強壯又健康。"
+},
+"boil": {
+"ex": "Please boil the water before you drink it.",
+"exZh": "喝之前請先把水燒開。"
+},
+"bomb": {
+"ex": "The old bomb was found near the river.",
+"exZh": "那顆舊炸彈在河邊被發現。"
+},
+"bone": {
+"ex": "The dog likes to chew on a bone.",
+"exZh": "那隻狗喜歡啃骨頭。"
+},
+"bookcase": {
+"ex": "I put my comic books in the bookcase.",
+"exZh": "我把漫畫書放進書櫥裡。"
+},
+"born": {
+"ex": "She is a born singer with a sweet voice.",
+"exZh": "她是個天生的歌手，有甜美的嗓音。"
+},
+"borrow": {
+"ex": "May I borrow your pencil for a moment?",
+"exZh": "我可以跟你借一下鉛筆嗎？"
+},
+"boss": {
+"ex": "My uncle is the boss of a small shop.",
+"exZh": "我叔叔是一家小店的老闆。"
+},
+"both": {
+"ex": "Both of my parents are teachers.",
+"exZh": "我的父母兩者都是老師。"
+},
+"bottle": {
+"ex": "I drink a bottle of water after running.",
+"exZh": "跑步後我喝一瓶水。"
+},
+"bottom": {
+"ex": "My socks are at the bottom of the bag.",
+"exZh": "我的襪子在袋子的底部。"
+},
+"bow": {
+"ex": "He shot an arrow with his new bow.",
+"exZh": "他用他的新弓射出一支箭。"
+},
+"bowl": {
+"ex": "I eat a bowl of rice for lunch.",
+"exZh": "我午餐吃一碗飯。"
+},
+"bowling": {
+"ex": "We went bowling with friends on Sunday.",
+"exZh": "星期天我們和朋友去打保齡球。"
+},
+"box": {
+"ex": "She kept her old photos in a box.",
+"exZh": "她把舊照片放在一個箱子裡。"
+},
+"brain": {
+"ex": "Your brain helps you think and learn.",
+"exZh": "你的腦幫助你思考和學習。"
+},
+"branch": {
+"ex": "The bank opened a new branch downtown.",
+"exZh": "那家銀行在市中心開了一家新分店。"
+},
+"brand": {
+"ex": "This is my favorite brand of shoes.",
+"exZh": "這是我最喜歡的鞋子品牌。"
+},
+"breakfast": {
+"ex": "I eat eggs and bread for breakfast.",
+"exZh": "我早餐吃蛋和麵包。"
+},
+"brick": {
+"ex": "The workers built the wall with red bricks.",
+"exZh": "工人用紅磚塊砌牆。"
+},
+"bridge": {
+"ex": "We walked across the bridge to the park.",
+"exZh": "我們走過橋到公園。"
+},
+"brief": {
+"ex": "The teacher gave a brief talk before class.",
+"exZh": "老師在上課前做了簡短的談話。"
+},
+"bright": {
+"ex": "The sun is very bright this morning.",
+"exZh": "今天早上太陽非常明亮。"
+},
+"bring": {
+"ex": "Please bring your textbook to class tomorrow.",
+"exZh": "明天請帶你的課本來上課。"
+},
+"broad": {
+"ex": "There is a broad river near my home.",
+"exZh": "我家附近有一條寬闊的河。"
+},
+"broadcast": {
+"ex": "They will broadcast the game on TV tonight.",
+"exZh": "他們今晚會在電視上廣播這場比賽。"
+},
+"brown": {
+"ex": "She wears a brown coat in winter.",
+"exZh": "她冬天穿一件棕色的外套。"
+},
+"brunch": {
+"ex": "We had brunch together on Sunday morning.",
+"exZh": "星期天早上我們一起吃早午餐。"
+},
+"brush": {
+"ex": "I clean my shoes with an old brush.",
+"exZh": "我用一支舊刷子清潔我的鞋子。"
+},
+"bucket": {
+"ex": "She filled the bucket with clean water.",
+"exZh": "她在桶子裡裝滿了乾淨的水。"
+},
+"buffet": {
+"ex": "We ate a lot at the buffet.",
+"exZh": "我們在自助餐吃了很多。"
+},
+"bug": {
+"ex": "A small bug landed on my book.",
+"exZh": "一隻小昆蟲停在我的書上。"
+},
+"building": {
+"ex": "That building is very tall and new.",
+"exZh": "那棟建築物又高又新。"
+},
+"bun": {
+"ex": "I had a warm bun for breakfast.",
+"exZh": "我早餐吃了一個熱圓麵包。"
+},
+"bundle": {
+"ex": "He carried a bundle of old newspapers.",
+"exZh": "他抱著一包舊報紙。"
+},
+"burn": {
+"ex": "Be careful not to burn the bread.",
+"exZh": "小心別把麵包燒焦了。"
+},
+"burst": {
+"ex": "The balloon may burst very soon.",
+"exZh": "那個氣球可能很快就會爆裂。"
+},
+"business": {
+"ex": "My uncle runs a small business.",
+"exZh": "我叔叔經營一家小商業。"
+},
+"businessman": {
+"ex": "The businessman flies to Japan every month.",
+"exZh": "那位商人每個月飛去日本。"
+},
+"but": {
+"ex": "I like tea, but I prefer juice.",
+"exZh": "我喜歡茶，但是我比較喜歡果汁。"
+},
+"butter": {
+"ex": "She spread butter on the warm toast.",
+"exZh": "她在熱吐司上塗了奶油。"
+},
+"butterfly": {
+"ex": "A beautiful butterfly flew over the flowers.",
+"exZh": "一隻美麗的蝴蝶飛過花朵。"
+},
+"button": {
+"ex": "One button on my shirt is missing.",
+"exZh": "我襯衫上有一顆鈕扣不見了。"
+},
+"by": {
+"ex": "We walked by the river after school.",
+"exZh": "放學後我們沿著河邊散步。"
+},
+"cabbage": {
+"ex": "Mom cooked some cabbage for dinner.",
+"exZh": "媽媽煮了一些甘藍菜當晚餐。"
+},
+"cable": {
+"ex": "The TV cable is too long.",
+"exZh": "那條電視電纜太長了。"
+},
+"cafeteria": {
+"ex": "We have lunch in the school cafeteria.",
+"exZh": "我們在學校自助餐廳吃午餐。"
+},
+"cage": {
+"ex": "The bird sang inside its cage.",
+"exZh": "那隻鳥在鳥籠裡唱歌。"
+},
+"cake": {
+"ex": "I made a chocolate cake for her birthday.",
+"exZh": "我為她的生日做了一個巧克力蛋糕。"
+},
+"calendar": {
+"ex": "I marked the test date on the calendar.",
+"exZh": "我在日曆上標記了考試日期。"
+},
+"calm": {
+"ex": "The sea was calm this morning.",
+"exZh": "今天早上海面很平靜。"
+},
+"camera": {
+"ex": "He took photos with his new camera.",
+"exZh": "他用新照相機拍了照片。"
+},
+"camp": {
+"ex": "We will camp near the lake tonight.",
+"exZh": "我們今晚要在湖邊紮營。"
+},
+"campus": {
+"ex": "Many trees grow on our school campus.",
+"exZh": "我們學校校園裡種了很多樹。"
+},
+"cancel": {
+"ex": "They had to cancel the picnic because of rain.",
+"exZh": "因為下雨，他們只好取消野餐。"
+},
+"cancer": {
+"ex": "Smoking can cause lung cancer.",
+"exZh": "抽菸可能造成肺癌。"
+},
+"candle": {
+"ex": "She lit a candle on the cake.",
+"exZh": "她在蛋糕上點了一根蠟燭。"
+},
+"candy": {
+"ex": "The children love sweet candy.",
+"exZh": "孩子們喜歡甜甜的糖果。"
+},
+"cap": {
+"ex": "He wears a blue cap to school.",
+"exZh": "他戴著一頂藍色帽子上學。"
+},
+"captain": {
+"ex": "Our team captain is very brave.",
+"exZh": "我們的隊長很勇敢。"
+},
+"card": {
+"ex": "I sent a birthday card to my friend.",
+"exZh": "我寄了一張生日卡片給朋友。"
+},
+"care": {
+"ex": "She cares about her little brother.",
+"exZh": "她很關心她的弟弟。"
+},
+"careless": {
+"ex": "He made many careless mistakes on the test.",
+"exZh": "他在考試中犯了許多粗心的錯誤。"
+},
+"carpet": {
+"ex": "There is a soft carpet in the room.",
+"exZh": "房間裡有一張柔軟的地毯。"
+},
+"carrot": {
+"ex": "Rabbits like to eat fresh carrots.",
+"exZh": "兔子喜歡吃新鮮的胡蘿蔔。"
+},
+"cartoon": {
+"ex": "My sister watches a cartoon every morning.",
+"exZh": "我妹妹每天早上看卡通。"
+},
+"case": {
+"ex": "This is a good case to study.",
+"exZh": "這是一個值得研究的例子。"
+},
+"cash": {
+"ex": "I paid for the lunch in cash.",
+"exZh": "我用現金付了午餐錢。"
+},
+"cassette": {
+"ex": "My father still keeps some old cassettes.",
+"exZh": "我爸爸還留著一些舊卡帶。"
+},
+"castle": {
+"ex": "The old castle stands on a hill.",
+"exZh": "那座古老的城堡矗立在山丘上。"
+},
+"catch": {
+"ex": "The police tried to catch the thief.",
+"exZh": "警察試圖追捕那個小偷。"
+},
+"ceiling": {
+"ex": "A light hangs from the ceiling.",
+"exZh": "一盞燈從天花板上垂下來。"
+},
+"cell": {
+"ex": "Our body is made of tiny cells.",
+"exZh": "我們的身體是由微小的細胞組成的。"
+},
+"cent": {
+"ex": "This pencil costs only fifty cents.",
+"exZh": "這枝鉛筆只要五十分。"
+},
+"center": {
+"ex": "The teacher stood in the center of the room.",
+"exZh": "老師站在房間的中央。"
+},
+"central": {
+"ex": "We met at the central station.",
+"exZh": "我們在中央車站碰面。"
+},
+"century": {
+"ex": "This temple is over a century old.",
+"exZh": "這座廟已經超過一個世紀了。"
+},
+"cereal": {
+"ex": "I eat cereal with milk every morning.",
+"exZh": "我每天早上吃穀類食物配牛奶。"
+},
+"certain": {
+"ex": "I am certain that he will come.",
+"exZh": "我確定他一定會來。"
+},
+"chair": {
+"ex": "Please sit down on that wooden chair.",
+"exZh": "請坐在那張木製椅子上。"
+},
+"chalk": {
+"ex": "The teacher writes on the board with chalk.",
+"exZh": "老師用粉筆在黑板上寫字。"
+},
+"channel": {
+"ex": "My favorite TV channel shows cartoons every night.",
+"exZh": "我最愛的電視臺每晚播放卡通。"
+},
+"charge": {
+"ex": "They charge ten dollars for the show.",
+"exZh": "他們這場表演收費十元。"
+},
+"chart": {
+"ex": "The teacher drew a chart on the board.",
+"exZh": "老師在黑板上畫了一張圖表。"
+},
+"chase": {
+"ex": "The dog likes to chase the ball.",
+"exZh": "那隻狗喜歡追趕球。"
+},
+"cheat": {
+"ex": "You should never cheat on a test.",
+"exZh": "你考試時絕不應該作弊。"
+},
+"cheer": {
+"ex": "The students cheer for their team loudly.",
+"exZh": "學生們為他們的隊伍大聲歡呼。"
+},
+"cheese": {
+"ex": "I like to put cheese on my pizza.",
+"exZh": "我喜歡在披薩上放起司。"
+},
+"chemical": {
+"ex": "We did a chemical test in science class.",
+"exZh": "我們在自然課做了一個化學測試。"
+},
+"chess": {
+"ex": "My brother and I play chess after dinner.",
+"exZh": "我和哥哥晚餐後下西洋棋。"
+},
+"chicken": {
+"ex": "My mother cooked some chicken for lunch.",
+"exZh": "我媽媽煮了一些雞肉當午餐。"
+},
+"chief": {
+"ex": "The chief of the village is very wise.",
+"exZh": "那個村莊的首領非常有智慧。"
+},
+"childish": {
+"ex": "Stop being so childish and grow up.",
+"exZh": "別這麼幼稚，成熟一點吧。"
+},
+"childlike": {
+"ex": "She has a sweet, childlike smile.",
+"exZh": "她有著甜美而天真的笑容。"
+},
+"chin": {
+"ex": "He rested his chin on his hand.",
+"exZh": "他把下巴靠在手上。"
+},
+"chocolate": {
+"ex": "I bought a bar of chocolate for you.",
+"exZh": "我幫你買了一條巧克力。"
+},
+"choice": {
+"ex": "Reading this book was a good choice.",
+"exZh": "讀這本書是個好選擇。"
+},
+"chopstick": {
+"ex": "One chopstick fell under the table.",
+"exZh": "一根筷子掉到桌子底下。"
+},
+"christmas": {
+"ex": "We give presents on Christmas every year.",
+"exZh": "我們每年在耶誕節送禮物。"
+},
+"chubby": {
+"ex": "The baby has cute, chubby cheeks.",
+"exZh": "那個寶寶有可愛豐滿的臉頰。"
+},
+"church": {
+"ex": "My grandmother goes to church on Sundays.",
+"exZh": "我奶奶星期天會去教堂。"
+},
+"circle": {
+"ex": "Draw a big circle on the paper.",
+"exZh": "在紙上畫一個大圓圈。"
+},
+"claim": {
+"ex": "He claims that he saw a ghost.",
+"exZh": "他主張他看見了鬼。"
+},
+"clap": {
+"ex": "The audience began to clap their hands.",
+"exZh": "觀眾開始拍手。"
+},
+"classic": {
+"ex": "This is a classic story for children.",
+"exZh": "這是一個給孩子的經典故事。"
+},
+"classmate": {
+"ex": "My classmate helped me with my homework.",
+"exZh": "我的同學幫我做作業。"
+},
+"classroom": {
+"ex": "Our classroom is on the second floor.",
+"exZh": "我們的班級在二樓。"
+},
+"clay": {
+"ex": "The children made animals out of clay.",
+"exZh": "孩子們用黏土做了動物。"
+},
+"clerk": {
+"ex": "The clerk helped me find my size.",
+"exZh": "那位店員幫我找到我的尺寸。"
+},
+"clever": {
+"ex": "My little sister is very clever.",
+"exZh": "我的小妹妹非常聰明。"
+},
+"climate": {
+"ex": "The climate here is warm all year.",
+"exZh": "這裡的氣候一年到頭都溫暖。"
+},
+"climb": {
+"ex": "We will climb the mountain this weekend.",
+"exZh": "我們這個週末要去爬山。"
+},
+"clock": {
+"ex": "The clock on the wall is broken.",
+"exZh": "牆上的時鐘壞了。"
+},
+"closet": {
+"ex": "Please hang your coat in the closet.",
+"exZh": "請把你的外套掛在櫥櫃裡。"
+},
+"club": {
+"ex": "I joined the school's English club.",
+"exZh": "我加入了學校的英文俱樂部。"
+},
+"coach": {
+"ex": "Our coach taught us how to swim.",
+"exZh": "我們的教練教我們怎麼游泳。"
+},
+"coast": {
+"ex": "We walked along the coast at sunset.",
+"exZh": "我們在日落時沿著海岸散步。"
+},
+"coat": {
+"ex": "Put on your coat before going out.",
+"exZh": "出門前穿上你的大衣。"
+},
+"cockroach": {
+"ex": "There is a cockroach in the kitchen.",
+"exZh": "廚房裡有一隻蟑螂。"
+},
+"coffee": {
+"ex": "My father drinks coffee every morning.",
+"exZh": "我爸爸每天早上喝咖啡。"
+},
+"coin": {
+"ex": "She dropped a coin into the box.",
+"exZh": "她把一枚硬幣丟進盒子裡。"
+},
+"coke": {
+"ex": "I would like a glass of coke.",
+"exZh": "我想要一杯可樂。"
+},
+"college": {
+"ex": "My brother studies math in college.",
+"exZh": "我哥哥在大學讀數學。"
+},
+"colorful": {
+"ex": "The garden is full of colorful flowers.",
+"exZh": "花園裡滿是多采多姿的花朵。"
+},
+"comb": {
+"ex": "I lost my comb at school today.",
+"exZh": "我今天在學校弄丟了梳子。"
+},
+"command": {
+"ex": "The captain commands his men to stop.",
+"exZh": "隊長命令他的人停下。"
+},
+"comment": {
+"ex": "The teacher wrote a kind comment on my paper.",
+"exZh": "老師在我的考卷上寫了親切的意見。"
+},
+"common": {
+"ex": "We share a common goal as a team.",
+"exZh": "身為一個團隊，我們有共同的目標。"
+},
+"company": {
+"ex": "My uncle works for a big company.",
+"exZh": "我叔叔在一家大公司工作。"
+},
+"complaint": {
+"ex": "The teacher listened to every student's complaint.",
+"exZh": "老師聽了每位學生的抱怨。"
+},
+"complete": {
+"ex": "Please give me the complete answer.",
+"exZh": "請給我完整的答案。"
+},
+"computer": {
+"ex": "I do my homework on the computer.",
+"exZh": "我用電腦做功課。"
+},
+"concern": {
+"ex": "Her health is my biggest concern.",
+"exZh": "她的健康是我最大的擔心。"
+},
+"conflict": {
+"ex": "They had a small conflict over the game.",
+"exZh": "他們因為遊戲起了小衝突。"
+},
+"congratulation": {
+"ex": "She sent me a card of congratulation.",
+"exZh": "她寄給我一張道賀的卡片。"
+},
+"connect": {
+"ex": "Please connect the printer to the computer.",
+"exZh": "請把印表機連接到電腦。"
+},
+"considerate": {
+"ex": "He is very considerate to old people.",
+"exZh": "他對老人很體貼。"
+},
+"contact": {
+"ex": "You can contact me by email.",
+"exZh": "你可以用電子郵件聯絡我。"
+},
+"contract": {
+"ex": "My father signed the new contract today.",
+"exZh": "我爸爸今天簽了新合約。"
+},
+"conversation": {
+"ex": "We had a long conversation after class.",
+"exZh": "我們下課後聊了很久的對話。"
+},
+"cookie": {
+"ex": "Mom baked some cookies for the party.",
+"exZh": "媽媽為派對烤了一些點心。"
+},
+"copy": {
+"ex": "Please copy these words into your notebook.",
+"exZh": "請把這些字複製到你的筆記本上。"
+},
+"corn": {
+"ex": "We grow corn on our farm.",
+"exZh": "我們在農場上種玉米。"
+},
+"corner": {
+"ex": "The store is on the corner of the street.",
+"exZh": "那家店在街角。"
+},
+"correct": {
+"ex": "Your answer is correct.",
+"exZh": "你的答案是正確的。"
+},
+"cost": {
+"ex": "This new bike cost me a lot of money.",
+"exZh": "這台新腳踏車花了我很多錢。"
+},
+"cotton": {
+"ex": "This shirt is made of cotton.",
+"exZh": "這件襯衫是棉花做的。"
+},
+"couch": {
+"ex": "My cat likes to sleep on the couch.",
+"exZh": "我的貓喜歡睡在長沙發上。"
+},
+"cough": {
+"ex": "I cough a lot when I catch a cold.",
+"exZh": "我感冒時會咳嗽很多。"
+},
+"count": {
+"ex": "The little boy can count to one hundred.",
+"exZh": "那個小男孩能數到一百。"
+},
+"couple": {
+"ex": "That couple is dancing in the park.",
+"exZh": "那一對情侶正在公園裡跳舞。"
+},
+"courage": {
+"ex": "It takes courage to speak in front of others.",
+"exZh": "在別人面前說話需要勇氣。"
+},
+"course": {
+"ex": "I am taking an English course this summer.",
+"exZh": "今年夏天我在上一門英語課程。"
+},
+"court": {
+"ex": "We play basketball on the school court.",
+"exZh": "我們在學校的球場上打籃球。"
+},
+"cousin": {
+"ex": "My cousin lives in another city.",
+"exZh": "我的表哥住在另一個城市。"
+},
+"cover": {
+"ex": "Please cover the food with a clean cloth.",
+"exZh": "請用乾淨的布覆蓋食物。"
+},
+"cow": {
+"ex": "The cow gives us fresh milk every day.",
+"exZh": "那頭母牛每天給我們新鮮的牛奶。"
+},
+"cowboy": {
+"ex": "The cowboy rode his horse across the field.",
+"exZh": "那個牛仔騎著馬越過田野。"
+},
+"crab": {
+"ex": "We caught a big crab on the beach.",
+"exZh": "我們在海灘上抓到一隻大螃蟹。"
+},
+"crayon": {
+"ex": "She drew a sun with a yellow crayon.",
+"exZh": "她用黃色蠟筆畫了一個太陽。"
+},
+"crazy": {
+"ex": "My brother is crazy about computer games.",
+"exZh": "我哥哥對電腦遊戲很瘋狂。"
+},
+"cream": {
+"ex": "My mother puts cream on her hands.",
+"exZh": "我媽媽在手上擦乳液。"
+},
+"create": {
+"ex": "The students will create a new poster.",
+"exZh": "學生們將創造一張新海報。"
+},
+"crime": {
+"ex": "Stealing is a serious crime.",
+"exZh": "偷竊是一種嚴重的罪。"
+},
+"cruel": {
+"ex": "It is cruel to hurt small animals.",
+"exZh": "傷害小動物是殘忍的。"
+},
+"cup": {
+"ex": "I drink a cup of hot tea every morning.",
+"exZh": "我每天早上喝一杯熱茶。"
+},
+"cure": {
+"ex": "Doctors are looking for a cure for the disease.",
+"exZh": "醫生正在尋找這種疾病的治療方法。"
+},
+"current": {
+"ex": "Who is the current leader of our class?",
+"exZh": "誰是我們班現在的班長？"
+},
+"curtain": {
+"ex": "Please close the curtain before you sleep.",
+"exZh": "睡覺前請拉上窗簾。"
+},
+"curve": {
+"ex": "The road has a sharp curve near the river.",
+"exZh": "那條路在河邊有個急彎的曲線。"
+},
+"customer": {
+"ex": "The customer wants to buy a new phone.",
+"exZh": "那位顧客想買一支新手機。"
+},
+"cute": {
+"ex": "Her little dog is very cute.",
+"exZh": "她的小狗很可愛。"
+},
+"danger": {
+"ex": "The sign warns us of danger ahead.",
+"exZh": "那個標誌警告我們前方有危險。"
+},
+"data": {
+"ex": "We saved all the data on the computer.",
+"exZh": "我們把所有的資料存在電腦上。"
+},
+"date": {
+"ex": "What is the date of the test?",
+"exZh": "考試的日期是哪一天？"
+},
+"dawn": {
+"ex": "The birds start singing at dawn.",
+"exZh": "鳥兒在黎明時開始歌唱。"
+},
+"dead": {
+"ex": "The old tree in our yard is dead.",
+"exZh": "我們院子裡的老樹死了。"
+},
+"deaf": {
+"ex": "My grandfather is deaf in one ear.",
+"exZh": "我爺爺有一隻耳朵是聾的。"
+},
+"dear": {
+"ex": "She wrote a letter to her dear friend.",
+"exZh": "她寫了一封信給她親愛的朋友。"
+},
+"death": {
+"ex": "The movie made me think about life and death.",
+"exZh": "這部電影讓我思考生與死。"
+},
+"debate": {
+"ex": "We had a debate about school uniforms in class.",
+"exZh": "我們在課堂上辯論校服的議題。"
+},
+"december": {
+"ex": "My birthday is in December every year.",
+"exZh": "我的生日每年都在十二月。"
+},
+"decision": {
+"ex": "It was a hard decision, but I made it.",
+"exZh": "這是個困難的決定，但我做了。"
+},
+"decorate": {
+"ex": "We decorate the classroom before the party.",
+"exZh": "我們在派對前裝飾教室。"
+},
+"decrease": {
+"ex": "The number of students will decrease next year.",
+"exZh": "學生人數明年將會減少。"
+},
+"deep": {
+"ex": "The river here is very deep and cold.",
+"exZh": "這裡的河很深又很冷。"
+},
+"deer": {
+"ex": "We saw a deer near the forest path.",
+"exZh": "我們在森林小路旁看到一隻鹿。"
+},
+"degree": {
+"ex": "The water is about thirty degrees today.",
+"exZh": "今天的水溫大約三十度。"
+},
+"deliver": {
+"ex": "The mailman will deliver the letter tomorrow.",
+"exZh": "郵差明天會投遞這封信。"
+},
+"dentist": {
+"ex": "I visit the dentist twice a year.",
+"exZh": "我一年看牙醫兩次。"
+},
+"deny": {
+"ex": "He could not deny that he was late.",
+"exZh": "他無法否認自己遲到了。"
+},
+"department": {
+"ex": "My mom works in the sales department.",
+"exZh": "我媽媽在業務部門工作。"
+},
+"depend": {
+"ex": "Children depend on their parents for food.",
+"exZh": "孩子們依賴父母提供食物。"
+},
+"describe": {
+"ex": "Please describe your best friend to me.",
+"exZh": "請向我描述你最好的朋友。"
+},
+"desert": {
+"ex": "Few plants can grow in the dry desert.",
+"exZh": "很少植物能在乾燥的沙漠中生長。"
+},
+"design": {
+"ex": "She wants to design clothes in the future.",
+"exZh": "她未來想要設計衣服。"
+},
+"desire": {
+"ex": "He has a strong desire to win the game.",
+"exZh": "他有強烈的慾望想贏得比賽。"
+},
+"dessert": {
+"ex": "We had ice cream for dessert after dinner.",
+"exZh": "晚餐後我們吃冰淇淋當甜點。"
+},
+"detect": {
+"ex": "The dog can detect smoke very quickly.",
+"exZh": "這隻狗能很快查出煙味。"
+},
+"dial": {
+"ex": "Please dial this number to call the office.",
+"exZh": "請撥這個號碼打到辦公室。"
+},
+"diamond": {
+"ex": "The ring has a shiny diamond on it.",
+"exZh": "這枚戒指上有一顆閃亮的鑽石。"
+},
+"diary": {
+"ex": "I write in my diary every night.",
+"exZh": "我每晚都寫日記。"
+},
+"dictionary": {
+"ex": "I look up new words in my dictionary.",
+"exZh": "我用字典查生字。"
+},
+"die": {
+"ex": "The flowers will die without enough water.",
+"exZh": "花若沒有足夠的水就會死。"
+},
+"diet": {
+"ex": "A healthy diet keeps you strong.",
+"exZh": "健康的飲食讓你保持強壯。"
+},
+"different": {
+"ex": "My brother and I like different sports.",
+"exZh": "我和我弟弟喜歡不同的運動。"
+},
+"difficulty": {
+"ex": "She had difficulty solving the math problem.",
+"exZh": "她解這道數學題有困難。"
+},
+"dig": {
+"ex": "The boys like to dig holes on the beach.",
+"exZh": "男孩們喜歡在沙灘上挖洞。"
+},
+"diligent": {
+"ex": "She is a diligent student who studies hard.",
+"exZh": "她是個用功讀書的勤勉學生。"
+},
+"dinosaur": {
+"ex": "We saw a huge dinosaur in the museum.",
+"exZh": "我們在博物館看到一隻巨大的恐龍。"
+},
+"diplomat": {
+"ex": "His father is a diplomat working abroad.",
+"exZh": "他的父親是在國外工作的外交官。"
+},
+"direct": {
+"ex": "There is a direct road to the station.",
+"exZh": "有一條直達車站的路。"
+},
+"direction": {
+"ex": "Which direction is the library from here?",
+"exZh": "圖書館從這裡往哪個方向走？"
+},
+"disagree": {
+"ex": "I disagree with you about this plan.",
+"exZh": "關於這個計畫我不同意你。"
+},
+"discussion": {
+"ex": "We had a long discussion about the trip.",
+"exZh": "我們對這趟旅行進行了長時間的討論。"
+},
+"dish": {
+"ex": "Please put the clean dish on the table.",
+"exZh": "請把乾淨的盤子放在桌上。"
+},
+"dishonest": {
+"ex": "It is dishonest to copy your friend's homework.",
+"exZh": "抄朋友的作業是不誠實的。"
+},
+"distant": {
+"ex": "We could see a distant mountain from the window.",
+"exZh": "我們從窗戶能看到遠處的山。"
+},
+"divide": {
+"ex": "Let's divide the cake into eight pieces.",
+"exZh": "我們把蛋糕分成八塊吧。"
+},
+"dizzy": {
+"ex": "I felt dizzy after running so fast.",
+"exZh": "跑得太快後我覺得頭暈。"
+},
+"doll": {
+"ex": "My sister sleeps with her favorite doll.",
+"exZh": "我妹妹抱著她最喜歡的洋娃娃睡覺。"
+},
+"dollar": {
+"ex": "This pen costs only one dollar.",
+"exZh": "這支筆只要一元。"
+},
+"dolphin": {
+"ex": "The dolphin jumped high out of the water.",
+"exZh": "海豚高高跳出水面。"
+},
+"donkey": {
+"ex": "The farmer rides a donkey to the field.",
+"exZh": "農夫騎著驢去田裡。"
+},
+"dot": {
+"ex": "Put a dot at the end of the line.",
+"exZh": "在線的末端點一個點。"
+},
+"double": {
+"ex": "The store will double its prices next week.",
+"exZh": "這家店下週要把價格加倍。"
+},
+"doubt": {
+"ex": "I doubt that he will come on time.",
+"exZh": "我懷疑他會準時來。"
+},
+"doughnut": {
+"ex": "I ate a sweet doughnut for breakfast.",
+"exZh": "我早餐吃了一個甜甜圈。"
+},
+"dove": {
+"ex": "A white dove is a symbol of peace.",
+"exZh": "白鴿是和平的象徵。"
+},
+"down": {
+"ex": "Please sit down and open your book.",
+"exZh": "請坐下並打開你的書。"
+},
+"downstairs": {
+"ex": "My mother is cooking dinner downstairs.",
+"exZh": "我媽媽正在樓下煮晚餐。"
+},
+"dozen": {
+"ex": "I bought a dozen eggs at the store.",
+"exZh": "我在商店買了一打雞蛋。"
+},
+"drag": {
+"ex": "He had to drag the heavy box home.",
+"exZh": "他必須把那個重箱子拖回家。"
+},
+"dragon": {
+"ex": "The dragon in the story can fly.",
+"exZh": "故事裡的龍會飛。"
+},
+"drama": {
+"ex": "We watched a Korean drama last night.",
+"exZh": "我們昨晚看了一部韓國戲劇。"
+},
+"draw": {
+"ex": "Please draw the rope toward you slowly.",
+"exZh": "請慢慢把繩子拉向你。"
+},
+"drawer": {
+"ex": "My socks are in the top drawer.",
+"exZh": "我的襪子在最上面的抽屜裡。"
+},
+"dress": {
+"ex": "She wore a red dress to the party.",
+"exZh": "她穿了一件紅色洋裝去派對。"
+},
+"driver": {
+"ex": "The bus driver is very friendly to us.",
+"exZh": "公車駕駛人對我們很友善。"
+},
+"drop": {
+"ex": "Be careful not to drop your phone.",
+"exZh": "小心不要讓你的手機落下。"
+},
+"drug": {
+"ex": "The doctor gave me a new drug.",
+"exZh": "醫生給了我一種新藥。"
+},
+"drum": {
+"ex": "My brother can play the drum well.",
+"exZh": "我哥哥鼓打得很好。"
+},
+"dry": {
+"ex": "My clothes are not dry yet.",
+"exZh": "我的衣服還沒乾。"
+},
+"dryer": {
+"ex": "Please put the towels in the dryer.",
+"exZh": "請把毛巾放進烘乾機。"
+},
+"duck": {
+"ex": "There is a yellow duck in the pond.",
+"exZh": "池塘裡有一隻黃色的鴨子。"
+},
+"dumb": {
+"ex": "That was a really dumb idea.",
+"exZh": "那真是一個笨的點子。"
+},
+"dumpling": {
+"ex": "We eat dumplings during the Chinese New Year.",
+"exZh": "我們在農曆新年吃餃子。"
+},
+"duty": {
+"ex": "It is our duty to help others.",
+"exZh": "幫助別人是我們的義務。"
+},
+"eagle": {
+"ex": "An eagle is flying high in the sky.",
+"exZh": "一隻老鷹在高空中飛翔。"
+},
+"ear": {
+"ex": "My right ear hurts a little today.",
+"exZh": "我的右耳今天有點痛。"
+},
+"earn": {
+"ex": "She works hard to earn money.",
+"exZh": "她努力工作以獲得金錢。"
+},
+"earring": {
+"ex": "My sister lost one silver earring.",
+"exZh": "我姊姊弄丟了一隻銀耳環。"
+},
+"ease": {
+"ex": "Music can ease my stress after school.",
+"exZh": "音樂能放鬆我放學後的壓力。"
+},
+"east": {
+"ex": "The sun rises in the east.",
+"exZh": "太陽從東方升起。"
+},
+"eastern": {
+"ex": "They live in the eastern part of Taiwan.",
+"exZh": "他們住在台灣的東方地區。"
+},
+"edge": {
+"ex": "Don't put the cup near the edge.",
+"exZh": "不要把杯子放在邊緣附近。"
+},
+"eight": {
+"ex": "There are eight students in our group.",
+"exZh": "我們這組有八個學生。"
+},
+"eighteen": {
+"ex": "My cousin will be eighteen next year.",
+"exZh": "我表哥明年就十八歲了。"
+},
+"eighty": {
+"ex": "My grandmother is eighty years old.",
+"exZh": "我奶奶八十歲了。"
+},
+"elder": {
+"ex": "My elder brother helps me study math.",
+"exZh": "我年長的哥哥幫我念數學。"
+},
+"elect": {
+"ex": "We will elect a new class leader today.",
+"exZh": "我們今天要選出一位新的班長。"
+},
+"electric": {
+"ex": "This is a new electric car.",
+"exZh": "這是一輛新的電動車。"
+},
+"elephant": {
+"ex": "The elephant has a very long nose.",
+"exZh": "大象有一個很長的鼻子。"
+},
+"eleven": {
+"ex": "The class starts at eleven o'clock.",
+"exZh": "課程在十一點開始。"
+},
+"else": {
+"ex": "Do you want anything else to eat?",
+"exZh": "你還想吃其他東西嗎？"
+},
+"emotion": {
+"ex": "She could not hide her emotion.",
+"exZh": "她無法隱藏她的情緒。"
+},
+"emphasize": {
+"ex": "Teachers often emphasize the importance of reading.",
+"exZh": "老師常強調閱讀的重要性。"
+},
+"employ": {
+"ex": "The store will employ five new workers.",
+"exZh": "那家店將雇用五名新員工。"
+},
+"empty": {
+"ex": "The bottle is empty now.",
+"exZh": "瓶子現在是空的。"
+},
+"end": {
+"ex": "The movie will end in ten minutes.",
+"exZh": "電影將在十分鐘後結束。"
+},
+"enemy": {
+"ex": "He is not my enemy at all.",
+"exZh": "他根本不是我的敵人。"
+},
+"energetic": {
+"ex": "My little dog is always energetic.",
+"exZh": "我的小狗總是精力充沛的。"
+},
+"energy": {
+"ex": "Children have a lot of energy to play.",
+"exZh": "孩子們有很多精力去玩。"
+},
+"engine": {
+"ex": "The car engine is making a strange sound.",
+"exZh": "汽車引擎發出奇怪的聲音。"
+},
+"engineer": {
+"ex": "My father is a computer engineer.",
+"exZh": "我爸爸是一位電腦工程師。"
+},
+"enter": {
+"ex": "Please knock before you enter the room.",
+"exZh": "進入房間前請先敲門。"
+},
+"entrance": {
+"ex": "We will meet at the front entrance.",
+"exZh": "我們會在前面的入口碰面。"
+},
+"envelope": {
+"ex": "She put the letter in an envelope.",
+"exZh": "她把信放進一個信封裡。"
+},
+"envy": {
+"ex": "I envy his good grades in school.",
+"exZh": "我忌妒他在學校的好成績。"
+},
+"equal": {
+"ex": "All students have equal rights at school.",
+"exZh": "所有學生在學校享有相等的權利。"
+},
+"eraser": {
+"ex": "I used an eraser to clean my mistake.",
+"exZh": "我用橡皮擦擦掉我的錯誤。"
+},
+"error": {
+"ex": "The teacher found one error in my essay.",
+"exZh": "老師在我的作文裡發現一個錯誤。"
+},
+"eve": {
+"ex": "We have a big dinner on Christmas eve.",
+"exZh": "我們在聖誕節前夕吃大餐。"
+},
+"ever": {
+"ex": "Have you ever been to Japan before?",
+"exZh": "你以前曾經去過日本嗎？"
+},
+"evil": {
+"ex": "In the story, the evil tries to win.",
+"exZh": "在故事裡，那個惡魔想要獲勝。"
+},
+"exact": {
+"ex": "Please tell me the exact time of class.",
+"exZh": "請告訴我上課的正確時間。"
+},
+"except": {
+"ex": "Everyone came to school except Tom today.",
+"exZh": "今天除了湯姆之外，每個人都來上學。"
+},
+"excite": {
+"ex": "The good news will excite all my friends.",
+"exZh": "這個好消息會使我所有的朋友興奮。"
+},
+"excuse": {
+"ex": "Please excuse me for being late today.",
+"exZh": "請原諒我今天遲到了。"
+},
+"exist": {
+"ex": "Many old buildings still exist in this town.",
+"exZh": "許多老建築在這個城鎮仍然存在。"
+},
+"exit": {
+"ex": "The exit is on the left side.",
+"exZh": "出口在左邊。"
+},
+"expect": {
+"ex": "I expect to pass the English test.",
+"exZh": "我期望通過英文考試。"
+},
+"extra": {
+"ex": "I need extra time to finish my homework.",
+"exZh": "我需要額外的時間完成作業。"
+},
+"eye": {
+"ex": "She closed her left eye and smiled.",
+"exZh": "她閉上左眼微笑。"
+},
+"eyebrow": {
+"ex": "He raised one eyebrow at my answer.",
+"exZh": "他對我的答案揚起一邊眉毛。"
+},
+"factory": {
+"ex": "My uncle works in a car factory.",
+"exZh": "我叔叔在一家汽車工廠工作。"
+},
+"false": {
+"ex": "Please mark this sentence true or false.",
+"exZh": "請標出這個句子是對的還是錯的。"
+},
+"fan": {
+"ex": "Please turn on the fan; it's hot.",
+"exZh": "請打開電扇，好熱。"
+},
+"fancy": {
+"ex": "The boy has a lot of fancy in his head.",
+"exZh": "這個男孩腦中有很多想像力。"
+},
+"far": {
+"ex": "The park is far from my house.",
+"exZh": "那座公園離我家很遠。"
+},
+"farm": {
+"ex": "We saw many cows on the farm.",
+"exZh": "我們在農場上看見許多牛。"
+},
+"farmer": {
+"ex": "The farmer grows rice every year.",
+"exZh": "那位農夫每年種稻米。"
+},
+"fashion": {
+"ex": "Short hair is in fashion this year.",
+"exZh": "今年短髮很流行。"
+},
+"fat": {
+"ex": "The cat is too fat to jump.",
+"exZh": "這隻貓太肥胖了，跳不起來。"
+},
+"faucet": {
+"ex": "Please turn off the faucet after washing.",
+"exZh": "洗完後請關掉水龍頭。"
+},
+"fault": {
+"ex": "Being late was my own fault.",
+"exZh": "遲到是我自己的缺失。"
+},
+"fear": {
+"ex": "She has a great fear of dogs.",
+"exZh": "她非常害怕狗。"
+},
+"february": {
+"ex": "My birthday is in February.",
+"exZh": "我的生日在二月。"
+},
+"fee": {
+"ex": "The entrance fee is two hundred dollars.",
+"exZh": "入場費是兩百元。"
+},
+"feed": {
+"ex": "I feed my dog every morning.",
+"exZh": "我每天早上餵我的狗。"
+},
+"feeling": {
+"ex": "I had a happy feeling all day.",
+"exZh": "我整天都有快樂的感覺。"
+},
+"female": {
+"ex": "Half of the students are female.",
+"exZh": "一半的學生是女性。"
+},
+"fence": {
+"ex": "A white fence is around the garden.",
+"exZh": "花園周圍有一道白色柵欄。"
+},
+"festival": {
+"ex": "We eat mooncakes at the Moon Festival.",
+"exZh": "我們在中秋節慶吃月餅。"
+},
+"fever": {
+"ex": "My little sister has a high fever.",
+"exZh": "我妹妹發高燒。"
+},
+"few": {
+"ex": "Only a few students came to school early.",
+"exZh": "只有少數的學生早到學校。"
+},
+"fifteen": {
+"ex": "There are fifteen books on the desk.",
+"exZh": "桌上有十五本書。"
+},
+"fifty": {
+"ex": "My grandpa is fifty years old.",
+"exZh": "我爺爺五十歲。"
+},
+"fight": {
+"ex": "The two boys had a fight after class.",
+"exZh": "那兩個男孩下課後打了一場架。"
+},
+"fill": {
+"ex": "Please fill the bottle with water.",
+"exZh": "請把瓶子裝滿水。"
+},
+"film": {
+"ex": "We watched a funny film last night.",
+"exZh": "我們昨晚看了一部好笑的電影。"
+},
+"final": {
+"ex": "This is the final question on the test.",
+"exZh": "這是考試的最後一題。"
+},
+"find": {
+"ex": "I can't find my keys anywhere.",
+"exZh": "我到處都找不到我的鑰匙。"
+},
+"fine": {
+"ex": "She wore a fine silk dress.",
+"exZh": "她穿了一件精巧的絲質洋裝。"
+},
+"finger": {
+"ex": "I hurt my finger while cooking.",
+"exZh": "我煮飯時弄傷了手指頭。"
+},
+"fire": {
+"ex": "We sat near the fire to keep warm.",
+"exZh": "我們坐在火旁邊取暖。"
+},
+"first": {
+"ex": "She was the first girl to finish.",
+"exZh": "她是第一個完成的女孩。"
+},
+"fisherman": {
+"ex": "The fisherman caught many fish today.",
+"exZh": "那位漁夫今天捕到許多魚。"
+},
+"fit": {
+"ex": "These shoes fit my feet well.",
+"exZh": "這雙鞋很適合我的腳。"
+},
+"five": {
+"ex": "I have five books in my bag.",
+"exZh": "我的書包裡有五本書。"
+},
+"fix": {
+"ex": "My father can fix the old clock.",
+"exZh": "我爸爸能修好這個舊時鐘。"
+},
+"flag": {
+"ex": "We raise the flag every Monday morning.",
+"exZh": "我們每週一早上升旗。"
+},
+"flash": {
+"ex": "A flash of light came from the sky.",
+"exZh": "天空中傳來一道閃光。"
+},
+"flashlight": {
+"ex": "Take a flashlight when you go camping.",
+"exZh": "去露營時要帶手電筒。"
+},
+"flight": {
+"ex": "Our flight to Japan leaves at noon.",
+"exZh": "我們飛往日本的班機中午出發。"
+},
+"flood": {
+"ex": "The heavy rain caused a big flood.",
+"exZh": "大雨造成了一場大洪水。"
+},
+"floor": {
+"ex": "Please don't throw paper on the floor.",
+"exZh": "請不要把紙丟在地板上。"
+},
+"flour": {
+"ex": "We need flour to make some bread.",
+"exZh": "我們需要麵粉來做麵包。"
+},
+"flu": {
+"ex": "I have the flu and feel very tired.",
+"exZh": "我得了流感，覺得很累。"
+},
+"flute": {
+"ex": "She plays the flute in the band.",
+"exZh": "她在樂團裡吹長笛。"
+},
+"focus": {
+"ex": "Health is the focus of our talk today.",
+"exZh": "健康是我們今天談話的焦點。"
+},
+"fog": {
+"ex": "Thick fog covered the whole city.",
+"exZh": "濃霧籠罩了整座城市。"
+},
+"fool": {
+"ex": "Don't be a fool and trust him.",
+"exZh": "別當個傻子去相信他。"
+},
+"foolish": {
+"ex": "It was foolish to forget your homework.",
+"exZh": "忘記帶作業是很愚笨的。"
+},
+"foot": {
+"ex": "My right foot hurts after the game.",
+"exZh": "比賽後我的右腳很痛。"
+},
+"football": {
+"ex": "They play football after school every day.",
+"exZh": "他們每天放學後踢足球。"
+},
+"for": {
+"ex": "I bought this gift for my mother.",
+"exZh": "我為媽媽買了這份禮物。"
+},
+"force": {
+"ex": "Don't force me to eat the carrots.",
+"exZh": "不要強迫我吃紅蘿蔔。"
+},
+"foreigner": {
+"ex": "A foreigner asked me for directions.",
+"exZh": "一位外國人向我問路。"
+},
+"forest": {
+"ex": "Many animals live in this green forest.",
+"exZh": "許多動物住在這片綠色森林裡。"
+},
+"forgive": {
+"ex": "Please forgive me for being late.",
+"exZh": "請原諒我遲到了。"
+},
+"fork": {
+"ex": "I eat my noodles with a fork.",
+"exZh": "我用叉子吃我的麵。"
+},
+"form": {
+"ex": "Water can form ice when it is cold.",
+"exZh": "水在寒冷時會形成冰。"
+},
+"formal": {
+"ex": "He wore a formal suit to the party.",
+"exZh": "他穿著正式的西裝去派對。"
+},
+"former": {
+"ex": "Our former teacher now lives in Taipei.",
+"exZh": "我們以前的老師現在住在台北。"
+},
+"forty": {
+"ex": "There are forty students in our class.",
+"exZh": "我們班上有四十個學生。"
+},
+"forward": {
+"ex": "Please move forward and stand in line.",
+"exZh": "請向前移動並排隊。"
+},
+"four": {
+"ex": "My little brother is four years old.",
+"exZh": "我的小弟弟四歲了。"
+},
+"fourteen": {
+"ex": "My sister will be fourteen next month.",
+"exZh": "我姊姊下個月就十四歲了。"
+},
+"fox": {
+"ex": "A fox ran quickly into the woods.",
+"exZh": "一隻狐狸快速地跑進樹林裡。"
+},
+"frank": {
+"ex": "To be frank, I don't like this movie.",
+"exZh": "老實說，我不喜歡這部電影。"
+},
+"freedom": {
+"ex": "Birds enjoy the freedom of the sky.",
+"exZh": "鳥兒享受天空的自由。"
+},
+"friday": {
+"ex": "We have a math test on Friday.",
+"exZh": "我們星期五有一場數學考試。"
+},
+"friendly": {
+"ex": "Our new neighbor is very friendly.",
+"exZh": "我們的新鄰居非常友善。"
+},
+"frighten": {
+"ex": "The loud thunder may frighten the baby.",
+"exZh": "巨大的雷聲可能會嚇到嬰兒。"
+},
+"frog": {
+"ex": "A green frog jumped into the pond.",
+"exZh": "一隻綠色青蛙跳進池塘裡。"
+},
+"from": {
+"ex": "I walk to school from my home.",
+"exZh": "我從家裡走路去學校。"
+},
+"front": {
+"ex": "She sits in the front row in class.",
+"exZh": "她在課堂上坐在前排。"
+},
+"fry": {
+"ex": "My mom will fry an egg for breakfast.",
+"exZh": "我媽媽會煎一顆蛋當早餐。"
+},
+"full": {
+"ex": "The glass is full of cold water.",
+"exZh": "這個杯子裝滿了冷水。"
+},
+"fun": {
+"ex": "We had a lot of fun at the beach.",
+"exZh": "我們在海邊玩得很開心。"
+},
+"function": {
+"ex": "This new phone has many useful functions.",
+"exZh": "這支新手機有許多實用的功能。"
+},
+"furniture": {
+"ex": "The new furniture makes our home nice.",
+"exZh": "新傢俱讓我們的家變得很好看。"
+},
+"future": {
+"ex": "I want to be a doctor in the future.",
+"exZh": "我未來想當一名醫生。"
+},
+"gain": {
+"ex": "You can gain knowledge by reading books.",
+"exZh": "你可以藉由讀書獲得知識。"
+},
+"garage": {
+"ex": "Dad parks his car in the garage.",
+"exZh": "爸爸把他的車停在車庫裡。"
+},
+"garbage": {
+"ex": "Please take out the garbage tonight.",
+"exZh": "請今晚把垃圾拿出去。"
+},
+"gas": {
+"ex": "We use gas to cook our food.",
+"exZh": "我們用瓦斯來煮食物。"
+},
+"gate": {
+"ex": "The school gate opens at seven.",
+"exZh": "校門在七點開。"
+},
+"generous": {
+"ex": "My uncle is very generous to poor people.",
+"exZh": "我的叔叔對窮人很慷慨。"
+},
+"genius": {
+"ex": "Everyone says the young pianist is a genius.",
+"exZh": "大家都說那位年輕的鋼琴家是個天才。"
+},
+"gentle": {
+"ex": "She has a gentle voice when she sings.",
+"exZh": "她唱歌時聲音很溫和。"
+},
+"gentleman": {
+"ex": "The kind gentleman helped me carry my bag.",
+"exZh": "那位親切的紳士幫我提袋子。"
+},
+"geography": {
+"ex": "We study maps in our geography class.",
+"exZh": "我們在地理課上研究地圖。"
+},
+"gesture": {
+"ex": "He made a friendly gesture to say hello.",
+"exZh": "他做了一個友善的手勢來打招呼。"
+},
+"ghost": {
+"ex": "The children were afraid of the white ghost.",
+"exZh": "孩子們害怕那個白色的鬼。"
+},
+"giant": {
+"ex": "A giant tree stands beside our school.",
+"exZh": "一棵巨大的樹立在我們學校旁邊。"
+},
+"glass": {
+"ex": "Please be careful with that broken glass.",
+"exZh": "請小心那塊破掉的玻璃。"
+},
+"glasses": {
+"ex": "My brother wears glasses when he reads.",
+"exZh": "我哥哥看書時戴眼鏡。"
+},
+"glove": {
+"ex": "I lost one glove on the cold morning.",
+"exZh": "我在寒冷的早晨弄丟了一隻手套。"
+},
+"glue": {
+"ex": "She used glue to fix the broken toy.",
+"exZh": "她用膠水修好壞掉的玩具。"
+},
+"goat": {
+"ex": "The white goat is eating grass on the hill.",
+"exZh": "那隻白色的山羊正在山上吃草。"
+},
+"god": {
+"ex": "Many people pray to god for good luck.",
+"exZh": "許多人向上帝祈求好運。"
+},
+"gold": {
+"ex": "This ring is made of pure gold.",
+"exZh": "這枚戒指是用純黃金做的。"
+},
+"golden": {
+"ex": "The sky turns golden at sunset.",
+"exZh": "天空在日落時變成金色的。"
+},
+"golf": {
+"ex": "My father plays golf every Sunday morning.",
+"exZh": "我爸爸每個星期天早上打高爾夫球。"
+},
+"goodness": {
+"ex": "We always remember her goodness to us.",
+"exZh": "我們一直記得她對我們的善良。"
+},
+"goose": {
+"ex": "A big goose is swimming in the pond.",
+"exZh": "一隻大鵝正在池塘裡游泳。"
+},
+"government": {
+"ex": "The government built a new park in town.",
+"exZh": "政府在鎮上蓋了一座新公園。"
+},
+"grade": {
+"ex": "She got a good grade on the math test.",
+"exZh": "她在數學考試上得到好分數。"
+},
+"gram": {
+"ex": "This apple weighs about two hundred grams.",
+"exZh": "這顆蘋果大約重兩百克。"
+},
+"grandfather": {
+"ex": "My grandfather tells me stories every night.",
+"exZh": "我的祖父每晚講故事給我聽。"
+},
+"grandmother": {
+"ex": "My grandmother cooks dinner for the whole family.",
+"exZh": "我的祖母為全家人煮晚餐。"
+},
+"grandson": {
+"ex": "The old man is proud of his grandson.",
+"exZh": "那位老人為他的孫子感到驕傲。"
+},
+"grape": {
+"ex": "I like to eat sweet green grapes.",
+"exZh": "我喜歡吃甜甜的綠葡萄。"
+},
+"grass": {
+"ex": "The children are playing on the green grass.",
+"exZh": "孩子們正在綠色的草地上玩耍。"
+},
+"gray": {
+"ex": "The sky is gray before it rains.",
+"exZh": "下雨前天空是灰色的。"
+},
+"greedy": {
+"ex": "The greedy boy ate all the cookies.",
+"exZh": "那個貪心的男孩把所有餅乾都吃光了。"
+},
+"greet": {
+"ex": "We greet our teacher every morning.",
+"exZh": "我們每天早上向老師問候。"
+},
+"ground": {
+"ex": "The leaves fell onto the wet ground.",
+"exZh": "葉子落在潮濕的土地上。"
+},
+"group": {
+"ex": "Our group will give a report tomorrow.",
+"exZh": "我們這組明天要做報告。"
+},
+"guard": {
+"ex": "The guard stands at the school gate.",
+"exZh": "警衛站在學校大門口。"
+},
+"guava": {
+"ex": "This guava tastes fresh and sweet.",
+"exZh": "這顆番石榴嚐起來新鮮又甜。"
+},
+"guest": {
+"ex": "We welcome every guest with a warm smile.",
+"exZh": "我們用溫暖的微笑歡迎每位客人。"
+},
+"guide": {
+"ex": "The teacher will guide us to the museum.",
+"exZh": "老師會引導我們去博物館。"
+},
+"guitar": {
+"ex": "He plays the guitar at the school party.",
+"exZh": "他在學校派對上彈吉他。"
+},
+"gun": {
+"ex": "The police officer carries a gun for safety.",
+"exZh": "那位警察為了安全帶著一把槍。"
+},
+"guy": {
+"ex": "That tall guy is my new classmate.",
+"exZh": "那個高個子小伙子是我的新同學。"
+},
+"gym": {
+"ex": "We play basketball in the school gym.",
+"exZh": "我們在學校的體育館打籃球。"
+},
+"hair": {
+"ex": "She has long black hair.",
+"exZh": "她有一頭烏黑的長頭髮。"
+},
+"half": {
+"ex": "I ate half an apple for breakfast.",
+"exZh": "我早餐吃了半顆蘋果。"
+},
+"hall": {
+"ex": "Students gathered in the big hall this morning.",
+"exZh": "學生們今天早上聚集在大廳裡。"
+},
+"halloween": {
+"ex": "We wear costumes on Halloween night.",
+"exZh": "我們在萬聖節的晚上穿上服裝。"
+},
+"ham": {
+"ex": "I had a ham sandwich for lunch.",
+"exZh": "我午餐吃了一個火腿三明治。"
+},
+"hamburger": {
+"ex": "He bought a hamburger after school.",
+"exZh": "他放學後買了一個漢堡。"
+},
+"hammer": {
+"ex": "My father used a hammer to fix the chair.",
+"exZh": "我爸爸用槌子修好椅子。"
+},
+"hand": {
+"ex": "Please raise your hand to answer.",
+"exZh": "請舉起你的手來回答。"
+},
+"handkerchief": {
+"ex": "She wiped her face with a clean handkerchief.",
+"exZh": "她用一條乾淨的手帕擦臉。"
+},
+"handle": {
+"ex": "He can handle the problem by himself.",
+"exZh": "他可以自己處理這個問題。"
+},
+"handsome": {
+"ex": "My brother is tall and very handsome.",
+"exZh": "我哥哥很高又很英俊。"
+},
+"hang": {
+"ex": "Please hang your coat on the wall.",
+"exZh": "請把你的外套掛在牆上。"
+},
+"hanger": {
+"ex": "I put my shirt on a hanger.",
+"exZh": "我把襯衫放在衣架上。"
+},
+"hat": {
+"ex": "She wears a red hat to school.",
+"exZh": "她戴一頂紅帽子去學校。"
+},
+"have": {
+"ex": "I have two cats at home.",
+"exZh": "我家裡有兩隻貓。"
+},
+"head": {
+"ex": "He put a hat on his head.",
+"exZh": "他在頭上戴了一頂帽子。"
+},
+"headache": {
+"ex": "I have a bad headache today.",
+"exZh": "我今天頭痛得很厲害。"
+},
+"healthy": {
+"ex": "Eating vegetables keeps you healthy.",
+"exZh": "吃蔬菜能讓你保持健康。"
+},
+"heat": {
+"ex": "The heat in summer is very strong.",
+"exZh": "夏天的熱氣非常強烈。"
+},
+"heater": {
+"ex": "We turn on the heater in winter.",
+"exZh": "我們冬天會打開熱水器。"
+},
+"height": {
+"ex": "What is the height of this tree?",
+"exZh": "這棵樹的高度是多少？"
+},
+"helicopter": {
+"ex": "A helicopter flew over our school.",
+"exZh": "一架直升機飛過我們學校。"
+},
+"helpful": {
+"ex": "My teacher is always very helpful.",
+"exZh": "我的老師總是很有助益。"
+},
+"hen": {
+"ex": "The hen has six baby chicks.",
+"exZh": "那隻母雞有六隻小雞。"
+},
+"hero": {
+"ex": "The firefighter is a real hero.",
+"exZh": "那位消防員是真正的英雄。"
+},
+"hide": {
+"ex": "The cat likes to hide under the bed.",
+"exZh": "那隻貓喜歡躲在床底下。"
+},
+"highway": {
+"ex": "We drove fast on the highway.",
+"exZh": "我們在公路上開得很快。"
+},
+"hike": {
+"ex": "We went on a long hike yesterday.",
+"exZh": "我們昨天去了一趟長途遠足。"
+},
+"hill": {
+"ex": "Our house is on a small hill.",
+"exZh": "我們的房子在一座小山丘上。"
+},
+"hip": {
+"ex": "She put her hands on her hip.",
+"exZh": "她把雙手放在臀部上。"
+},
+"hippo": {
+"ex": "The hippo swims in the river.",
+"exZh": "那隻河馬在河裡游泳。"
+},
+"hire": {
+"ex": "The store will hire two new workers.",
+"exZh": "那家店會雇用兩名新員工。"
+},
+"history": {
+"ex": "I like to read history books.",
+"exZh": "我喜歡讀歷史書。"
+},
+"hit": {
+"ex": "He hit the ball very hard.",
+"exZh": "他把球打得很用力。"
+},
+"hold": {
+"ex": "Please hold my hand on the street.",
+"exZh": "在街上請抓住我的手。"
+},
+"hole": {
+"ex": "There is a hole in my sock.",
+"exZh": "我的襪子上有一個洞。"
+},
+"holiday": {
+"ex": "We visit grandma on every holiday.",
+"exZh": "我們每個假日都去看奶奶。"
+},
+"homework": {
+"ex": "I finish my homework before dinner.",
+"exZh": "我在晚餐前完成作業。"
+},
+"honesty": {
+"ex": "Honesty is very important in friendship.",
+"exZh": "誠實在友誼中非常重要。"
+},
+"honey": {
+"ex": "I like honey in my tea.",
+"exZh": "我喜歡在茶裡加蜂蜜。"
+},
+"hop": {
+"ex": "The rabbit made a quick hop.",
+"exZh": "那隻兔子快速跳躍了一下。"
+},
+"horrible": {
+"ex": "The weather was horrible last night.",
+"exZh": "昨晚的天氣很恐怖。"
+},
+"horse": {
+"ex": "The brown horse runs very fast.",
+"exZh": "那匹棕色的馬跑得很快。"
+},
+"host": {
+"ex": "The host welcomed all the guests.",
+"exZh": "主人歡迎了所有的客人。"
+},
+"hotel": {
+"ex": "We stayed in a nice hotel.",
+"exZh": "我們住在一間不錯的旅館。"
+},
+"hour": {
+"ex": "The movie lasts about two hours.",
+"exZh": "這部電影大約持續兩個小時。"
+},
+"housewife": {
+"ex": "My aunt is a busy housewife.",
+"exZh": "我阿姨是個忙碌的家庭主婦。"
+},
+"housework": {
+"ex": "I help my mom with housework.",
+"exZh": "我幫媽媽做家事。"
+},
+"however": {
+"ex": "It rained; however, we still went out.",
+"exZh": "下雨了，然而我們還是出門了。"
+},
+"huge": {
+"ex": "They live in a huge house.",
+"exZh": "他們住在一棟巨大的房子裡。"
+},
+"human": {
+"ex": "Every human needs food and water.",
+"exZh": "每個人都需要食物和水。"
+},
+"humble": {
+"ex": "He is humble about his success.",
+"exZh": "他對自己的成功很謙虛。"
+},
+"humid": {
+"ex": "The weather is hot and humid today.",
+"exZh": "今天的天氣又熱又潮溼。"
+},
+"humorous": {
+"ex": "Our teacher is funny and humorous.",
+"exZh": "我們的老師很好笑又幽默。"
+},
+"hundred": {
+"ex": "There are a hundred students here.",
+"exZh": "這裡有一百名學生。"
+},
+"hunger": {
+"ex": "Many people in the world feel hunger.",
+"exZh": "世界上有許多人感到飢餓。"
+},
+"hunt": {
+"ex": "Lions hunt for food at night.",
+"exZh": "獅子在夜裡狩獵覓食。"
+},
+"hunter": {
+"ex": "The hunter walked into the forest.",
+"exZh": "那名獵人走進了森林。"
+},
+"hurt": {
+"ex": "I hurt my leg during the game.",
+"exZh": "我在比賽中弄傷了腿。"
+},
+"husband": {
+"ex": "Her husband cooks dinner every day.",
+"exZh": "她的丈夫每天煮晚餐。"
+},
+"ice": {
+"ex": "I put some ice in my water.",
+"exZh": "我在水裡放了一些冰。"
+},
+"if": {
+"ex": "If it rains, we will stay home.",
+"exZh": "假如下雨，我們就待在家裡。"
+},
+"ignore": {
+"ex": "Don't ignore your teacher's advice.",
+"exZh": "不要忽視老師的建議。"
+},
+"ill": {
+"ex": "She was ill and missed school today.",
+"exZh": "她生病了，今天沒來上學。"
+},
+"impolite": {
+"ex": "It is impolite to talk with your mouth full.",
+"exZh": "嘴裡塞滿食物說話是不禮貌的。"
+},
+"importance": {
+"ex": "We learned the importance of being on time.",
+"exZh": "我們學到了守時的重要性。"
+},
+"impossible": {
+"ex": "It is impossible to finish this in one minute.",
+"exZh": "在一分鐘內完成這個是不可能的。"
+},
+"in": {
+"ex": "My pencil is in my bag.",
+"exZh": "我的鉛筆在我的書包裡。"
+},
+"inch": {
+"ex": "This ruler is twelve inches long.",
+"exZh": "這把尺有十二英吋長。"
+},
+"income": {
+"ex": "His monthly income is not very high.",
+"exZh": "他每月的收入並不高。"
+},
+"independent": {
+"ex": "My sister is very independent now.",
+"exZh": "我姊姊現在非常獨立。"
+},
+"indicate": {
+"ex": "The sign indicates the way to the library.",
+"exZh": "這個標誌指示去圖書館的路。"
+},
+"influence": {
+"ex": "My father has a big influence on me.",
+"exZh": "我父親對我有很大的影響。"
+},
+"ink": {
+"ex": "My pen has run out of ink.",
+"exZh": "我的筆沒墨水了。"
+},
+"insect": {
+"ex": "A bee is a kind of insect.",
+"exZh": "蜜蜂是一種昆蟲。"
+},
+"inside": {
+"ex": "It is raining, so let's play inside.",
+"exZh": "下雨了，所以我們在內部地玩吧。"
+},
+"insist": {
+"ex": "My mom insists that I eat breakfast.",
+"exZh": "我媽媽堅持要我吃早餐。"
+},
+"inspire": {
+"ex": "Her speech can inspire many young students.",
+"exZh": "她的演講能激勵許多年輕學生。"
+},
+"instance": {
+"ex": "Give me an instance of a healthy food.",
+"exZh": "給我一個健康食物的例子。"
+},
+"instant": {
+"ex": "I gave an instant answer to the question.",
+"exZh": "我對這個問題做出了立即的回答。"
+},
+"instrument": {
+"ex": "The piano is my favorite instrument.",
+"exZh": "鋼琴是我最喜歡的樂器。"
+},
+"intelligent": {
+"ex": "He is a very intelligent boy.",
+"exZh": "他是一個非常聰明的男孩。"
+},
+"interest": {
+"ex": "Music is my main interest.",
+"exZh": "音樂是我主要的興趣。"
+},
+"interested": {
+"ex": "I am interested in science class.",
+"exZh": "我對自然課感興趣。"
+},
+"international": {
+"ex": "English is an international language.",
+"exZh": "英語是一種國際的語言。"
+},
+"internet": {
+"ex": "I use the Internet to do my homework.",
+"exZh": "我用網路來做功課。"
+},
+"interrupt": {
+"ex": "Please don't interrupt me when I speak.",
+"exZh": "我說話時請不要打擾我。"
+},
+"interview": {
+"ex": "She had a job interview this morning.",
+"exZh": "她今天早上有一場工作訪問。"
+},
+"into": {
+"ex": "The cat ran into the room.",
+"exZh": "那隻貓跑進房間之內。"
+},
+"invent": {
+"ex": "Who did invent the telephone?",
+"exZh": "是誰發明了電話？"
+},
+"invitation": {
+"ex": "Thank you for the party invitation.",
+"exZh": "謝謝你的派對邀請。"
+},
+"iron": {
+"ex": "My mom uses an iron to press shirts.",
+"exZh": "我媽媽用熨斗燙襯衫。"
+},
+"item": {
+"ex": "The first item on the list is bread.",
+"exZh": "清單上的第一個項目是麵包。"
+},
+"jacket": {
+"ex": "Put on your jacket; it is cold.",
+"exZh": "穿上你的外套，天氣很冷。"
+},
+"jam": {
+"ex": "I like bread with strawberry jam.",
+"exZh": "我喜歡塗草莓果醬的麵包。"
+},
+"january": {
+"ex": "My birthday is in January.",
+"exZh": "我的生日在一月。"
+},
+"jazz": {
+"ex": "My uncle loves listening to jazz.",
+"exZh": "我叔叔喜歡聽爵士樂。"
+},
+"jealous": {
+"ex": "He felt jealous of his brother's new bike.",
+"exZh": "他對哥哥的新腳踏車感到妒忌。"
+},
+"jeans": {
+"ex": "She wears blue jeans to school.",
+"exZh": "她穿著藍色牛仔褲去上學。"
+},
+"jeep": {
+"ex": "My father drives a green jeep.",
+"exZh": "我爸爸開一輛綠色的吉普車。"
+},
+"jog": {
+"ex": "I jog in the park every morning.",
+"exZh": "我每天早上在公園慢跑。"
+},
+"joke": {
+"ex": "He told a funny joke in class.",
+"exZh": "他在課堂上講了一個有趣的笑話。"
+},
+"journalist": {
+"ex": "My aunt is a journalist for a newspaper.",
+"exZh": "我阿姨是一家報社的新聞記者。"
+},
+"joy": {
+"ex": "The good news brought us great joy.",
+"exZh": "這個好消息帶給我們極大的喜悅。"
+},
+"judge": {
+"ex": "Don't judge people by their clothes.",
+"exZh": "不要以衣著來判斷他人。"
+},
+"juice": {
+"ex": "I drink orange juice every morning.",
+"exZh": "我每天早上喝柳橙汁。"
+},
+"july": {
+"ex": "Summer vacation starts in July.",
+"exZh": "暑假在七月開始。"
+},
+"june": {
+"ex": "School ends in late June.",
+"exZh": "學期在六月底結束。"
+},
+"just": {
+"ex": "I just finished my homework.",
+"exZh": "我剛才寫完功課。"
+},
+"ketchup": {
+"ex": "I like ketchup on my fries.",
+"exZh": "我喜歡在薯條上加番茄醬。"
+},
+"key": {
+"ex": "I can't find the key to my house.",
+"exZh": "我找不到我家的鑰匙。"
+},
+"kick": {
+"ex": "He likes to kick the ball after school.",
+"exZh": "他喜歡放學後踢球。"
+},
+"kid": {
+"ex": "That little kid is playing in the park.",
+"exZh": "那個小孩正在公園裡玩。"
+},
+"kill": {
+"ex": "Please don't kill the small bug.",
+"exZh": "請不要殺死那隻小蟲。"
+},
+"kilogram": {
+"ex": "This bag of rice weighs five kilograms.",
+"exZh": "這袋米重五公斤。"
+},
+"kilometer": {
+"ex": "My school is two kilometers from home.",
+"exZh": "我的學校離家兩公里。"
+},
+"kindergarten": {
+"ex": "My little sister goes to kindergarten every day.",
+"exZh": "我妹妹每天去幼稚園。"
+},
+"king": {
+"ex": "The king lived in a big castle.",
+"exZh": "國王住在一座大城堡裡。"
+},
+"kingdom": {
+"ex": "The kingdom was famous for its tall mountains.",
+"exZh": "這個王國以它的高山聞名。"
+},
+"kiss": {
+"ex": "She gave her mother a goodnight kiss.",
+"exZh": "她給了媽媽一個晚安吻。"
+},
+"kitchen": {
+"ex": "My mom is cooking dinner in the kitchen.",
+"exZh": "我媽媽正在廚房裡煮晚餐。"
+},
+"kite": {
+"ex": "We flew a colorful kite in the park.",
+"exZh": "我們在公園裡放了一個五彩的風箏。"
+},
+"kitten": {
+"ex": "The little kitten is sleeping on the chair.",
+"exZh": "那隻小貓正在椅子上睡覺。"
+},
+"knee": {
+"ex": "I hurt my knee when I fell down.",
+"exZh": "我跌倒時弄傷了膝蓋。"
+},
+"knife": {
+"ex": "Be careful when you use the sharp knife.",
+"exZh": "使用這把鋒利的刀時要小心。"
+},
+"knock": {
+"ex": "Please knock on the door before you come in.",
+"exZh": "進來之前請先敲門。"
+},
+"lady": {
+"ex": "The kind lady helped me find the way.",
+"exZh": "那位親切的女士幫我找到了路。"
+},
+"lake": {
+"ex": "We went fishing by the quiet lake.",
+"exZh": "我們在安靜的湖泊邊釣魚。"
+},
+"lamb": {
+"ex": "A little lamb is eating grass on the hill.",
+"exZh": "一隻小羊在山坡上吃草。"
+},
+"lamp": {
+"ex": "Please turn on the lamp; it's dark.",
+"exZh": "請打開檯燈，天黑了。"
+},
+"land": {
+"ex": "My grandfather has some land in the country.",
+"exZh": "我祖父在鄉下有一些土地。"
+},
+"lantern": {
+"ex": "We hung a red lantern for the festival.",
+"exZh": "我們為這個節日掛了一個紅燈籠。"
+},
+"large": {
+"ex": "They live in a large house near the sea.",
+"exZh": "他們住在海邊一棟大房子裡。"
+},
+"last": {
+"ex": "December is the last month of the year.",
+"exZh": "十二月是一年中最後的月份。"
+},
+"later": {
+"ex": "Let's meet at a later time today.",
+"exZh": "我們今天約稍晚的時間見面吧。"
+},
+"latest": {
+"ex": "Have you heard the latest news from school?",
+"exZh": "你聽到學校最新的消息了嗎？"
+},
+"law": {
+"ex": "We must follow the law to stay safe.",
+"exZh": "我們必須遵守法律才能保持安全。"
+},
+"lawyer": {
+"ex": "My uncle is a lawyer in the city.",
+"exZh": "我叔叔是城裡的一位律師。"
+},
+"lay": {
+"ex": "Please lay your books on the desk.",
+"exZh": "請把你的書放在桌上。"
+},
+"lazy": {
+"ex": "He is too lazy to clean his room.",
+"exZh": "他太懶惰了，不願打掃房間。"
+},
+"lead": {
+"ex": "Our teacher will lead us to the museum.",
+"exZh": "我們的老師會帶領我們去博物館。"
+},
+"leader": {
+"ex": "She is a good leader of our class.",
+"exZh": "她是我們班上很好的領袖。"
+},
+"leaf": {
+"ex": "A yellow leaf fell from the tall tree.",
+"exZh": "一片黃葉子從高樹上落下。"
+},
+"least": {
+"ex": "This is the least expensive book in the store.",
+"exZh": "這是店裡最便宜的書。"
+},
+"left": {
+"ex": "Turn left at the next corner, please.",
+"exZh": "請在下一個轉角向左轉。"
+},
+"leg": {
+"ex": "The dog hurt its leg while running.",
+"exZh": "那隻狗跑步時弄傷了腿。"
+},
+"legal": {
+"ex": "Driving a car at sixteen is not legal here.",
+"exZh": "在這裡十六歲開車是不合法的。"
+},
+"lemon": {
+"ex": "She added a slice of lemon to her tea.",
+"exZh": "她在茶裡加了一片檸檬。"
+},
+"lend": {
+"ex": "Can you lend me your pencil, please?",
+"exZh": "你可以借我你的鉛筆嗎？"
+},
+"less": {
+"ex": "I want less sugar in my coffee today.",
+"exZh": "我今天的咖啡想要較少的糖。"
+},
+"let": {
+"ex": "My parents let me play after homework.",
+"exZh": "我的父母讓我寫完功課後玩。"
+},
+"lettuce": {
+"ex": "I put some fresh lettuce in my sandwich.",
+"exZh": "我在三明治裡放了一些新鮮的生菜。"
+},
+"level": {
+"ex": "Her English is at a high level now.",
+"exZh": "她的英文現在達到很高的水準。"
+},
+"lick": {
+"ex": "The cat likes to lick its paws.",
+"exZh": "那隻貓喜歡舔自己的爪子。"
+},
+"lid": {
+"ex": "Please put the lid back on the box.",
+"exZh": "請把蓋子蓋回盒子上。"
+},
+"lie": {
+"ex": "Telling a lie to your friends is wrong.",
+"exZh": "對朋友說謊言是不對的。"
+},
+"lift": {
+"ex": "Can you help me lift this heavy box?",
+"exZh": "你可以幫我抬起這個重箱子嗎？"
+},
+"light": {
+"ex": "Please turn off the light before you sleep.",
+"exZh": "睡覺前請把燈關掉。"
+},
+"lightning": {
+"ex": "We saw bright lightning during the big storm.",
+"exZh": "我們在大暴風雨中看到明亮的閃電。"
+},
+"likely": {
+"ex": "It is likely to rain this afternoon.",
+"exZh": "今天下午可能會下雨。"
+},
+"lily": {
+"ex": "My mother grows white lily flowers in our garden.",
+"exZh": "我媽媽在我們的花園裡種白色的百合花。"
+},
+"limit": {
+"ex": "There is a time limit for this English test.",
+"exZh": "這個英文測驗有時間限度。"
+},
+"line": {
+"ex": "Please draw a straight line in your notebook.",
+"exZh": "請在你的筆記本上畫一條直線。"
+},
+"link": {
+"ex": "There is a clear link between sleep and health.",
+"exZh": "睡眠和健康之間有明顯的關聯。"
+},
+"lion": {
+"ex": "The lion is sleeping under a big tree.",
+"exZh": "那隻獅子正在一棵大樹下睡覺。"
+},
+"lip": {
+"ex": "Her lips turned blue in the cold water.",
+"exZh": "她的嘴唇在冰冷的水裡變藍了。"
+},
+"liquid": {
+"ex": "Water is a liquid we drink every day.",
+"exZh": "水是我們每天喝的一種液體。"
+},
+"list": {
+"ex": "Please list your favorite books on this paper.",
+"exZh": "請在這張紙上把你最喜歡的書列表出來。"
+},
+"liter": {
+"ex": "I drink two liters of water every day.",
+"exZh": "我每天喝兩升的水。"
+},
+"little": {
+"ex": "We have little time before the bus comes.",
+"exZh": "在公車來之前我們只有少的時間。"
+},
+"loaf": {
+"ex": "My dad bought a loaf of fresh bread.",
+"exZh": "我爸爸買了一條新鮮的麵包。"
+},
+"lock": {
+"ex": "The lock on my bike is very strong.",
+"exZh": "我腳踏車上的鎖非常堅固。"
+},
+"locker": {
+"ex": "I keep my books in the school locker.",
+"exZh": "我把我的書放在學校的寄物櫃裡。"
+},
+"lose": {
+"ex": "Be careful not to lose your new phone.",
+"exZh": "小心不要失去你的新手機。"
+},
+"loser": {
+"ex": "A good loser smiles and tries again.",
+"exZh": "一個好的失敗者會微笑並再試一次。"
+},
+"lot": {
+"ex": "I have a lot of homework tonight.",
+"exZh": "我今晚有許多功課。"
+},
+"loud": {
+"ex": "The music is too loud for me.",
+"exZh": "這音樂對我來說太大聲了。"
+},
+"lovely": {
+"ex": "What a lovely little dog you have!",
+"exZh": "你有一隻多麼可愛的小狗啊！"
+},
+"lover": {
+"ex": "She is a true lover of classical music.",
+"exZh": "她是個真正的古典音樂愛好者。"
+},
+"low": {
+"ex": "The price of this book is very low.",
+"exZh": "這本書的價格非常低。"
+},
+"luck": {
+"ex": "I wish you good luck on the exam.",
+"exZh": "我祝你考試有好運氣。"
+},
+"machine": {
+"ex": "This machine can wash our clothes fast.",
+"exZh": "這台機器可以快速地清洗我們的衣服。"
+},
+"mad": {
+"ex": "My mom was mad because I came home late.",
+"exZh": "我媽媽很生氣，因為我太晚回家。"
+},
+"magic": {
+"ex": "The boy loves to learn card magic.",
+"exZh": "那個男孩很喜歡學習紙牌魔術。"
+},
+"magician": {
+"ex": "The magician pulled a rabbit from his hat.",
+"exZh": "魔術師從他的帽子裡拉出一隻兔子。"
+},
+"mail": {
+"ex": "I got some mail from my old friend.",
+"exZh": "我收到一些來自老朋友的郵件。"
+},
+"main": {
+"ex": "What is the main idea of this story?",
+"exZh": "這個故事的主要想法是什麼？"
+},
+"maintain": {
+"ex": "We must maintain a clean and tidy classroom.",
+"exZh": "我們必須維持一間乾淨整潔的教室。"
+},
+"major": {
+"ex": "Math is a major subject in our school.",
+"exZh": "數學在我們學校是一門主要的科目。"
+},
+"male": {
+"ex": "That tall male is my new teacher.",
+"exZh": "那位高個子的男性是我的新老師。"
+},
+"mall": {
+"ex": "We met our friends at the shopping mall.",
+"exZh": "我們在購物商場和朋友見面。"
+},
+"man": {
+"ex": "The old man is sitting on the bench.",
+"exZh": "那位老男人正坐在長椅上。"
+},
+"manager": {
+"ex": "The store manager helped me find a shirt.",
+"exZh": "那位商店經理幫我找到一件襯衫。"
+},
+"mango": {
+"ex": "I ate a sweet mango after lunch.",
+"exZh": "我午餐後吃了一顆甜的芒果。"
+},
+"many": {
+"ex": "There are many students in the library.",
+"exZh": "圖書館裡有許多的學生。"
+},
+"march": {
+"ex": "My birthday is in early March.",
+"exZh": "我的生日在三月初。"
+},
+"mark": {
+"ex": "Please put a mark beside your name.",
+"exZh": "請在你的名字旁邊做個標記。"
+},
+"marriage": {
+"ex": "Their marriage made both families very happy.",
+"exZh": "他們的結婚讓兩個家庭都很開心。"
+},
+"married": {
+"ex": "My aunt is married to a kind man.",
+"exZh": "我阿姨嫁給了一個善良的男人，是已婚的。"
+},
+"marry": {
+"ex": "He hopes to marry her next year.",
+"exZh": "他希望明年和她結婚。"
+},
+"marvelous": {
+"ex": "We had a marvelous time at the beach.",
+"exZh": "我們在海灘度過了非凡的時光。"
+},
+"mask": {
+"ex": "She wore a funny mask to the party.",
+"exZh": "她戴著一個有趣的面具去派對。"
+},
+"mass": {
+"ex": "A large mass of ice floated in the sea.",
+"exZh": "一大塊冰漂浮在海上。"
+},
+"master": {
+"ex": "He is a master of Chinese painting.",
+"exZh": "他是中國繪畫的大師。"
+},
+"mat": {
+"ex": "Please wipe your shoes on the mat.",
+"exZh": "請在墊子上擦你的鞋子。"
+},
+"match": {
+"ex": "Our team won the basketball match today.",
+"exZh": "我們的隊伍今天贏了那場籃球比賽。"
+},
+"mate": {
+"ex": "The bird sings to call its mate.",
+"exZh": "那隻鳥唱歌來呼喚牠的配偶。"
+},
+"material": {
+"ex": "This bag is made of strong material.",
+"exZh": "這個袋子是用堅固的材料做成的。"
+},
+"matter": {
+"ex": "What is the matter with you today?",
+"exZh": "你今天怎麼了，有什麼事情嗎？"
+},
+"maximum": {
+"ex": "The maximum number of players is eleven.",
+"exZh": "球員最多的人數是十一人。"
+},
+"may": {
+"ex": "It may rain this afternoon, so bring an umbrella.",
+"exZh": "今天下午可能會下雨，所以帶把傘。"
+},
+"maybe": {
+"ex": "Maybe we can play basketball after school today.",
+"exZh": "也許我們今天放學後可以打籃球。"
+},
+"meal": {
+"ex": "We eat three meals every day.",
+"exZh": "我們每天吃三餐。"
+},
+"meaning": {
+"ex": "I don't know the meaning of this word.",
+"exZh": "我不知道這個字的意思。"
+},
+"measure": {
+"ex": "The teacher will measure the desk with a ruler.",
+"exZh": "老師會用尺測量書桌。"
+},
+"meat": {
+"ex": "My brother loves to eat meat for dinner.",
+"exZh": "我弟弟晚餐喜歡吃肉類。"
+},
+"mechanic": {
+"ex": "The mechanic fixed my father's car yesterday.",
+"exZh": "那位技工昨天修好了我爸爸的車。"
+},
+"media": {
+"ex": "The media often report important news every day.",
+"exZh": "大眾傳媒每天常常報導重要新聞。"
+},
+"medicine": {
+"ex": "Please take this medicine after each meal.",
+"exZh": "請在每餐後吃這個藥。"
+},
+"medium": {
+"ex": "I want a medium size T-shirt, please.",
+"exZh": "請給我一件中等尺寸的T恤。"
+},
+"meeting": {
+"ex": "My mother has a meeting at the office today.",
+"exZh": "我媽媽今天在辦公室有一個會議。"
+},
+"member": {
+"ex": "She is a new member of our school club.",
+"exZh": "她是我們學校社團的新會員。"
+},
+"memory": {
+"ex": "My grandmother has a very good memory.",
+"exZh": "我奶奶的記憶力很好。"
+},
+"menu": {
+"ex": "Please show me the menu before I order.",
+"exZh": "我點餐前請給我看菜單。"
+},
+"metal": {
+"ex": "This box is made of strong metal.",
+"exZh": "這個盒子是用堅固的金屬做的。"
+},
+"meter": {
+"ex": "The swimming pool is fifty meters long.",
+"exZh": "這個游泳池有五十公尺長。"
+},
+"microwave": {
+"ex": "Please heat the milk in the microwave.",
+"exZh": "請把牛奶放進微波爐裡加熱。"
+},
+"middle": {
+"ex": "The teacher stands in the middle of the room.",
+"exZh": "老師站在房間的中間。"
+},
+"midnight": {
+"ex": "I went to bed at midnight last night.",
+"exZh": "我昨晚午夜時上床睡覺。"
+},
+"mile": {
+"ex": "My house is one mile from school.",
+"exZh": "我家離學校有一英里遠。"
+},
+"million": {
+"ex": "A million people live in this big city.",
+"exZh": "有一百萬人住在這座大城市裡。"
+},
+"mind": {
+"ex": "Do you mind if I open the window?",
+"exZh": "你介意我打開窗戶嗎？"
+},
+"mine": {
+"ex": "Many workers used to dig coal in the mine.",
+"exZh": "許多工人以前在礦坑裡挖煤。"
+},
+"minor": {
+"ex": "This is only a minor problem, don't worry.",
+"exZh": "這只是個次要的問題，別擔心。"
+},
+"minus": {
+"ex": "Ten minus three is seven.",
+"exZh": "十減三等於七。"
+},
+"mirror": {
+"ex": "She looks at herself in the mirror.",
+"exZh": "她在鏡子裡看著自己。"
+},
+"mix": {
+"ex": "Please mix the sugar and the eggs well.",
+"exZh": "請把糖和蛋好好混合。"
+},
+"model": {
+"ex": "She wants to be a famous model someday.",
+"exZh": "她想要有一天成為知名的模特兒。"
+},
+"moment": {
+"ex": "Please wait a moment, I will be right back.",
+"exZh": "請等一下，我馬上回來。"
+},
+"monday": {
+"ex": "We have an English test every Monday.",
+"exZh": "我們每個星期一都有英文考試。"
+},
+"monkey": {
+"ex": "The monkey is eating a banana in the tree.",
+"exZh": "那隻猴子正在樹上吃香蕉。"
+},
+"monster": {
+"ex": "The little boy was afraid of the monster.",
+"exZh": "那個小男孩害怕那隻妖怪。"
+},
+"moon": {
+"ex": "The moon is bright in the night sky.",
+"exZh": "月亮在夜空中很明亮。"
+},
+"mop": {
+"ex": "She cleaned the floor with a mop.",
+"exZh": "她用拖把清潔地板。"
+},
+"more": {
+"ex": "I need more time to finish my homework.",
+"exZh": "我需要更多的時間完成我的功課。"
+},
+"mosquito": {
+"ex": "A mosquito bit me on the arm last night.",
+"exZh": "昨晚一隻蚊子咬了我的手臂。"
+},
+"most": {
+"ex": "Most students like the summer vacation.",
+"exZh": "大多數學生喜歡暑假。"
+},
+"motion": {
+"ex": "The slow motion of the dance is beautiful.",
+"exZh": "這支舞蹈緩慢的動作很美。"
+},
+"motorcycle": {
+"ex": "My uncle rides a motorcycle to work.",
+"exZh": "我叔叔騎摩托車去上班。"
+},
+"mouse": {
+"ex": "A small mouse ran across the kitchen floor.",
+"exZh": "一隻小老鼠跑過廚房地板。"
+},
+"mouth": {
+"ex": "Please close your mouth when you eat.",
+"exZh": "吃東西時請閉上你的嘴巴。"
+},
+"move": {
+"ex": "Please help me move this heavy box.",
+"exZh": "請幫我移動這個重箱子。"
+},
+"movement": {
+"ex": "The dancer's movement was slow and graceful.",
+"exZh": "舞者的動作緩慢又優雅。"
+},
+"mr.": {
+"ex": "Mr. Wang is our new math teacher.",
+"exZh": "王先生是我們新的數學老師。"
+},
+"mrt": {
+"ex": "I take the MRT to school every day.",
+"exZh": "我每天搭捷運去學校。"
+},
+"mud": {
+"ex": "The children played in the mud after the rain.",
+"exZh": "孩子們在雨後的泥濘裡玩耍。"
+},
+"mug": {
+"ex": "She drinks hot coffee from a big mug.",
+"exZh": "她用一個大馬克杯喝熱咖啡。"
+},
+"museum": {
+"ex": "We visited the art museum last weekend.",
+"exZh": "我們上週末參觀了美術博物館。"
+},
+"musician": {
+"ex": "My sister wants to be a famous musician.",
+"exZh": "我姐姐想成為一位知名的音樂家。"
+},
+"must": {
+"ex": "You must finish your homework before dinner.",
+"exZh": "你必須在晚餐前完成你的功課。"
+},
+"nail": {
+"ex": "He used a hammer to hit the nail.",
+"exZh": "他用鎚子敲那根釘子。"
+},
+"napkin": {
+"ex": "Please put a napkin on the table.",
+"exZh": "請在桌上放一張餐巾。"
+},
+"narrow": {
+"ex": "This street is too narrow for a bus.",
+"exZh": "這條街太窄，公車過不去。"
+},
+"nation": {
+"ex": "Our nation has a long history.",
+"exZh": "我們的國家有悠久的歷史。"
+},
+"national": {
+"ex": "We visited the national museum last week.",
+"exZh": "我們上週參觀了國家博物館。"
+},
+"natural": {
+"ex": "The park has many natural lakes.",
+"exZh": "那座公園有許多天然的湖。"
+},
+"naughty": {
+"ex": "The naughty boy broke the window.",
+"exZh": "那個頑皮的男孩打破了窗戶。"
+},
+"near": {
+"ex": "My house is near the school.",
+"exZh": "我家就在學校附近。"
+},
+"nearly": {
+"ex": "I nearly missed the morning bus.",
+"exZh": "我差點錯過了早上的公車。"
+},
+"neck": {
+"ex": "She wore a scarf around her neck.",
+"exZh": "她在脖子上圍了一條圍巾。"
+},
+"necklace": {
+"ex": "My mother bought a gold necklace.",
+"exZh": "我媽媽買了一條金項鍊。"
+},
+"needle": {
+"ex": "She used a needle to fix the shirt.",
+"exZh": "她用針來縫補那件襯衫。"
+},
+"neighbor": {
+"ex": "My neighbor is very kind to me.",
+"exZh": "我的鄰居對我很友善。"
+},
+"neither": {
+"ex": "Neither Tom nor I like coffee.",
+"exZh": "湯姆和我都不喜歡咖啡。"
+},
+"nephew": {
+"ex": "My nephew is only five years old.",
+"exZh": "我的姪子才五歲。"
+},
+"nest": {
+"ex": "Two birds built a nest in the tree.",
+"exZh": "兩隻鳥在樹上築了一個巢。"
+},
+"new": {
+"ex": "I bought a new bag yesterday.",
+"exZh": "我昨天買了一個新書包。"
+},
+"news": {
+"ex": "I watch the news every evening.",
+"exZh": "我每天晚上看新聞。"
+},
+"next": {
+"ex": "We will have a test next week.",
+"exZh": "我們下週會有一場考試。"
+},
+"niece": {
+"ex": "My niece loves to draw pictures.",
+"exZh": "我的姪女喜歡畫圖。"
+},
+"nine": {
+"ex": "There are nine students in the room.",
+"exZh": "房間裡有九個學生。"
+},
+"nineteen": {
+"ex": "My brother is nineteen years old.",
+"exZh": "我哥哥十九歲。"
+},
+"ninety": {
+"ex": "My grandmother is almost ninety years old.",
+"exZh": "我奶奶快九十歲了。"
+},
+"no": {
+"ex": "No, I don't want any more.",
+"exZh": "不，我不想要更多了。"
+},
+"nod": {
+"ex": "She will nod when she agrees.",
+"exZh": "她同意時會點頭。"
+},
+"noisy": {
+"ex": "The classroom is very noisy today.",
+"exZh": "今天教室很吵。"
+},
+"none": {
+"ex": "None of them came to the party.",
+"exZh": "他們沒有人來參加派對。"
+},
+"noodle": {
+"ex": "I had a bowl of noodle soup.",
+"exZh": "我吃了一碗麵條湯。"
+},
+"nor": {
+"ex": "I can neither sing nor dance.",
+"exZh": "我既不會唱歌也不會跳舞。"
+},
+"north": {
+"ex": "The cold wind comes from the north.",
+"exZh": "冷風從北方吹來。"
+},
+"nose": {
+"ex": "The dog has a wet black nose.",
+"exZh": "那隻狗有個濕濕的黑鼻子。"
+},
+"not": {
+"ex": "This answer is not correct.",
+"exZh": "這個答案不是正確的。"
+},
+"note": {
+"ex": "She left a note on my desk.",
+"exZh": "她在我桌上留了一張便條。"
+},
+"notebook": {
+"ex": "I write English words in my notebook.",
+"exZh": "我把英文單字寫在筆記本裡。"
+},
+"nothing": {
+"ex": "There is nothing in the box.",
+"exZh": "盒子裡什麼都沒有。"
+},
+"novel": {
+"ex": "I read an interesting novel last night.",
+"exZh": "我昨晚讀了一本有趣的小說。"
+},
+"november": {
+"ex": "My birthday is in November.",
+"exZh": "我的生日在十一月。"
+},
+"number": {
+"ex": "Please write your phone number here.",
+"exZh": "請把你的電話號碼寫在這裡。"
+},
+"nurse": {
+"ex": "The nurse took care of the sick boy.",
+"exZh": "那位護士照顧了那個生病的男孩。"
+},
+"nut": {
+"ex": "Squirrels like to eat nuts in fall.",
+"exZh": "松鼠喜歡在秋天吃堅果。"
+},
+"obey": {
+"ex": "Students should obey the school rules.",
+"exZh": "學生應該遵守校規。"
+},
+"object": {
+"ex": "What is that strange object on the floor?",
+"exZh": "地上那個奇怪的物體是什麼？"
+},
+"ocean": {
+"ex": "Many fish live in the deep ocean.",
+"exZh": "許多魚住在深深的海洋裡。"
+},
+"october": {
+"ex": "School starts again in October.",
+"exZh": "學校在十月再次開學。"
+},
+"of": {
+"ex": "This is a photo of my family.",
+"exZh": "這是一張我家人的照片。"
+},
+"off": {
+"ex": "Please turn off the lights before you leave.",
+"exZh": "離開前請把燈關掉。"
+},
+"offer": {
+"ex": "They offer free water to the runners.",
+"exZh": "他們提供免費的水給跑者。"
+},
+"officer": {
+"ex": "A police officer helped us find the way.",
+"exZh": "一位警官幫我們找路。"
+},
+"oil": {
+"ex": "Cars need oil and gas to run.",
+"exZh": "汽車需要石油和汽油才能跑。"
+},
+"okay": {
+"ex": "Are you okay after the long trip?",
+"exZh": "長途旅行後你還好嗎？"
+},
+"omit": {
+"ex": "Please do not omit your name on the form.",
+"exZh": "請不要在表格上省略你的名字。"
+},
+"on": {
+"ex": "The book is on the table.",
+"exZh": "書在桌子上面。"
+},
+"once": {
+"ex": "I brush my teeth at least once a day.",
+"exZh": "我每天至少刷牙一次。"
+},
+"one": {
+"ex": "I only need one apple for lunch.",
+"exZh": "午餐我只需要一個蘋果。"
+},
+"onion": {
+"ex": "My mom cut an onion in the kitchen.",
+"exZh": "我媽媽在廚房切了一顆洋蔥。"
+},
+"operate": {
+"ex": "Can you operate this new machine?",
+"exZh": "你會操作這台新機器嗎？"
+},
+"opinion": {
+"ex": "Please tell me your opinion about the movie.",
+"exZh": "請告訴我你對這部電影的意見。"
+},
+"or": {
+"ex": "Do you want tea or coffee?",
+"exZh": "你想要茶或者咖啡？"
+},
+"orange": {
+"ex": "I eat an orange after dinner every day.",
+"exZh": "我每天晚餐後吃一顆柑橘。"
+},
+"ordinary": {
+"ex": "It was just an ordinary school day.",
+"exZh": "那只是普通的上學日。"
+},
+"organ": {
+"ex": "The heart is an important organ in our body.",
+"exZh": "心臟是我們身體裡重要的器官。"
+},
+"organization": {
+"ex": "She works for a large health organization.",
+"exZh": "她在一個大型的健康機構工作。"
+},
+"other": {
+"ex": "My other shoe is under the bed.",
+"exZh": "我另外一隻鞋在床底下。"
+},
+"out": {
+"ex": "The cat ran out of the house.",
+"exZh": "那隻貓跑出屋外。"
+},
+"oven": {
+"ex": "She put the cake into the oven.",
+"exZh": "她把蛋糕放進烤箱裡。"
+},
+"over": {
+"ex": "A bird is flying over our school.",
+"exZh": "一隻鳥正飛在我們學校之上。"
+},
+"overseas": {
+"ex": "My brother is studying overseas this year.",
+"exZh": "我哥哥今年在國外讀書。"
+},
+"owner": {
+"ex": "The dog's owner is my neighbor.",
+"exZh": "那隻狗的物主是我的鄰居。"
+},
+"ox": {
+"ex": "The farmer used an ox to pull the cart.",
+"exZh": "農夫用一頭公牛來拉車。"
+},
+"pack": {
+"ex": "I need to pack my bag for school.",
+"exZh": "我需要打包我的書包去上學。"
+},
+"package": {
+"ex": "A big package came for you today.",
+"exZh": "今天有一個大包裹寄給你。"
+},
+"page": {
+"ex": "Please turn to page ten in your book.",
+"exZh": "請翻到你書本的第十頁。"
+},
+"pain": {
+"ex": "I feel a sharp pain in my leg.",
+"exZh": "我感覺腿上有一陣劇烈的痛苦。"
+},
+"painful": {
+"ex": "The cut on my hand is very painful.",
+"exZh": "我手上的傷口非常痛苦。"
+},
+"paint": {
+"ex": "We will paint a picture in art class.",
+"exZh": "我們會在美術課畫圖。"
+},
+"painter": {
+"ex": "My uncle is a famous painter.",
+"exZh": "我叔叔是一位有名的畫家。"
+},
+"pair": {
+"ex": "I bought a new pair of shoes.",
+"exZh": "我買了一雙新鞋子。"
+},
+"pajamas": {
+"ex": "She wears warm pajamas in winter.",
+"exZh": "她冬天時穿溫暖的睡衣。"
+},
+"pale": {
+"ex": "Your face looks pale today; are you sick?",
+"exZh": "你今天臉色蒼白，你生病了嗎？"
+},
+"pan": {
+"ex": "He fried an egg in the pan.",
+"exZh": "他用平底鍋煎了一顆蛋。"
+},
+"panda": {
+"ex": "The panda is eating bamboo at the zoo.",
+"exZh": "那隻貓熊正在動物園吃竹子。"
+},
+"pants": {
+"ex": "These pants are too long for me.",
+"exZh": "這條褲子對我來說太長了。"
+},
+"papaya": {
+"ex": "I like to drink papaya milk.",
+"exZh": "我喜歡喝木瓜牛奶。"
+},
+"paper": {
+"ex": "Please write your answer on the paper.",
+"exZh": "請把你的答案寫在紙上。"
+},
+"pardon": {
+"ex": "I beg your pardon for being late.",
+"exZh": "我為遲到請求你的原諒。"
+},
+"parrot": {
+"ex": "My parrot can say hello to me.",
+"exZh": "我的鸚鵡會對我說哈囉。"
+},
+"part": {
+"ex": "This is my favorite part of the song.",
+"exZh": "這是這首歌我最喜歡的部分。"
+},
+"particular": {
+"ex": "She is very particular about her food.",
+"exZh": "她對食物非常特別講究。"
+},
+"partner": {
+"ex": "Please find a partner for this game.",
+"exZh": "請為這個遊戲找一位夥伴。"
+},
+"pass": {
+"ex": "I hope I can pass the math test.",
+"exZh": "我希望我能通過數學考試。"
+},
+"passenger": {
+"ex": "Every passenger must wear a seat belt.",
+"exZh": "每位乘客都必須繫安全帶。"
+},
+"past": {
+"ex": "We talked about our past summer trips.",
+"exZh": "我們聊了我們過去的暑假旅行。"
+},
+"paste": {
+"ex": "She made paste from flour and water.",
+"exZh": "她用麵粉和水做成麵糰。"
+},
+"path": {
+"ex": "We walked along a small path in the park.",
+"exZh": "我們沿著公園裡的小徑走。"
+},
+"pattern": {
+"ex": "Her dress has a beautiful flower pattern.",
+"exZh": "她的洋裝有美麗的花朵模式。"
+},
+"pause": {
+"ex": "Let's take a short pause before we start.",
+"exZh": "我們開始前先做個短暫的停頓吧。"
+},
+"peace": {
+"ex": "Everyone in the world wants peace.",
+"exZh": "世界上每個人都想要和平。"
+},
+"peaceful": {
+"ex": "The countryside is quiet and peaceful.",
+"exZh": "鄉下安靜又和平。"
+},
+"peach": {
+"ex": "This peach is sweet and juicy.",
+"exZh": "這顆桃子又甜又多汁。"
+},
+"peanut": {
+"ex": "I like to eat peanut butter on bread.",
+"exZh": "我喜歡在麵包上塗花生醬。"
+},
+"pear": {
+"ex": "I ate a sweet pear after lunch.",
+"exZh": "午餐後我吃了一顆甜梨子。"
+},
+"pen": {
+"ex": "Can I borrow your blue pen?",
+"exZh": "我可以借你的藍色筆嗎？"
+},
+"pencil": {
+"ex": "She drew a cat with a pencil.",
+"exZh": "她用鉛筆畫了一隻貓。"
+},
+"pepper": {
+"ex": "Please add some pepper to the soup.",
+"exZh": "請在湯裡加一些胡椒粉。"
+},
+"perfect": {
+"ex": "Today is a perfect day for a picnic.",
+"exZh": "今天是野餐的完美日子。"
+},
+"period": {
+"ex": "He lived here for a long period.",
+"exZh": "他在這裡住了很長一段時間。"
+},
+"personal": {
+"ex": "This is my personal diary.",
+"exZh": "這是我個人的日記。"
+},
+"pet": {
+"ex": "My pet dog loves to play.",
+"exZh": "我的寵物狗喜歡玩耍。"
+},
+"physics": {
+"ex": "Physics is my favorite school subject.",
+"exZh": "物理是我最喜歡的學校科目。"
+},
+"piano": {
+"ex": "She plays the piano every evening.",
+"exZh": "她每天晚上彈鋼琴。"
+},
+"pick": {
+"ex": "Please pick a number from one to ten.",
+"exZh": "請從一到十挑選一個數字。"
+},
+"picture": {
+"ex": "We took a picture in the park.",
+"exZh": "我們在公園拍了一張照片。"
+},
+"pie": {
+"ex": "My mom baked an apple pie.",
+"exZh": "我媽媽烤了一個蘋果派。"
+},
+"piece": {
+"ex": "He gave me a piece of paper.",
+"exZh": "他給了我一張紙。"
+},
+"pig": {
+"ex": "The pig is sleeping in the mud.",
+"exZh": "那隻豬正在泥巴裡睡覺。"
+},
+"pigeon": {
+"ex": "A pigeon landed on the roof.",
+"exZh": "一隻鴿子停在屋頂上。"
+},
+"pile": {
+"ex": "There is a pile of books on the desk.",
+"exZh": "書桌上有一堆書。"
+},
+"pillow": {
+"ex": "My pillow is soft and white.",
+"exZh": "我的枕頭又軟又白。"
+},
+"pin": {
+"ex": "She used a pin to hold the paper.",
+"exZh": "她用一根別針固定紙張。"
+},
+"pineapple": {
+"ex": "This pineapple tastes very sweet.",
+"exZh": "這顆鳳梨嘗起來很甜。"
+},
+"pink": {
+"ex": "She wore a pink dress to school.",
+"exZh": "她穿了一件粉紅色的洋裝上學。"
+},
+"pipe": {
+"ex": "The old man smoked a wooden pipe.",
+"exZh": "那位老人抽著一個木製煙斗。"
+},
+"pizza": {
+"ex": "We ordered a large cheese pizza.",
+"exZh": "我們點了一個大份的起司披薩。"
+},
+"plain": {
+"ex": "Many cows graze on the wide plain.",
+"exZh": "許多牛在寬廣的平原上吃草。"
+},
+"planet": {
+"ex": "Earth is the planet we live on.",
+"exZh": "地球是我們居住的行星。"
+},
+"plant": {
+"ex": "I water this plant every morning.",
+"exZh": "我每天早上幫這株植物澆水。"
+},
+"plate": {
+"ex": "Put the cake on a clean plate.",
+"exZh": "把蛋糕放在乾淨的盤子上。"
+},
+"platform": {
+"ex": "The train left from platform two.",
+"exZh": "火車從第二月臺出發。"
+},
+"player": {
+"ex": "He is the best player on the team.",
+"exZh": "他是隊上最厲害的運動員。"
+},
+"playground": {
+"ex": "The children are running on the playground.",
+"exZh": "孩子們正在操場上奔跑。"
+},
+"pleasant": {
+"ex": "We had a pleasant walk by the river.",
+"exZh": "我們在河邊散了一段舒適的步。"
+},
+"plus": {
+"ex": "Two plus three equals five.",
+"exZh": "二加三等於五。"
+},
+"pocket": {
+"ex": "He put the key in his pocket.",
+"exZh": "他把鑰匙放進口袋。"
+},
+"poem": {
+"ex": "She wrote a poem about spring.",
+"exZh": "她寫了一首關於春天的詩。"
+},
+"poet": {
+"ex": "The poet read his work aloud.",
+"exZh": "那位詩人大聲朗讀他的作品。"
+},
+"point": {
+"ex": "Don't point at people; it's rude.",
+"exZh": "不要指著別人，這很沒禮貌。"
+},
+"poison": {
+"ex": "Some plants contain a strong poison.",
+"exZh": "有些植物含有強烈的毒藥。"
+},
+"police": {
+"ex": "The police arrived at the scene quickly.",
+"exZh": "警察很快地到達現場。"
+},
+"pollute": {
+"ex": "Factories should not pollute the river.",
+"exZh": "工廠不應該汙染河流。"
+},
+"pond": {
+"ex": "Ducks are swimming in the pond.",
+"exZh": "鴨子正在池塘裡游泳。"
+},
+"pool": {
+"ex": "Fish live in the small pool.",
+"exZh": "魚兒住在這個小水塘裡。"
+},
+"popcorn": {
+"ex": "We ate popcorn during the movie.",
+"exZh": "我們在看電影時吃爆米花。"
+},
+"population": {
+"ex": "The population of this city is growing.",
+"exZh": "這座城市的人口正在增加。"
+},
+"pork": {
+"ex": "My father cooked some fried pork.",
+"exZh": "我爸爸煮了一些炸豬肉。"
+},
+"port": {
+"ex": "The big ship arrived at the port.",
+"exZh": "那艘大船抵達了港口。"
+},
+"pose": {
+"ex": "She held a funny pose for the photo.",
+"exZh": "她為了拍照擺了一個有趣的姿勢。"
+},
+"position": {
+"ex": "Please move the chair to its right position.",
+"exZh": "請把椅子移到正確的位置。"
+},
+"possible": {
+"ex": "It is possible to finish before noon.",
+"exZh": "在中午前完成是有可能的。"
+},
+"post": {
+"ex": "I sent the post to my grandmother.",
+"exZh": "我把郵件寄給了我的祖母。"
+},
+"pot": {
+"ex": "She cooked rice in a big pot.",
+"exZh": "她用一個大鍋煮飯。"
+},
+"potato": {
+"ex": "I want some potato soup for lunch.",
+"exZh": "我午餐想喝一些馬鈴薯湯。"
+},
+"pound": {
+"ex": "This bag of rice weighs ten pounds.",
+"exZh": "這袋米重十磅。"
+},
+"powder": {
+"ex": "My mom adds milk powder to the cake.",
+"exZh": "我媽媽在蛋糕裡加奶粉。"
+},
+"power": {
+"ex": "The storm cut the power in our house.",
+"exZh": "暴風雨切斷了我們家的電力。"
+},
+"praise": {
+"ex": "The teacher gave praise to the hard-working students.",
+"exZh": "老師讚美那些用功的學生。"
+},
+"pray": {
+"ex": "They pray quietly before they eat dinner.",
+"exZh": "他們在吃晚餐前安靜地禱告。"
+},
+"precious": {
+"ex": "This old photo is very precious to me.",
+"exZh": "這張舊照片對我來說非常珍貴。"
+},
+"prefer": {
+"ex": "I prefer tea to coffee in the morning.",
+"exZh": "早上我比較喜歡茶勝過咖啡。"
+},
+"presence": {
+"ex": "Her presence makes the class feel happy.",
+"exZh": "她的存在讓全班感到開心。"
+},
+"present": {
+"ex": "All the students were present today.",
+"exZh": "今天所有學生都到場了。"
+},
+"president": {
+"ex": "The president gave a speech on TV last night.",
+"exZh": "總統昨晚在電視上發表演說。"
+},
+"pride": {
+"ex": "She felt great pride in her good grades.",
+"exZh": "她對自己的好成績感到非常驕傲。"
+},
+"priest": {
+"ex": "The priest helped the poor people in town.",
+"exZh": "那位神父幫助鎮上的窮人。"
+},
+"primary": {
+"ex": "Health is my primary reason for running.",
+"exZh": "健康是我跑步的主要原因。"
+},
+"prince": {
+"ex": "The young prince lived in a big castle.",
+"exZh": "年輕的王子住在一座大城堡裡。"
+},
+"princess": {
+"ex": "The princess wore a beautiful blue dress.",
+"exZh": "公主穿著一件漂亮的藍色洋裝。"
+},
+"principal": {
+"ex": "Honesty is an important principal in life.",
+"exZh": "誠實是人生中一條重要的原則。"
+},
+"print": {
+"ex": "Please print your name at the top.",
+"exZh": "請在頂端印上你的名字。"
+},
+"prison": {
+"ex": "The thief was sent to prison for two years.",
+"exZh": "那個小偷被關進監獄兩年。"
+},
+"private": {
+"ex": "This is my private room, so please knock.",
+"exZh": "這是我的私人房間，所以請敲門。"
+},
+"prize": {
+"ex": "She won first prize in the singing contest.",
+"exZh": "她在歌唱比賽中贏得第一名的獎。"
+},
+"problem": {
+"ex": "I can't solve this math problem.",
+"exZh": "我解不出這道數學問題。"
+},
+"produce": {
+"ex": "This factory produces many toys every day.",
+"exZh": "這間工廠每天製造許多玩具。"
+},
+"production": {
+"ex": "The production of these phones takes many hours.",
+"exZh": "這些手機的製造需要許多時間。"
+},
+"professor": {
+"ex": "The professor teaches English at the university.",
+"exZh": "那位教授在大學教英文。"
+},
+"program": {
+"ex": "My favorite TV program starts at eight.",
+"exZh": "我最喜歡的電視節目八點開始。"
+},
+"promise": {
+"ex": "He made a promise to call me later.",
+"exZh": "他承諾稍後會打電話給我。"
+},
+"pronounce": {
+"ex": "Can you pronounce this English word for me?",
+"exZh": "你可以幫我念這個英文字的發音嗎？"
+},
+"prove": {
+"ex": "He worked hard to prove he was right.",
+"exZh": "他努力證明自己是對的。"
+},
+"public": {
+"ex": "We took a public bus to the park.",
+"exZh": "我們搭公共巴士去公園。"
+},
+"pull": {
+"ex": "Please pull the door to open it.",
+"exZh": "請拉門把它打開。"
+},
+"pump": {
+"ex": "The farmer uses a pump to get water.",
+"exZh": "農夫用抽水機來取水。"
+},
+"pumpkin": {
+"ex": "We made a big pumpkin pie for the party.",
+"exZh": "我們為派對做了一個大南瓜派。"
+},
+"puppy": {
+"ex": "My little puppy loves to run in the yard.",
+"exZh": "我的小狗喜歡在院子裡奔跑。"
+},
+"purple": {
+"ex": "She painted the wall a bright purple color.",
+"exZh": "她把牆漆成明亮的紫色。"
+},
+"purpose": {
+"ex": "The purpose of the trip is to learn.",
+"exZh": "這趟旅行的目的是學習。"
+},
+"purse": {
+"ex": "She put her keys inside her small purse.",
+"exZh": "她把鑰匙放進她的小錢包裡。"
+},
+"push": {
+"ex": "Don't push your friends on the stairs.",
+"exZh": "不要在樓梯上推你的朋友。"
+},
+"puzzle": {
+"ex": "We finished the jigsaw puzzle together.",
+"exZh": "我們一起完成了那個拼圖謎題。"
+},
+"quality": {
+"ex": "This shirt is cheap but good quality.",
+"exZh": "這件襯衫便宜但品質很好。"
+},
+"quantity": {
+"ex": "We need a large quantity of paper today.",
+"exZh": "我們今天需要大量的紙。"
+},
+"quarter": {
+"ex": "I ate only a quarter of the pizza.",
+"exZh": "我只吃了四分之一的披薩。"
+},
+"queen": {
+"ex": "The queen lives in a famous palace.",
+"exZh": "女王住在一座有名的宮殿裡。"
+},
+"quit": {
+"ex": "He decided to quit playing video games.",
+"exZh": "他決定停止玩電動遊戲。"
+},
+"quite": {
+"ex": "The test was quite easy for me.",
+"exZh": "這次考試對我來說相當容易。"
+},
+"quiz": {
+"ex": "We have a math quiz this Friday.",
+"exZh": "我們這週五有一個數學小考。"
+},
+"rabbit": {
+"ex": "The white rabbit hopped across the grass.",
+"exZh": "那隻白兔子跳過草地。"
+},
+"race": {
+"ex": "He won the race at the sports day.",
+"exZh": "他在運動會的賽跑中獲勝。"
+},
+"radio": {
+"ex": "My grandpa listens to the radio every morning.",
+"exZh": "我爺爺每天早上聽收音機。"
+},
+"railroad": {
+"ex": "The train moved slowly along the railroad.",
+"exZh": "火車沿著鐵路緩慢前進。"
+},
+"rainbow": {
+"ex": "We saw a beautiful rainbow after the rain.",
+"exZh": "雨後我們看到一道美麗的彩虹。"
+},
+"rainy": {
+"ex": "I like to read books on rainy days.",
+"exZh": "我喜歡在多雨的日子裡讀書。"
+},
+"raise": {
+"ex": "The store will raise its prices next month.",
+"exZh": "這家店下個月將會調漲價格。"
+},
+"range": {
+"ex": "The shop sells a wide range of toys.",
+"exZh": "這家店賣各種各樣的玩具。"
+},
+"rare": {
+"ex": "This rare bird is hard to find here.",
+"exZh": "這種稀少的鳥在這裡很難找到。"
+},
+"rat": {
+"ex": "A big rat ran across the kitchen floor.",
+"exZh": "一隻大老鼠跑過廚房地板。"
+},
+"rather": {
+"ex": "The soup is rather salty for me.",
+"exZh": "這湯對我來說稍微鹹了一點。"
+},
+"reach": {
+"ex": "We will reach the station in ten minutes.",
+"exZh": "我們十分鐘後會到達車站。"
+},
+"real": {
+"ex": "Is this a real diamond or a fake one?",
+"exZh": "這是真的鑽石還是假的？"
+},
+"really": {
+"ex": "I really enjoyed the movie last night.",
+"exZh": "我真的很喜歡昨晚那部電影。"
+},
+"reason": {
+"ex": "Please tell me the reason you are late.",
+"exZh": "請告訴我你遲到的理由。"
+},
+"receive": {
+"ex": "I receive many letters from my friends.",
+"exZh": "我收到很多朋友寄來的信。"
+},
+"record": {
+"ex": "She keeps a record of her daily exercise.",
+"exZh": "她記錄她每天的運動。"
+},
+"recover": {
+"ex": "He needs time to recover from the cold.",
+"exZh": "他需要時間從感冒中康復。"
+},
+"rectangle": {
+"ex": "The door is shaped like a tall rectangle.",
+"exZh": "這扇門的形狀像一個高高的長方形。"
+},
+"refrigerator": {
+"ex": "Please put the milk in the refrigerator.",
+"exZh": "請把牛奶放進冰箱裡。"
+},
+"regard": {
+"ex": "Many people regard him as a good teacher.",
+"exZh": "許多人認為他是一位好老師。"
+},
+"regret": {
+"ex": "She felt deep regret for her mistake.",
+"exZh": "她對自己的錯誤感到深深的後悔。"
+},
+"regular": {
+"ex": "He has a regular sleep time every night.",
+"exZh": "他每晚都有規律的睡眠時間。"
+},
+"reject": {
+"ex": "The teacher may reject our plan today.",
+"exZh": "老師今天可能會拒絕我們的計畫。"
+},
+"relation": {
+"ex": "There is a close relation between food and health.",
+"exZh": "食物和健康之間有密切的關係。"
+},
+"relative": {
+"ex": "My relative is coming to visit us tomorrow.",
+"exZh": "我的親戚明天要來拜訪我們。"
+},
+"remind": {
+"ex": "Please remind me to call my mom.",
+"exZh": "請提醒我打電話給我媽媽。"
+},
+"rent": {
+"ex": "They rent a small house near the school.",
+"exZh": "他們在學校附近租了一間小房子。"
+},
+"repair": {
+"ex": "My dad will repair the broken chair.",
+"exZh": "我爸爸會修理那張壞掉的椅子。"
+},
+"repeat": {
+"ex": "Could you repeat the question, please?",
+"exZh": "你可以重複一次問題嗎？"
+},
+"reply": {
+"ex": "She did not reply to my message.",
+"exZh": "她沒有回應我的訊息。"
+},
+"report": {
+"ex": "I must finish my book report tonight.",
+"exZh": "我今晚必須完成我的讀書報告。"
+},
+"reporter": {
+"ex": "The reporter asked the player some questions.",
+"exZh": "那位記者問了那名球員一些問題。"
+},
+"require": {
+"ex": "This job will require a lot of patience.",
+"exZh": "這份工作將會需要很大的耐心。"
+},
+"restaurant": {
+"ex": "We had dinner at a nice restaurant.",
+"exZh": "我們在一家很棒的餐廳吃晚餐。"
+},
+"restroom": {
+"ex": "Excuse me, where is the restroom?",
+"exZh": "不好意思，請問洗手間在哪裡？"
+},
+"revise": {
+"ex": "I want to revise my plan for the trip.",
+"exZh": "我想改變我的旅行計畫。"
+},
+"rice": {
+"ex": "I eat a bowl of rice every day.",
+"exZh": "我每天吃一碗米飯。"
+},
+"ride": {
+"ex": "I ride my bike to school every morning.",
+"exZh": "我每天早上騎腳踏車上學。"
+},
+"ring": {
+"ex": "She wears a gold ring on her finger.",
+"exZh": "她的手指上戴著一只金戒指。"
+},
+"rise": {
+"ex": "The sun will rise early in summer.",
+"exZh": "夏天太陽會很早上升。"
+},
+"river": {
+"ex": "Children love to swim in the river.",
+"exZh": "孩子們喜歡在河流裡游泳。"
+},
+"road": {
+"ex": "We walked along a quiet country road.",
+"exZh": "我們沿著一條安靜的鄉間道路走。"
+},
+"rob": {
+"ex": "The man tried to rob the small shop.",
+"exZh": "那名男子試圖搶劫那間小店。"
+},
+"robot": {
+"ex": "This robot can clean the whole house.",
+"exZh": "這個機器人可以打掃整間房子。"
+},
+"rock": {
+"ex": "He sat on a big rock by the sea.",
+"exZh": "他坐在海邊的一塊大石塊上。"
+},
+"roll": {
+"ex": "The ball began to roll down the hill.",
+"exZh": "球開始滾下山坡。"
+},
+"roof": {
+"ex": "A bird is sitting on the roof.",
+"exZh": "一隻鳥停在屋頂上。"
+},
+"root": {
+"ex": "The tree has very deep and strong roots.",
+"exZh": "這棵樹有很深又強壯的根。"
+},
+"rope": {
+"ex": "They used a long rope to climb up.",
+"exZh": "他們用一條長繩子往上爬。"
+},
+"rose": {
+"ex": "He gave her a red rose on her birthday.",
+"exZh": "他在她生日時送她一朵紅玫瑰。"
+},
+"round": {
+"ex": "The moon looks big and round tonight.",
+"exZh": "今晚月亮看起來又大又圓。"
+},
+"row": {
+"ex": "We sat in the front row at the show.",
+"exZh": "我們坐在表演的前排。"
+},
+"royal": {
+"ex": "The royal family lives in a huge palace.",
+"exZh": "皇室家族住在一座巨大的宮殿裡。"
+},
+"rub": {
+"ex": "She likes to rub her cat's soft ears.",
+"exZh": "她喜歡摩擦她貓咪柔軟的耳朵。"
+},
+"rubber": {
+"ex": "My new shoes are made of rubber.",
+"exZh": "我的新鞋子是用橡膠做的。"
+},
+"rude": {
+"ex": "It is rude to talk loudly in class.",
+"exZh": "在課堂上大聲說話是粗魯的。"
+},
+"ruin": {
+"ex": "The heavy rain may ruin our school trip.",
+"exZh": "大雨可能會毀壞我們的校外教學。"
+},
+"rule": {
+"ex": "A king used to rule this old country.",
+"exZh": "一位國王曾經統治這個古老的國家。"
+},
+"ruler": {
+"ex": "The ancient ruler was loved by his people.",
+"exZh": "那位古代的統治者深受人民愛戴。"
+},
+"rush": {
+"ex": "Students rush into the room before the bell.",
+"exZh": "學生們在鐘響前衝進教室。"
+},
+"safety": {
+"ex": "Please wear a helmet for your own safety.",
+"exZh": "請為了你自己的安全戴上安全帽。"
+},
+"sail": {
+"ex": "We will sail across the sea next week.",
+"exZh": "我們下週將航行橫越大海。"
+},
+"sailor": {
+"ex": "The brave sailor works on a big ship.",
+"exZh": "那位勇敢的水手在一艘大船上工作。"
+},
+"salad": {
+"ex": "I eat a fresh salad for lunch every day.",
+"exZh": "我每天午餐都吃新鮮的沙拉。"
+},
+"sale": {
+"ex": "The toys are on sale this weekend.",
+"exZh": "這些玩具這個週末出售。"
+},
+"salt": {
+"ex": "Please add some salt to the soup.",
+"exZh": "請在湯裡加一些鹽。"
+},
+"sample": {
+"ex": "The clerk gave me a free sample of tea.",
+"exZh": "店員給了我一份免費的茶葉樣品。"
+},
+"sand": {
+"ex": "The children played with sand at the beach.",
+"exZh": "孩子們在海灘上玩沙。"
+},
+"sandwich": {
+"ex": "I made a ham sandwich for breakfast.",
+"exZh": "我做了一個火腿三明治當早餐。"
+},
+"satisfy": {
+"ex": "Good grades satisfy my parents very much.",
+"exZh": "好成績讓我父母非常滿意。"
+},
+"saturday": {
+"ex": "We have no school on Saturday.",
+"exZh": "我們星期六不用上學。"
+},
+"sauce": {
+"ex": "This noodle tastes good with tomato sauce.",
+"exZh": "這碗麵配番茄醬料很好吃。"
+},
+"scare": {
+"ex": "Scary movies always scare my little sister.",
+"exZh": "恐怖電影總是讓我妹妹害怕。"
+},
+"scarf": {
+"ex": "She wears a warm scarf in winter.",
+"exZh": "她在冬天戴著一條溫暖的圍巾。"
+},
+"scenery": {
+"ex": "The mountain scenery here is very beautiful.",
+"exZh": "這裡的山景非常美麗。"
+},
+"science": {
+"ex": "Science is my favorite subject at school.",
+"exZh": "科學是我在學校最喜歡的科目。"
+},
+"scientist": {
+"ex": "The scientist did many tests in the lab.",
+"exZh": "那位科學家在實驗室做了很多實驗。"
+},
+"scooter": {
+"ex": "My father rides a scooter to work.",
+"exZh": "我爸爸騎摩托車去上班。"
+},
+"score": {
+"ex": "Our team got a high score in the game.",
+"exZh": "我們這隊在比賽中得到高分。"
+},
+"screen": {
+"ex": "Do not look at the screen too long.",
+"exZh": "不要看螢幕太久。"
+},
+"sea": {
+"ex": "We swim in the blue sea every summer.",
+"exZh": "我們每年夏天都在藍色的大海裡游泳。"
+},
+"seafood": {
+"ex": "My family loves to eat fresh seafood.",
+"exZh": "我家人喜歡吃新鮮的海鮮。"
+},
+"search": {
+"ex": "I search the internet for my homework.",
+"exZh": "我上網搜索我的作業資料。"
+},
+"seat": {
+"ex": "Please take your seat before the show starts.",
+"exZh": "請在表演開始前坐到你的座位。"
+},
+"second": {
+"ex": "He is the second tallest boy in class.",
+"exZh": "他是班上第二高的男生。"
+},
+"secretary": {
+"ex": "The secretary answers the phone every morning.",
+"exZh": "那位祕書每天早上接電話。"
+},
+"section": {
+"ex": "This section of the book is very easy.",
+"exZh": "這本書的這個部分很簡單。"
+},
+"seed": {
+"ex": "We planted a small seed in the garden.",
+"exZh": "我們在花園裡種了一顆小種子。"
+},
+"seek": {
+"ex": "Lost travelers often seek help from police.",
+"exZh": "迷路的旅客常向警察尋找協助。"
+},
+"seem": {
+"ex": "You seem very tired this morning.",
+"exZh": "你今天早上似乎很累。"
+},
+"seesaw": {
+"ex": "Two kids play on the seesaw at the park.",
+"exZh": "兩個小孩在公園的蹺蹺板上玩。"
+},
+"seldom": {
+"ex": "My grandfather seldom eats fast food.",
+"exZh": "我爺爺不常吃速食。"
+},
+"self": {
+"ex": "Believe in your true self and try hard.",
+"exZh": "相信你真正的自我並努力嘗試。"
+},
+"selfish": {
+"ex": "A selfish child never shares his toys.",
+"exZh": "一個自私的小孩從不分享他的玩具。"
+},
+"sell": {
+"ex": "They sell ice cream in front of the school.",
+"exZh": "他們在學校前面販賣冰淇淋。"
+},
+"semester": {
+"ex": "We have many tests this semester.",
+"exZh": "我們這個學期有很多考試。"
+},
+"sense": {
+"ex": "Dogs have a strong sense of smell.",
+"exZh": "狗有很強的嗅覺感覺官能。"
+},
+"sentence": {
+"ex": "Please write one sentence about your family.",
+"exZh": "請寫一個關於你家庭的句子。"
+},
+"september": {
+"ex": "The new school year begins in September.",
+"exZh": "新學年在九月開始。"
+},
+"servant": {
+"ex": "The rich man has a kind servant.",
+"exZh": "那位有錢人有一個善良的僕人。"
+},
+"serve": {
+"ex": "The waiter will serve our food soon.",
+"exZh": "服務生很快就會為我們服務上菜。"
+},
+"service": {
+"ex": "The service in this restaurant is very good.",
+"exZh": "這家餐廳的服務非常好。"
+},
+"set": {
+"ex": "She bought a new set of color pens.",
+"exZh": "她買了一套新的彩色筆。"
+},
+"settle": {
+"ex": "They tried hard to settle the problem.",
+"exZh": "他們努力解決這個問題。"
+},
+"seven": {
+"ex": "There are seven days in a week.",
+"exZh": "一個星期有七天。"
+},
+"seventeen": {
+"ex": "My sister is seventeen years old this year.",
+"exZh": "我姊姊今年十七歲。"
+},
+"seventy": {
+"ex": "My grandpa is almost seventy years old.",
+"exZh": "我爺爺快七十歲了。"
+},
+"shake": {
+"ex": "Please shake the bottle before you drink it.",
+"exZh": "喝之前請搖動瓶子。"
+},
+"shall": {
+"ex": "Shall we go to the park together?",
+"exZh": "我們要一起去公園嗎？"
+},
+"shape": {
+"ex": "The cake is in the shape of a heart.",
+"exZh": "這個蛋糕是心的形狀。"
+},
+"shark": {
+"ex": "A shark is a very big fish.",
+"exZh": "鯊魚是一種很大的魚。"
+},
+"sharp": {
+"ex": "Be careful with that sharp knife.",
+"exZh": "小心那把銳利的刀子。"
+},
+"sheep": {
+"ex": "The sheep are eating grass on the hill.",
+"exZh": "羊在山坡上吃草。"
+},
+"sheet": {
+"ex": "My mom washed the white sheet today.",
+"exZh": "我媽今天洗了那條白色床單。"
+},
+"shelf": {
+"ex": "Please put the book back on the shelf.",
+"exZh": "請把書放回架上。"
+},
+"shell": {
+"ex": "I found a pretty shell on the beach.",
+"exZh": "我在海灘上找到一個漂亮的貝殼。"
+},
+"shine": {
+"ex": "The sun will shine brightly tomorrow.",
+"exZh": "明天太陽會明亮地照耀。"
+},
+"ship": {
+"ex": "The big ship is sailing across the sea.",
+"exZh": "那艘大船正航行越過大海。"
+},
+"shock": {
+"ex": "The bad news gave us a big shock.",
+"exZh": "那個壞消息給我們很大的震驚。"
+},
+"shoe": {
+"ex": "I can't find my left shoe.",
+"exZh": "我找不到我的左腳鞋子。"
+},
+"shoot": {
+"ex": "He likes to shoot the ball into the basket.",
+"exZh": "他喜歡把球射進籃框。"
+},
+"shore": {
+"ex": "We walked along the shore at sunset.",
+"exZh": "我們在日落時沿著岸邊散步。"
+},
+"shorts": {
+"ex": "He wears shorts to play basketball.",
+"exZh": "他穿短褲去打籃球。"
+},
+"should": {
+"ex": "You should finish your homework first.",
+"exZh": "你應該先完成你的作業。"
+},
+"shoulder": {
+"ex": "My shoulder hurts after the heavy bag.",
+"exZh": "背了重包後我的肩膀好痛。"
+},
+"shout": {
+"ex": "Please don't shout in the library.",
+"exZh": "請不要在圖書館裡大聲喊叫。"
+},
+"shower": {
+"ex": "I take a shower every morning.",
+"exZh": "我每天早上淋浴。"
+},
+"shrimp": {
+"ex": "My brother loves to eat fried shrimp.",
+"exZh": "我弟弟很愛吃炸蝦子。"
+},
+"shut": {
+"ex": "Please shut the door when you leave.",
+"exZh": "離開時請關閉門。"
+},
+"shy": {
+"ex": "She is too shy to speak in class.",
+"exZh": "她太害羞了，不敢在課堂上說話。"
+},
+"side": {
+"ex": "The store is on the other side of the road.",
+"exZh": "商店在馬路的另一面。"
+},
+"sidewalk": {
+"ex": "We walk on the sidewalk to stay safe.",
+"exZh": "我們走在人行道上保持安全。"
+},
+"sight": {
+"ex": "My grandma has very good sight.",
+"exZh": "我奶奶的視力很好。"
+},
+"sign": {
+"ex": "He waved his hand to sign me to come.",
+"exZh": "他揮手示意我過來。"
+},
+"silence": {
+"ex": "There was a long silence in the room.",
+"exZh": "房間裡有一段長久的沉默。"
+},
+"silent": {
+"ex": "Everyone stayed silent during the test.",
+"exZh": "考試時大家都保持沉默。"
+},
+"silk": {
+"ex": "This scarf is made of soft silk.",
+"exZh": "這條圍巾是用柔軟的絲做的。"
+},
+"silly": {
+"ex": "That was a silly mistake.",
+"exZh": "那是一個傻的錯誤。"
+},
+"silver": {
+"ex": "She wears a silver ring on her finger.",
+"exZh": "她手指上戴著一只銀戒指。"
+},
+"similar": {
+"ex": "My bag is similar to yours.",
+"exZh": "我的包包跟你的很相似。"
+},
+"simple": {
+"ex": "This is a simple question for me.",
+"exZh": "這對我來說是個簡單的問題。"
+},
+"simply": {
+"ex": "Just explain it simply to the kids.",
+"exZh": "就簡單地向孩子們解釋吧。"
+},
+"since": {
+"ex": "I have lived here since last year.",
+"exZh": "從去年起我就住在這裡。"
+},
+"sincere": {
+"ex": "She gave me a sincere smile.",
+"exZh": "她給了我一個真誠的微笑。"
+},
+"singer": {
+"ex": "My favorite singer is from Taiwan.",
+"exZh": "我最喜歡的歌手來自台灣。"
+},
+"single": {
+"ex": "He ate every single cookie on the plate.",
+"exZh": "他把盤子上每一塊餅乾都吃光了。"
+},
+"sink": {
+"ex": "The heavy stone will sink in the water.",
+"exZh": "那塊重石頭會沉到水裡。"
+},
+"sir": {
+"ex": "Excuse me, sir, may I sit here?",
+"exZh": "先生，不好意思，我可以坐這裡嗎？"
+},
+"six": {
+"ex": "I have six pencils in my bag.",
+"exZh": "我的書包裡有六支鉛筆。"
+},
+"sixteen": {
+"ex": "There are sixteen students in our class.",
+"exZh": "我們班上有十六個學生。"
+},
+"sixty": {
+"ex": "There are sixty minutes in an hour.",
+"exZh": "一小時有六十分鐘。"
+},
+"size": {
+"ex": "What size of shoes do you wear?",
+"exZh": "你穿幾號的鞋子尺碼？"
+},
+"skate": {
+"ex": "We like to skate on the ice in winter.",
+"exZh": "冬天我們喜歡在冰上溜冰。"
+},
+"ski": {
+"ex": "We ski in the mountains every winter.",
+"exZh": "我們每年冬天都在山上滑雪。"
+},
+"skillful": {
+"ex": "She is a skillful piano player.",
+"exZh": "她是個熟練的鋼琴演奏者。"
+},
+"skin": {
+"ex": "Babies have very soft skin.",
+"exZh": "嬰兒的皮膚非常柔軟。"
+},
+"skinny": {
+"ex": "The little cat is too skinny.",
+"exZh": "那隻小貓太瘦了。"
+},
+"skirt": {
+"ex": "My sister wears a red skirt today.",
+"exZh": "我姊姊今天穿了一條紅裙子。"
+},
+"sky": {
+"ex": "The sky is blue and clear today.",
+"exZh": "今天的天空又藍又清澈。"
+},
+"sleepy": {
+"ex": "I feel sleepy after a big lunch.",
+"exZh": "吃完豐盛的午餐後我覺得想睡。"
+},
+"slender": {
+"ex": "The model has long, slender legs.",
+"exZh": "那位模特兒有一雙修長纖細的腿。"
+},
+"slide": {
+"ex": "The children slide down the snowy hill.",
+"exZh": "孩子們從覆雪的山坡上滑下來。"
+},
+"slim": {
+"ex": "She stays slim by eating healthy food.",
+"exZh": "她靠吃健康食物保持苗條。"
+},
+"slippers": {
+"ex": "Please wear slippers inside the house.",
+"exZh": "請在屋裡穿拖鞋。"
+},
+"smell": {
+"ex": "I can smell fresh bread from the bakery.",
+"exZh": "我可以聞到麵包店傳來的新鮮麵包味。"
+},
+"smoke": {
+"ex": "Thick smoke came out of the chimney.",
+"exZh": "濃煙從煙囪冒了出來。"
+},
+"snack": {
+"ex": "I eat a small snack after school.",
+"exZh": "我放學後會吃個小點心。"
+},
+"snail": {
+"ex": "A snail moves very slowly on the leaf.",
+"exZh": "一隻蝸牛在葉子上爬得很慢。"
+},
+"snake": {
+"ex": "The green snake hid under the rock.",
+"exZh": "那條綠色的蛇躲在石頭下。"
+},
+"sneakers": {
+"ex": "He bought new sneakers for the race.",
+"exZh": "他買了新的運動鞋來參加賽跑。"
+},
+"snowy": {
+"ex": "We had a snowy day last winter.",
+"exZh": "去年冬天我們有一個下雪的日子。"
+},
+"so": {
+"ex": "The movie was so funny last night.",
+"exZh": "昨晚那部電影如此有趣。"
+},
+"soap": {
+"ex": "Wash your hands with soap and water.",
+"exZh": "用肥皂和水洗你的手。"
+},
+"social": {
+"ex": "We study social problems in history class.",
+"exZh": "我們在歷史課研究社會問題。"
+},
+"society": {
+"ex": "Honest people make our society better.",
+"exZh": "誠實的人讓我們的社會更好。"
+},
+"sock": {
+"ex": "I lost one sock in the laundry.",
+"exZh": "我在洗衣時弄丟了一隻襪子。"
+},
+"soda": {
+"ex": "He drank a cold soda after lunch.",
+"exZh": "他午餐後喝了一杯冰汽水。"
+},
+"sofa": {
+"ex": "My cat sleeps on the soft sofa.",
+"exZh": "我的貓睡在柔軟的沙發上。"
+},
+"soldier": {
+"ex": "The brave soldier helped the lost child.",
+"exZh": "那位勇敢的士兵幫助了迷路的孩子。"
+},
+"some": {
+"ex": "I need some help with my homework.",
+"exZh": "我的功課需要一些幫忙。"
+},
+"someone": {
+"ex": "Someone left a book on my desk.",
+"exZh": "某人在我的桌上留了一本書。"
+},
+"something": {
+"ex": "I want something cold to drink now.",
+"exZh": "我現在想喝點冰冷的東西。"
+},
+"somewhere": {
+"ex": "Let's eat lunch somewhere quiet today.",
+"exZh": "我們今天找個安靜的地方吃午餐吧。"
+},
+"son": {
+"ex": "Her son is in the third grade.",
+"exZh": "她的兒子讀三年級。"
+},
+"song": {
+"ex": "We sang a happy song in class.",
+"exZh": "我們在課堂上唱了一首快樂的歌。"
+},
+"soon": {
+"ex": "The bus will arrive very soon.",
+"exZh": "公車很快就會到了。"
+},
+"sore": {
+"ex": "My throat is sore from the cold.",
+"exZh": "我因為感冒喉嚨很痛。"
+},
+"soul": {
+"ex": "Music can touch a person's soul.",
+"exZh": "音樂能觸動一個人的靈魂。"
+},
+"sound": {
+"ex": "Your plan sounds great to me.",
+"exZh": "你的計畫聽起來對我來說很棒。"
+},
+"soup": {
+"ex": "Mom made hot chicken soup for dinner.",
+"exZh": "媽媽晚餐煮了熱雞湯。"
+},
+"sour": {
+"ex": "This lemon tastes very sour.",
+"exZh": "這顆檸檬嘗起來很酸。"
+},
+"source": {
+"ex": "The sun is our main source of light.",
+"exZh": "太陽是我們主要的光的來源。"
+},
+"south": {
+"ex": "Birds fly to the south in winter.",
+"exZh": "鳥兒在冬天飛往南方。"
+},
+"soy": {
+"ex": "I add some soy sauce to the rice.",
+"exZh": "我在飯裡加了一些醬油。"
+},
+"space": {
+"ex": "There is no space left in my bag.",
+"exZh": "我的書包裡沒有剩下空間了。"
+},
+"spaghetti": {
+"ex": "We ate spaghetti at the Italian restaurant.",
+"exZh": "我們在義大利餐廳吃了義大利麵。"
+},
+"speaker": {
+"ex": "The speaker gave a great talk today.",
+"exZh": "那位演講者今天做了精彩的演講。"
+},
+"speech": {
+"ex": "He gave a short speech at school.",
+"exZh": "他在學校做了一場簡短的演講。"
+},
+"speed": {
+"ex": "The car drove at a high speed.",
+"exZh": "那輛車以高速行駛。"
+},
+"spell": {
+"ex": "Can you spell your last name for me?",
+"exZh": "你可以為我拼出你的姓嗎？"
+},
+"spider": {
+"ex": "A small spider made a web outside.",
+"exZh": "一隻小蜘蛛在外面結了網。"
+},
+"spoon": {
+"ex": "I eat my soup with a spoon.",
+"exZh": "我用湯匙喝湯。"
+},
+"square": {
+"ex": "People sang together in the town square.",
+"exZh": "人們在城鎮廣場上一起唱歌。"
+},
+"stage": {
+"ex": "The singers stood on the stage and smiled.",
+"exZh": "歌手們站在舞臺上微笑。"
+},
+"stair": {
+"ex": "She sat down on the top stair to rest.",
+"exZh": "她坐在最上面的樓梯上休息。"
+},
+"stamp": {
+"ex": "I put a stamp on the letter before mailing it.",
+"exZh": "我寄信前在信上貼了一張郵票。"
+},
+"star": {
+"ex": "We saw many bright stars in the sky.",
+"exZh": "我們看見天空中許多明亮的星星。"
+},
+"state": {
+"ex": "Please state your name and your age clearly.",
+"exZh": "請清楚地敘述你的名字和年齡。"
+},
+"station": {
+"ex": "My father waits for the bus at the station.",
+"exZh": "我爸爸在車站等公車。"
+},
+"stationery": {
+"ex": "I bought some stationery for the new school year.",
+"exZh": "我為新學年買了一些文具。"
+},
+"steak": {
+"ex": "We ate a delicious steak for dinner tonight.",
+"exZh": "我們今晚晚餐吃了美味的牛排。"
+},
+"steal": {
+"ex": "It is wrong to steal things from others.",
+"exZh": "偷竊別人的東西是不對的。"
+},
+"steam": {
+"ex": "Hot steam rose from the boiling pot.",
+"exZh": "熱蒸汽從沸騰的鍋子裡升起。"
+},
+"step": {
+"ex": "Please step back from the yellow line.",
+"exZh": "請從黃線往後退行走。"
+},
+"stingy": {
+"ex": "He is too stingy to share his snacks.",
+"exZh": "他太小氣了，不肯分享他的零食。"
+},
+"stomach": {
+"ex": "My stomach hurts after eating too much.",
+"exZh": "吃太多後我的胃很痛。"
+},
+"stomachache": {
+"ex": "I had a bad stomachache last night.",
+"exZh": "我昨晚胃痛得很厲害。"
+},
+"stone": {
+"ex": "The boy threw a small stone into the river.",
+"exZh": "那男孩把一顆小石頭丟進河裡。"
+},
+"storm": {
+"ex": "The big storm broke many trees last week.",
+"exZh": "上週的大暴風雨弄斷了許多樹。"
+},
+"stove": {
+"ex": "My mother is cooking soup on the stove.",
+"exZh": "我媽媽正在火爐上煮湯。"
+},
+"straight": {
+"ex": "Draw a straight line on the paper.",
+"exZh": "在紙上畫一條直的線。"
+},
+"strange": {
+"ex": "I heard a strange noise outside the door.",
+"exZh": "我聽到門外有奇怪的聲音。"
+},
+"stranger": {
+"ex": "Don't talk to a stranger on the street.",
+"exZh": "不要在街上和陌生人說話。"
+},
+"straw": {
+"ex": "The farmer used straw to feed the cows.",
+"exZh": "農夫用稻草餵牛。"
+},
+"strawberry": {
+"ex": "This strawberry cake tastes very sweet.",
+"exZh": "這個草莓蛋糕嚐起來很甜。"
+},
+"stream": {
+"ex": "We saw fish swimming in the clear stream.",
+"exZh": "我們看見魚在清澈的小河裡游。"
+},
+"street": {
+"ex": "Many cars run on this busy street.",
+"exZh": "許多車子在這條繁忙的街道上行駛。"
+},
+"strike": {
+"ex": "The workers started a strike for higher pay.",
+"exZh": "工人們為了更高的薪水發動罷工。"
+},
+"strong": {
+"ex": "My brother is very strong and tall.",
+"exZh": "我哥哥又強壯又高。"
+},
+"stupid": {
+"ex": "It was stupid to forget my homework again.",
+"exZh": "又忘記帶作業真是笨。"
+},
+"style": {
+"ex": "I really like the style of her new dress.",
+"exZh": "我很喜歡她新洋裝的風格。"
+},
+"subject": {
+"ex": "Math is my favorite subject at school.",
+"exZh": "數學是我在學校最喜歡的科目。"
+},
+"subway": {
+"ex": "We take the subway to school every day.",
+"exZh": "我們每天搭地鐵去學校。"
+},
+"succeed": {
+"ex": "If you keep trying, you will succeed.",
+"exZh": "如果你持續嘗試，你就會成功。"
+},
+"successful": {
+"ex": "She is a successful and famous writer.",
+"exZh": "她是一位成功又有名的作家。"
+},
+"such": {
+"ex": "I have never seen such a big dog.",
+"exZh": "我從未見過如此大的狗。"
+},
+"sudden": {
+"ex": "A sudden rain made us all wet.",
+"exZh": "一場突然的雨把我們都淋濕了。"
+},
+"sugar": {
+"ex": "Please add some sugar to my coffee.",
+"exZh": "請在我的咖啡裡加一些糖。"
+},
+"suit": {
+"ex": "This blue color really suits you well.",
+"exZh": "這個藍色真的很適合你。"
+},
+"sunday": {
+"ex": "We often visit grandma on Sunday.",
+"exZh": "我們常常在星期天去看奶奶。"
+},
+"sunny": {
+"ex": "It is a sunny day for a picnic.",
+"exZh": "今天是適合野餐的陽光充足的日子。"
+},
+"super": {
+"ex": "The movie last night was really super.",
+"exZh": "昨晚的電影真的很棒。"
+},
+"supermarket": {
+"ex": "My mom buys fruit at the supermarket.",
+"exZh": "我媽媽在超市買水果。"
+},
+"supper": {
+"ex": "We had noodles for supper this evening.",
+"exZh": "我們今晚晚餐吃麵。"
+},
+"supply": {
+"ex": "The school will supply books to all students.",
+"exZh": "學校會提供書本給所有學生。"
+},
+"sure": {
+"ex": "I am sure that he will come tomorrow.",
+"exZh": "我確定他明天會來。"
+},
+"surf": {
+"ex": "They like to surf at the beach in summer.",
+"exZh": "他們喜歡夏天在海灘衝浪。"
+},
+"surface": {
+"ex": "The surface of the table is very smooth.",
+"exZh": "桌子的表面非常光滑。"
+},
+"surprise": {
+"ex": "The good news will surprise my parents.",
+"exZh": "這個好消息會讓我父母驚訝。"
+},
+"survive": {
+"ex": "Plants cannot survive without water and sunlight.",
+"exZh": "植物沒有水和陽光無法生存。"
+},
+"swallow": {
+"ex": "Chew your food well before you swallow it.",
+"exZh": "在吞嚥之前先把食物嚼好。"
+},
+"swan": {
+"ex": "A white swan is swimming on the lake.",
+"exZh": "一隻白天鵝正在湖上游。"
+},
+"sweater": {
+"ex": "I wear a warm sweater on cold days.",
+"exZh": "天冷的時候我會穿一件溫暖的毛衣。"
+},
+"sweep": {
+"ex": "I sweep the floor every morning before class.",
+"exZh": "我每天早上上課前都會掃地。"
+},
+"sweet": {
+"ex": "This cake is very sweet and soft.",
+"exZh": "這個蛋糕又甜又軟。"
+},
+"swing": {
+"ex": "The children swing happily in the park.",
+"exZh": "孩子們在公園裡開心地盪鞦韆。"
+},
+"symbol": {
+"ex": "The dove is a symbol of peace.",
+"exZh": "鴿子是和平的象徵。"
+},
+"system": {
+"ex": "Our school has a new computer system.",
+"exZh": "我們學校有一套新的電腦系統。"
+},
+"tail": {
+"ex": "The dog wagged its tail at me.",
+"exZh": "那隻狗對著我搖尾巴。"
+},
+"tale": {
+"ex": "Grandma told us a fairy tale.",
+"exZh": "奶奶跟我們講了一個童話故事。"
+},
+"talent": {
+"ex": "She has a real talent for singing.",
+"exZh": "她真的有唱歌的才能。"
+},
+"talkative": {
+"ex": "My little brother is very talkative.",
+"exZh": "我的弟弟非常多話。"
+},
+"tangerine": {
+"ex": "I ate a sweet tangerine after lunch.",
+"exZh": "我午餐後吃了一顆甜橘子。"
+},
+"tank": {
+"ex": "We saw a big tank in the museum.",
+"exZh": "我們在博物館看到一輛大坦克。"
+},
+"tape": {
+"ex": "He played an old tape of English songs.",
+"exZh": "他播放了一捲舊的英文歌錄音帶。"
+},
+"task": {
+"ex": "The teacher gave us an easy task.",
+"exZh": "老師給了我們一個簡單的任務。"
+},
+"taste": {
+"ex": "I love the taste of fresh fruit.",
+"exZh": "我很喜歡新鮮水果的味道。"
+},
+"taxi": {
+"ex": "We took a taxi to the station.",
+"exZh": "我們搭計程車去車站。"
+},
+"teapot": {
+"ex": "Mom put hot water in the teapot.",
+"exZh": "媽媽把熱水倒進茶壺裡。"
+},
+"tear": {
+"ex": "A tear ran down her cheek.",
+"exZh": "一滴眼淚從她的臉頰流下來。"
+},
+"teenager": {
+"ex": "My sister is a busy teenager now.",
+"exZh": "我姊姊現在是個忙碌的青少年。"
+},
+"telephone": {
+"ex": "Please answer the telephone for me.",
+"exZh": "請幫我接電話。"
+},
+"television": {
+"ex": "We watch television after dinner.",
+"exZh": "我們晚餐後看電視。"
+},
+"temperature": {
+"ex": "The temperature is very high today.",
+"exZh": "今天的溫度非常高。"
+},
+"temple": {
+"ex": "Many people visit the old temple.",
+"exZh": "許多人去參觀那座古老的廟宇。"
+},
+"ten": {
+"ex": "There are ten students in the room.",
+"exZh": "房間裡有十個學生。"
+},
+"tennis": {
+"ex": "We play tennis after school on Fridays.",
+"exZh": "我們星期五放學後打網球。"
+},
+"tent": {
+"ex": "We slept in a small tent last night.",
+"exZh": "我們昨晚睡在一個小帳篷裡。"
+},
+"term": {
+"ex": "The president's term lasts four years.",
+"exZh": "總統的任期是四年。"
+},
+"terrible": {
+"ex": "The weather was terrible yesterday.",
+"exZh": "昨天的天氣很可怕。"
+},
+"terrific": {
+"ex": "You did a terrific job today.",
+"exZh": "你今天做得很棒。"
+},
+"textbook": {
+"ex": "Please open your English textbook to page ten.",
+"exZh": "請翻開你的英文教科書到第十頁。"
+},
+"than": {
+"ex": "She is taller than her brother.",
+"exZh": "她比她的哥哥還要高。"
+},
+"thank": {
+"ex": "I want to thank you for your help.",
+"exZh": "我想要謝謝你的幫忙。"
+},
+"thanksgiving": {
+"ex": "We eat turkey on Thanksgiving.",
+"exZh": "我們在感恩節吃火雞。"
+},
+"that": {
+"ex": "That is my new bike over there.",
+"exZh": "那是我在那邊的新腳踏車。"
+},
+"theater": {
+"ex": "We watched a movie at the theater.",
+"exZh": "我們在電影院看了一部電影。"
+},
+"then": {
+"ex": "I did my homework, then I slept.",
+"exZh": "我做完功課，然後就睡覺了。"
+},
+"there": {
+"ex": "Your bag is over there on the chair.",
+"exZh": "你的書包在那裡的椅子上。"
+},
+"these": {
+"ex": "These are my favorite books.",
+"exZh": "這些是我最喜歡的書。"
+},
+"thick": {
+"ex": "This dictionary is very thick and heavy.",
+"exZh": "這本字典又厚又重。"
+},
+"thief": {
+"ex": "The police caught the thief quickly.",
+"exZh": "警察很快就抓到了小偷。"
+},
+"thin": {
+"ex": "The ice on the lake is too thin.",
+"exZh": "湖上的冰太薄了。"
+},
+"third": {
+"ex": "He finished the race in third place.",
+"exZh": "他在比賽中得到第三名。"
+},
+"thirteen": {
+"ex": "My cousin is thirteen years old.",
+"exZh": "我的表弟十三歲。"
+},
+"thirty": {
+"ex": "There are thirty desks in our classroom.",
+"exZh": "我們教室裡有三十張桌子。"
+},
+"this": {
+"ex": "This is my favorite pencil.",
+"exZh": "這是我最喜歡的鉛筆。"
+},
+"those": {
+"ex": "Those are my classmates over there.",
+"exZh": "那些是我在那邊的同學。"
+},
+"thought": {
+"ex": "That is a really good thought.",
+"exZh": "那是一個很好的想法。"
+},
+"thousand": {
+"ex": "A thousand people came to the show.",
+"exZh": "有一千個人來看表演。"
+},
+"three": {
+"ex": "I have three pens in my bag.",
+"exZh": "我的書包裡有三枝筆。"
+},
+"throat": {
+"ex": "My throat hurts when I talk.",
+"exZh": "我說話時喉嚨會痛。"
+},
+"throw": {
+"ex": "Please throw the ball to me.",
+"exZh": "請把球丟給我。"
+},
+"thumb": {
+"ex": "She hurt her thumb while playing.",
+"exZh": "她玩的時候弄傷了拇指。"
+},
+"thunder": {
+"ex": "The loud thunder scared my little sister.",
+"exZh": "巨大的雷聲嚇到了我妹妹。"
+},
+"thursday": {
+"ex": "We have a math test on Thursday.",
+"exZh": "我們星期四有數學考試。"
+},
+"ticket": {
+"ex": "I bought two tickets for the movie.",
+"exZh": "我買了兩張電影票。"
+},
+"tidy": {
+"ex": "Her room is always clean and tidy.",
+"exZh": "她的房間總是又乾淨又整潔。"
+},
+"tie": {
+"ex": "My father wears a blue tie to work.",
+"exZh": "我爸爸戴著藍色領帶去上班。"
+},
+"tiger": {
+"ex": "The tiger is sleeping under the tree.",
+"exZh": "那隻老虎正在樹下睡覺。"
+},
+"till": {
+"ex": "I waited at school till my mom came.",
+"exZh": "我在學校等到我媽媽來。"
+},
+"tiny": {
+"ex": "A tiny ant walked across my desk.",
+"exZh": "一隻極小的螞蟻爬過我的書桌。"
+},
+"tip": {
+"ex": "The teacher gave us a useful study tip.",
+"exZh": "老師給了我們一個有用的讀書祕訣。"
+},
+"title": {
+"ex": "What is the title of this book?",
+"exZh": "這本書的標題是什麼？"
+},
+"to": {
+"ex": "He walked to the park after lunch.",
+"exZh": "他午餐後走向公園。"
+},
+"toast": {
+"ex": "I ate toast and eggs for breakfast.",
+"exZh": "我早餐吃了吐司和蛋。"
+},
+"today": {
+"ex": "Today is a sunny and warm day.",
+"exZh": "今天是個晴朗又溫暖的日子。"
+},
+"toe": {
+"ex": "I hit my toe on the chair.",
+"exZh": "我的腳趾頭撞到了椅子。"
+},
+"tofu": {
+"ex": "My mom cooked tofu soup for dinner.",
+"exZh": "我媽媽晚餐煮了豆腐湯。"
+},
+"toilet": {
+"ex": "Please clean the toilet after you use it.",
+"exZh": "用完馬桶後請把它清乾淨。"
+},
+"tomato": {
+"ex": "I put a tomato in my salad.",
+"exZh": "我在沙拉裡放了一顆番茄。"
+},
+"tongue": {
+"ex": "The hot soup burned my tongue.",
+"exZh": "熱湯燙到了我的舌頭。"
+},
+"tool": {
+"ex": "A hammer is a useful tool.",
+"exZh": "鎚子是一個有用的工具。"
+},
+"tooth": {
+"ex": "My tooth hurts when I eat ice cream.",
+"exZh": "我吃冰淇淋時牙齒會痛。"
+},
+"toothache": {
+"ex": "I have a bad toothache today.",
+"exZh": "我今天牙痛得很厲害。"
+},
+"toothbrush": {
+"ex": "I bought a new green toothbrush.",
+"exZh": "我買了一支新的綠色牙刷。"
+},
+"top": {
+"ex": "The book is on top of the desk.",
+"exZh": "那本書在書桌的上面。"
+},
+"topic": {
+"ex": "Our topic today is healthy food.",
+"exZh": "我們今天的主題是健康食物。"
+},
+"total": {
+"ex": "The total cost was three hundred dollars.",
+"exZh": "完全的花費是三百元。"
+},
+"touch": {
+"ex": "The sad movie really touched me.",
+"exZh": "那部悲傷的電影真的感動了我。"
+},
+"towel": {
+"ex": "She dried her hands with a towel.",
+"exZh": "她用毛巾擦乾雙手。"
+},
+"tower": {
+"ex": "We climbed to the top of the tower.",
+"exZh": "我們爬到塔的頂端。"
+},
+"toy": {
+"ex": "The baby is playing with a toy.",
+"exZh": "那個寶寶正在玩玩具。"
+},
+"trace": {
+"ex": "The thief left no trace behind.",
+"exZh": "小偷沒有留下任何蹤跡。"
+},
+"track": {
+"ex": "The police tried to track the lost dog.",
+"exZh": "警察試著跟蹤那隻走失的狗。"
+},
+"trade": {
+"ex": "Trade between the two countries is growing.",
+"exZh": "兩國之間的貿易正在成長。"
+},
+"traditional": {
+"ex": "We ate traditional food during the festival.",
+"exZh": "我們在節慶期間吃了傳統的食物。"
+},
+"traffic": {
+"ex": "The traffic is heavy in the morning.",
+"exZh": "早上的交通很繁忙。"
+},
+"trap": {
+"ex": "The mouse was caught in a trap.",
+"exZh": "老鼠被困在陷阱裡。"
+},
+"trash": {
+"ex": "Please throw the trash into the bin.",
+"exZh": "請把垃圾丟進垃圾桶。"
+},
+"treasure": {
+"ex": "The pirates hid the treasure on an island.",
+"exZh": "海盜把寶藏藏在一座島上。"
+},
+"treat": {
+"ex": "We should treat others with kindness.",
+"exZh": "我們應該善待別人。"
+},
+"triangle": {
+"ex": "A triangle has three sides.",
+"exZh": "三角形有三個邊。"
+},
+"trick": {
+"ex": "He played a trick on his friend.",
+"exZh": "他對朋友惡作劇。"
+},
+"trouble": {
+"ex": "I had trouble finishing my homework.",
+"exZh": "我寫作業遇到了麻煩。"
+},
+"trousers": {
+"ex": "He bought a new pair of trousers.",
+"exZh": "他買了一件新褲子。"
+},
+"truck": {
+"ex": "A big truck is parked on the street.",
+"exZh": "一輛大卡車停在街上。"
+},
+"true": {
+"ex": "Is this story true or false?",
+"exZh": "這個故事是真的還是假的？"
+},
+"trumpet": {
+"ex": "He plays the trumpet in the school band.",
+"exZh": "他在學校樂隊裡吹喇叭。"
+},
+"tube": {
+"ex": "The water flows through this tube.",
+"exZh": "水從這個管子流過。"
+},
+"tuesday": {
+"ex": "We have music class on Tuesday.",
+"exZh": "我們星期二有音樂課。"
+},
+"tunnel": {
+"ex": "The train went through a long tunnel.",
+"exZh": "火車穿過了一條長隧道。"
+},
+"turkey": {
+"ex": "We eat turkey on Thanksgiving Day.",
+"exZh": "我們在感恩節吃火雞。"
+},
+"turtle": {
+"ex": "The turtle moves very slowly in the water.",
+"exZh": "那隻烏龜在水裡移動得很慢。"
+},
+"twelve": {
+"ex": "There are twelve months in a year.",
+"exZh": "一年有十二個月。"
+},
+"twenty": {
+"ex": "My brother is twenty years old now.",
+"exZh": "我哥哥現在二十歲了。"
+},
+"twice": {
+"ex": "I brush my teeth twice a day.",
+"exZh": "我每天刷牙兩次。"
+},
+"two": {
+"ex": "I have two cats at home.",
+"exZh": "我家裡有兩隻貓。"
+},
+"type": {
+"ex": "She can type very fast on the keyboard.",
+"exZh": "她能在鍵盤上打字打得很快。"
+},
+"typhoon": {
+"ex": "A strong typhoon is coming this weekend.",
+"exZh": "這個週末有一個強烈颱風要來。"
+},
+"ugly": {
+"ex": "The old shoes look really ugly.",
+"exZh": "那雙舊鞋看起來真醜。"
+},
+"umbrella": {
+"ex": "Take an umbrella because it may rain.",
+"exZh": "帶把雨傘，因為可能會下雨。"
+},
+"uncle": {
+"ex": "My uncle gives me money every year.",
+"exZh": "我叔叔每年都給我錢。"
+},
+"under": {
+"ex": "The cat is sleeping under the table.",
+"exZh": "那隻貓正睡在桌子下面。"
+},
+"underline": {
+"ex": "Please underline the new words in the book.",
+"exZh": "請在書裡的新單字下面畫線強調。"
+},
+"underwear": {
+"ex": "I put my underwear in the drawer.",
+"exZh": "我把內衣褲放進抽屜裡。"
+},
+"unhappy": {
+"ex": "She felt unhappy after losing the game.",
+"exZh": "輸了比賽後她覺得不快樂。"
+},
+"uniform": {
+"ex": "We wear a school uniform every day.",
+"exZh": "我們每天穿學校制服。"
+},
+"universe": {
+"ex": "There are many stars in the universe.",
+"exZh": "宇宙裡有許多星星。"
+},
+"university": {
+"ex": "My sister studies at a famous university.",
+"exZh": "我姐姐在一所有名的大學念書。"
+},
+"until": {
+"ex": "We played outside until it got dark.",
+"exZh": "我們在外面玩到天黑為止。"
+},
+"up": {
+"ex": "Please look up at the blue sky.",
+"exZh": "請向上看看那片藍天。"
+},
+"upper": {
+"ex": "My room is on the upper floor.",
+"exZh": "我的房間在上面的樓層。"
+},
+"upstairs": {
+"ex": "My parents are resting upstairs now.",
+"exZh": "我爸媽現在在樓上休息。"
+},
+"user": {
+"ex": "Every user needs a name and a password.",
+"exZh": "每個使用者都需要一個名字和密碼。"
+},
+"usual": {
+"ex": "We met at the usual place after school.",
+"exZh": "放學後我們在通常的地方碰面。"
+},
+"usually": {
+"ex": "I usually go to bed at ten.",
+"exZh": "我通常十點上床睡覺。"
+},
+"valley": {
+"ex": "A small river runs through the green valley.",
+"exZh": "一條小河流過那綠色的山谷。"
+},
+"valuable": {
+"ex": "This old watch is very valuable to me.",
+"exZh": "這支舊錶對我來說很有價值。"
+},
+"vendor": {
+"ex": "A vendor sells hot food near our school.",
+"exZh": "一個攤販在我們學校附近賣熱食。"
+},
+"very": {
+"ex": "The math test was very hard today.",
+"exZh": "今天的數學考試非常難。"
+},
+"vest": {
+"ex": "He wore a warm vest in winter.",
+"exZh": "冬天他穿了一件溫暖的背心。"
+},
+"victory": {
+"ex": "Our team celebrated the victory together.",
+"exZh": "我們的隊伍一起慶祝這場勝利。"
+},
+"video": {
+"ex": "We watched a funny video in class.",
+"exZh": "我們在課堂上看了一支有趣的錄影帶。"
+},
+"village": {
+"ex": "My grandmother lives in a small village.",
+"exZh": "我奶奶住在一個小村莊裡。"
+},
+"vinegar": {
+"ex": "My mother adds vinegar to the salad.",
+"exZh": "我媽媽在沙拉裡加了醋。"
+},
+"violin": {
+"ex": "She plays the violin every evening.",
+"exZh": "她每天晚上拉小提琴。"
+},
+"visitor": {
+"ex": "A visitor came to our home today.",
+"exZh": "今天有一位訪客來我們家。"
+},
+"vocabulary": {
+"ex": "Reading books helps me learn new vocabulary.",
+"exZh": "看書幫助我學習新的字彙。"
+},
+"voice": {
+"ex": "The singer has a beautiful voice.",
+"exZh": "那位歌手有美妙的聲音。"
+},
+"volleyball": {
+"ex": "We play volleyball on the beach in summer.",
+"exZh": "夏天我們在海灘上打排球。"
+},
+"vote": {
+"ex": "Students will vote for the class leader tomorrow.",
+"exZh": "學生明天會投票選班長。"
+},
+"waist": {
+"ex": "This belt is too big for my waist.",
+"exZh": "這條皮帶對我的腰來說太大了。"
+},
+"waiter": {
+"ex": "The waiter brought us some cold water.",
+"exZh": "服務生為我們端來一些冷水。"
+},
+"waitress": {
+"ex": "The waitress smiled and took our order.",
+"exZh": "那位女服務生微笑著為我們點餐。"
+},
+"wake": {
+"ex": "I wake up at six every morning.",
+"exZh": "我每天早上六點醒來。"
+},
+"wall": {
+"ex": "There is a clock on the wall.",
+"exZh": "牆壁上有一個時鐘。"
+},
+"wallet": {
+"ex": "He found his wallet under the chair.",
+"exZh": "他在椅子下面找到了他的皮夾。"
+},
+"war": {
+"ex": "Many people lost their homes in the war.",
+"exZh": "許多人在戰爭中失去了家園。"
+},
+"wash": {
+"ex": "Please wash your hands before dinner.",
+"exZh": "晚餐前請洗手。"
+},
+"water": {
+"ex": "I drink a glass of water every morning.",
+"exZh": "我每天早上喝一杯水。"
+},
+"waterfall": {
+"ex": "We saw a big waterfall in the mountains.",
+"exZh": "我們在山裡看到一座大瀑布。"
+},
+"watermelon": {
+"ex": "We eat watermelon on hot summer days.",
+"exZh": "炎熱的夏天我們吃西瓜。"
+},
+"wave": {
+"ex": "A big wave hit the small boat.",
+"exZh": "一個大波浪打中了那艘小船。"
+},
+"way": {
+"ex": "This is the best way to learn English.",
+"exZh": "這是學英文最好的方式。"
+},
+"weak": {
+"ex": "I felt weak after the long race.",
+"exZh": "長跑之後我覺得很虛弱。"
+},
+"weapon": {
+"ex": "The soldier put down his weapon.",
+"exZh": "那名士兵放下了他的武器。"
+},
+"wear": {
+"ex": "I wear a school uniform every day.",
+"exZh": "我每天都穿著學校制服。"
+},
+"wedding": {
+"ex": "We went to my aunt's wedding last Sunday.",
+"exZh": "上週日我們去參加阿姨的結婚儀式。"
+},
+"wednesday": {
+"ex": "We have a math test on Wednesday.",
+"exZh": "我們星期三有數學考試。"
+},
+"weekday": {
+"ex": "My mother works hard on every weekday.",
+"exZh": "我媽媽每個平日都努力工作。"
+},
+"weight": {
+"ex": "What is the weight of this box?",
+"exZh": "這個箱子的重量是多少？"
+},
+"welcome": {
+"ex": "We welcome all new students to our class.",
+"exZh": "我們歡迎所有新同學加入我們班。"
+},
+"well": {
+"ex": "She sings very well in the show.",
+"exZh": "她在表演中唱得很好。"
+},
+"west": {
+"ex": "The sun goes down in the west.",
+"exZh": "太陽從西方落下。"
+},
+"wet": {
+"ex": "My shoes are wet from the rain.",
+"exZh": "我的鞋子被雨淋溼了。"
+},
+"whale": {
+"ex": "A whale is the biggest animal in the sea.",
+"exZh": "鯨魚是海裡最大的動物。"
+},
+"what": {
+"ex": "What do you want for lunch today?",
+"exZh": "你今天午餐想吃什麼？"
+},
+"wheel": {
+"ex": "One wheel of my bike is broken.",
+"exZh": "我腳踏車的一個車輪壞了。"
+},
+"when": {
+"ex": "When does the next bus come?",
+"exZh": "下一班公車何時來？"
+},
+"where": {
+"ex": "Where is the school library?",
+"exZh": "學校圖書館在哪裡？"
+},
+"which": {
+"ex": "Which color do you like better?",
+"exZh": "你比較喜歡哪個顏色？"
+},
+"while": {
+"ex": "I read a book while my brother slept.",
+"exZh": "當我弟弟睡覺時，我讀了一本書。"
+},
+"who": {
+"ex": "Who is your favorite teacher?",
+"exZh": "誰是你最喜歡的老師？"
+},
+"whole": {
+"ex": "I ate the whole pizza by myself.",
+"exZh": "我自己吃了一整個披薩。"
+},
+"whose": {
+"ex": "Whose bag is on the desk?",
+"exZh": "桌上是誰的書包？"
+},
+"why": {
+"ex": "Why are you late for class today?",
+"exZh": "你今天為何上課遲到？"
+},
+"wide": {
+"ex": "The river here is very wide.",
+"exZh": "這裡的河很寬廣。"
+},
+"wife": {
+"ex": "His wife is a kind nurse.",
+"exZh": "他的妻子是一位善良的護士。"
+},
+"wild": {
+"ex": "We saw many wild animals at the park.",
+"exZh": "我們在公園看到許多野生動物。"
+},
+"will": {
+"ex": "I will call you after school.",
+"exZh": "放學後我將會打電話給你。"
+},
+"wind": {
+"ex": "The cold wind made me shake.",
+"exZh": "冷風讓我發抖。"
+},
+"windy": {
+"ex": "It is very windy outside today.",
+"exZh": "今天外面風很大。"
+},
+"wine": {
+"ex": "My father drinks a little wine at dinner.",
+"exZh": "我爸爸晚餐時喝一點酒。"
+},
+"wing": {
+"ex": "The bird hurt its left wing.",
+"exZh": "那隻鳥傷了牠的左翅膀。"
+},
+"winner": {
+"ex": "She is the winner of the singing contest.",
+"exZh": "她是歌唱比賽的優勝者。"
+},
+"wire": {
+"ex": "Please don't touch that electric wire.",
+"exZh": "請不要碰那條電線。"
+},
+"wise": {
+"ex": "My grandfather is a wise old man.",
+"exZh": "我的爺爺是一位明智的老人。"
+},
+"with": {
+"ex": "I went to the movies with my friends.",
+"exZh": "我和朋友一起去看電影。"
+},
+"wolf": {
+"ex": "The wolf ran into the dark forest.",
+"exZh": "那匹狼跑進了黑暗的森林。"
+},
+"woman": {
+"ex": "The woman in red is my teacher.",
+"exZh": "那位穿紅衣的女人是我的老師。"
+},
+"wonder": {
+"ex": "I wonder why the sky is blue.",
+"exZh": "我很驚訝天空為什麼是藍色的。"
+},
+"wood": {
+"ex": "This table is made of wood.",
+"exZh": "這張桌子是用木頭做的。"
+},
+"wool": {
+"ex": "My winter coat is made of wool.",
+"exZh": "我的冬天外套是用羊毛做的。"
+},
+"worker": {
+"ex": "The worker fixed the broken door.",
+"exZh": "那位工人修好了壞掉的門。"
+},
+"worm": {
+"ex": "A bird is eating a worm in the garden.",
+"exZh": "一隻鳥正在花園裡吃一條蟲。"
+},
+"worth": {
+"ex": "This old coin has great worth.",
+"exZh": "這枚舊硬幣有很高的價值。"
+},
+"wound": {
+"ex": "The nurse cleaned the wound on my arm.",
+"exZh": "護士清理了我手臂上的傷口。"
+},
+"wrist": {
+"ex": "I wear a watch on my left wrist.",
+"exZh": "我在左手腕上戴手錶。"
+},
+"writer": {
+"ex": "She wants to be a famous writer.",
+"exZh": "她想成為一位有名的作者。"
+},
+"yard": {
+"ex": "The children are playing in the yard.",
+"exZh": "孩子們正在院子裡玩耍。"
+},
+"yes": {
+"ex": "Yes, I can help you with your homework.",
+"exZh": "是的，我可以幫你做功課。"
+},
+"yesterday": {
+"ex": "We watched a movie yesterday.",
+"exZh": "我們昨天看了一部電影。"
+},
+"yet": {
+"ex": "I have not finished my homework yet.",
+"exZh": "我還沒寫完我的作業。"
+},
+"youth": {
+"ex": "We should enjoy our youth and study hard.",
+"exZh": "我們應該享受青春並認真學習。"
+},
+"yummy": {
+"ex": "The cake my mom made is so yummy.",
+"exZh": "我媽媽做的蛋糕好好吃。"
+},
+"zero": {
+"ex": "In winter, the temperature can drop below zero.",
+"exZh": "在冬天，溫度可能會降到零度以下。"
+},
+"zoo": {
+"ex": "We saw many lions at the zoo yesterday.",
+"exZh": "我們昨天在動物園看到很多獅子。"
+},
+"forward(s)": {
+"ex": "Please move forward(s) and stand in line.",
+"exZh": "請向前移動並排隊。"
+},
+"email": {
+"ex": "I sent an email to my teacher.",
+"exZh": "我寄了一封電子郵件給我的老師。"
+},
+"website": {
+"ex": "This website has many fun games.",
+"exZh": "這個網站有很多好玩的遊戲。"
+},
+"laptop": {
+"ex": "She does her homework on a laptop.",
+"exZh": "她用筆記型電腦做功課。"
+},
+"online": {
+"ex": "We can buy books online easily.",
+"exZh": "我們可以輕鬆地在線上買書。"
+},
+"plastic": {
+"ex": "We should use less plastic to help the earth.",
+"exZh": "我們應該少用塑膠來幫助地球。"
+}
+}

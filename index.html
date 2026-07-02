@@ -272,6 +272,13 @@ button{font-family:inherit; cursor:pointer; border:none; background:none; color:
 .banner{padding:11px 14px;border-radius:14px;font-size:13px;font-weight:700;margin-bottom:10px;line-height:1.5}
 .banner.exam{background:var(--blue-soft);color:var(--blue)}
 .banner.assign{background:var(--amber-soft);color:var(--accent-d);cursor:pointer}
+/* ===== 安裝到桌面按鈕 ===== */
+.install-btn{width:100%;display:flex;align-items:center;gap:10px;padding:13px 16px;border-radius:14px;font-size:15px;font-weight:800;background:var(--green);color:#fff;box-shadow:0 5px 16px rgba(46,184,114,.35);margin-bottom:12px;cursor:pointer;border:none;font-family:inherit}
+.install-btn span{font-size:18px}
+.install-btn.sec{background:var(--card);color:var(--text);box-shadow:var(--shadow)}
+.install-tip{background:var(--green-soft);color:var(--text);border-radius:14px;padding:14px 16px;font-size:14px;line-height:1.8;margin-bottom:12px}
+.install-tip b{color:var(--green)}
+.install-x{display:inline-block;margin-top:8px;color:var(--green);font-weight:800;cursor:pointer}
 
 /* ===== 單元分頁（課本目錄） ===== */
 .units-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;padding:2px}
@@ -374,6 +381,8 @@ button{font-family:inherit; cursor:pointer; border:none; background:none; color:
         </div>
       </div>
     </div>
+
+    <div id="installBar"></div>
 
     <div id="homeBanners"></div>
 
@@ -1566,6 +1575,31 @@ function renderHome(){
   const ht=document.querySelector("#view-home .tiles"); if(ht) ht.style.display=S.settings.simpleHome?"none":"";
   renderTaskCard();
   renderBanners();
+  renderInstallBar();
+}
+/* ---------- PWA 安裝到桌面 ---------- */
+let deferredPrompt=null;
+window.addEventListener("beforeinstallprompt", e=>{ e.preventDefault(); deferredPrompt=e; renderInstallBar(); });
+window.addEventListener("appinstalled", ()=>{ deferredPrompt=null; renderInstallBar(); try{toast("已安裝到桌面 🎉");}catch(e){} });
+function isStandalone(){ return (window.matchMedia && window.matchMedia("(display-mode: standalone)").matches) || navigator.standalone===true; }
+function isIOSDevice(){ return /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform==="MacIntel" && navigator.maxTouchPoints>1); }
+function renderInstallBar(){
+  const el=document.getElementById("installBar"); if(!el) return;
+  if(isStandalone()){ el.innerHTML=""; return; }               // 已經是安裝後的 App
+  if(deferredPrompt){
+    el.innerHTML=`<button class="install-btn" onclick="doInstall()"><span>📲</span>安裝到桌面（免開瀏覽器）<span style="margin-left:auto">➕</span></button>`;
+  } else if(isIOSDevice()){
+    el.innerHTML=`<button class="install-btn sec" onclick="showIOSInstall()"><span>📲</span>安裝到主畫面（iPad / iPhone）<span style="margin-left:auto">›</span></button>`;
+  } else { el.innerHTML=""; }
+}
+function doInstall(){
+  if(!deferredPrompt){ try{toast("此瀏覽器暫不支援一鍵安裝，可用選單的「安裝應用程式」");}catch(e){} return; }
+  deferredPrompt.prompt();
+  deferredPrompt.userChoice.finally(()=>{ deferredPrompt=null; renderInstallBar(); });
+}
+function showIOSInstall(){
+  const el=document.getElementById("installBar"); if(!el) return;
+  el.innerHTML=`<div class="install-tip">📲 <b>加到 iPad / iPhone 桌面：</b><br>1. 用 <b>Safari</b> 開啟本頁<br>2. 點「分享 <b>⬆️</b>」（底部或右上）<br>3. 往下找「<b>加入主畫面 ➕</b>」<br>4. 右上按「新增」就完成了<br><span class="install-x" onclick="renderInstallBar()">知道了 ✓</span></div>`;
 }
 function masteredCount(){ return Object.values(S.srs).filter(e=>e.box>=5).length; }
 function dueCount(){ const now=Date.now(); return WORDS.filter(w=>{const e=srsOf(w.word); return e&&e.due<=now;}).length; }

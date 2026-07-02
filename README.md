@@ -5,17 +5,21 @@
 
 > 純單一 HTML 檔、資料全存在手機本機、不上傳雲端、不需註冊、沒有廣告。
 
+> **版本**：v1.1（2026-07-02）　｜　🔴 圖示「ABC 2000」（紅）　｜　📱 響應式　｜　✍️ 填空題　｜　🔊 翻卡朗讀例句
+> **線上版**：<https://fullmodel-star.github.io/english2000/>　（詳細異動見 [更新記錄.md](更新記錄.md)）
+
 ---
 
 ## ✨ 功能
 
 - **2000 單字**：每字含例句、中譯、詞性、主題；261 個高頻多義字附「另解」第二義項
-- **單字卡**：3D 翻卡、滑動評分、發音、番茄鐘專注計時、SRS 間隔複習（Leitner 盒）
+- **單字卡**：3D 翻卡、滑動評分、翻面自動朗讀「單字＋例句」（TTS）、番茄鐘專注計時、SRS 間隔複習（Leitner 盒）
 - **單元闖關**：分 40 單元（每單元 50 字），學習 → 測驗驗收 → ≥80% 過關蓋 ⭐ 解鎖下一關（可開自由模式跳關）
-- **測驗**：英→中／中→英／拼字輸入三種題型、可選 10／20／50 題、可指定單元、中途存檔續做
+- **測驗**：英→中／中→英／拼字輸入／**填空**（例句挖空＋中文提示，加強記憶）四種題型、可選 10／20／50 題、可指定單元、中途存檔續做
 - **錯題本**：答錯自動收錄、英中雙向各連對 2 次才畢業、間隔複習、錯因標籤、👹 魔王字、上次選錯提示
 - **遊戲化**：XP 等級、連勝 combo、音效震動、19 種徽章
 - **今日任務**：學新字／複習／清錯題三段進度，綁連續天數
+- **響應式版面**：手機直式單欄；平板 / 大螢幕自動放寬、單元多欄、卡片放大（`--appw` + media query）
 - **會考倒數**：設考試日，自動算「每天該背幾字」
 - **班級用**：學生匯出進度 JSON，老師用 `teacher.html` 拖入彙整成班級總表＋CSV
 - **貼心設定**：深色模式跟系統、簡潔模式、減壓／家長模式、螢幕時間提醒、家長 PIN 鎖、聽覺自動發音、新手引導
@@ -37,9 +41,14 @@
 
 ## 🌐 部署到 GitHub Pages
 
-1. 把本資料夾所有檔案上傳到 GitHub repo。
+**已部署**：repo `english2000`（帳號 fullmodel-star）→ **<https://fullmodel-star.github.io/english2000/>**
+
+> ⚠️ 若線上版是在 2026-07-02 加入「響應式版面」之前上傳的，需**重新 push** 本資料夾最新檔案才會更新到響應式版。
+
+重新部署步驟：
+1. 把本資料夾所有檔案上傳到 GitHub repo（`index.html` 需在 repo 根目錄）。
 2. repo → **Settings → Pages → Build and deployment → Source 選 `Deploy from a branch`，分支選 `main`／資料夾選 `/ (root)`**，儲存。
-3. 稍等片刻，會得到網址：`https://<你的帳號>.github.io/<repo名稱>/`
+3. 稍等 1～2 分鐘建置完成，Pages 頁面上方會出現綠色「Your site is live at …」網址橫幅。
 4. 用該 **https 網址**開啟，PWA（離線、安裝）才會生效。
 
 ---
@@ -53,8 +62,10 @@
 | `manifest.json` / `sw.js` | PWA 設定與離線快取 Service Worker |
 | `icon-*.png` / `apple-touch-icon.png` / `icon.svg` | App 圖示（Android / iOS） |
 | `files/` | 單字資料與重建工具（`wordlist_full.json`、`examples_progress.json`、`multisense.json`、`merge_examples.py`、`smoke_test.py`） |
+| `docs/` | 開發文件（學生回饋報告、專業檢視報告、系統架構規劃） |
+| `README.md` / `更新記錄.md` | 說明與版本異動記錄 |
 
-> 實際運作只需要 `index.html`、`teacher.html`、`manifest.json`、`sw.js` 與 icon 檔；`files/` 與 `.md` 為資料／文件，不影響執行。
+> 實際運作只需要 `index.html`、`teacher.html`、`manifest.json`、`sw.js` 與 icon 檔；`files/`、`docs/` 與 `.md` 為資料／文件，不影響執行。
 
 ---
 

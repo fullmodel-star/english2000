@@ -1,17 +1,37 @@
 {
-  "name": "國中英語 2000 單字",
-  "short_name": "英語2000",
-  "description": "間隔複習＋單元闖關，背熟國中英語 2000 單字",
-  "lang": "zh-Hant",
-  "start_url": ".",
-  "scope": ".",
-  "display": "standalone",
-  "background_color": "#f5f6f8",
-  "theme_color": "#ff6b6b",
-  "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
-    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
-  ]
+ "name": "國中英語 2000 單字",
+ "short_name": "英語2000",
+ "description": "間隔複習＋單元闖關，背熟國中英語 2000 單字",
+ "lang": "zh-Hant",
+ "start_url": ".",
+ "scope": ".",
+ "display": "standalone",
+ "background_color": "#f5f6f8",
+ "theme_color": "#e8504f",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
 }

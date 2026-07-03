@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="112" fill="#e8504f"/>
-  <text x="256" y="212" font-family="Arial,sans-serif" font-weight="800" font-size="205" fill="#fff" text-anchor="middle" dominant-baseline="central">ABC</text>
-  <rect x="121" y="318" width="270" height="132" rx="66" fill="#fff"/>
-  <text x="256" y="386" font-family="Arial,sans-serif" font-weight="800" font-size="98" fill="#e8504f" text-anchor="middle" dominant-baseline="central">2000</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8504f"/><stop offset="1" stop-color="#ed7675"/></linearGradient></defs>
+<rect width="192" height="192" rx="42" fill="url(#g)"/>
+<text x="96" y="88" font-size="58" font-family="Arial" font-weight="bold" fill="#fff" text-anchor="middle">ABC</text>
+<rect x="46" y="118" width="100" height="38" rx="19" fill="#fff"/>
+<text x="96" y="144" font-size="40" font-family="Arial" font-weight="bold" fill="#e8504f" text-anchor="middle">2000</text>
 </svg>

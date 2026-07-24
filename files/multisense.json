@@ -1,0 +1,1829 @@
+[
+{
+"word": "about",
+"pos2": "adv",
+"zh2": "大約；差不多",
+"ex2": "There are about thirty students.",
+"exZh2": "大約有三十個學生。"
+},
+{
+"word": "act",
+"pos2": "v",
+"zh2": "演戲；扮演",
+"ex2": "She acts in the school play.",
+"exZh2": "她在學校戲劇中演出。"
+},
+{
+"word": "address",
+"pos2": "n",
+"zh2": "演講；致詞",
+"ex2": "The mayor gave a short address.",
+"exZh2": "市長發表了簡短的演講。"
+},
+{
+"word": "answer",
+"pos2": "v",
+"zh2": "回答；接（電話）",
+"ex2": "Please answer my question.",
+"exZh2": "請回答我的問題。"
+},
+{
+"word": "as",
+"pos2": "conj",
+"zh2": "當…的時候；因為",
+"ex2": "He sang as he walked home.",
+"exZh2": "他一邊走回家一邊唱歌。"
+},
+{
+"word": "attack",
+"pos2": "v",
+"zh2": "攻擊",
+"ex2": "The dog tried to attack me.",
+"exZh2": "那隻狗想要攻擊我。"
+},
+{
+"word": "back",
+"pos2": "adv",
+"zh2": "回；向後",
+"ex2": "Please come back soon.",
+"exZh2": "請快點回來。"
+},
+{
+"word": "bank",
+"pos2": "n",
+"zh2": "河岸",
+"ex2": "We sat on the river bank.",
+"exZh2": "我們坐在河岸上。"
+},
+{
+"word": "bat",
+"pos2": "n",
+"zh2": "球棒",
+"ex2": "He hit the ball with a bat.",
+"exZh2": "他用球棒打球。"
+},
+{
+"word": "beat",
+"pos2": "v",
+"zh2": "打敗；擊敗",
+"ex2": "Our team beat them yesterday.",
+"exZh2": "我們隊昨天打敗了他們。"
+},
+{
+"word": "behind",
+"pos2": "prep",
+"zh2": "在…後面",
+"ex2": "The cat is behind the door.",
+"exZh2": "貓在門後面。"
+},
+{
+"word": "below",
+"pos2": "prep",
+"zh2": "在…下方",
+"ex2": "The fish swim below the boat.",
+"exZh2": "魚在船下方游。"
+},
+{
+"word": "bitter",
+"pos2": "adj",
+"zh2": "苦的（味道）",
+"ex2": "This coffee tastes too bitter.",
+"exZh2": "這杯咖啡嚐起來太苦了。"
+},
+{
+"word": "block",
+"pos2": "v",
+"zh2": "阻擋；擋住",
+"ex2": "A big truck blocked the road.",
+"exZh2": "一輛大卡車擋住了路。"
+},
+{
+"word": "book",
+"pos2": "v",
+"zh2": "預訂",
+"ex2": "We booked a room for the trip.",
+"exZh2": "我們為這趟旅行訂了一個房間。"
+},
+{
+"word": "bow",
+"pos2": "v",
+"zh2": "鞠躬",
+"ex2": "The students bow to the teacher.",
+"exZh2": "學生們向老師鞠躬。"
+},
+{
+"word": "branch",
+"pos2": "n",
+"zh2": "樹枝",
+"ex2": "A bird sits on the branch.",
+"exZh2": "一隻鳥停在樹枝上。"
+},
+{
+"word": "break",
+"pos2": "n",
+"zh2": "休息（時間）",
+"ex2": "Let's take a short break now.",
+"exZh2": "我們現在休息一下吧。"
+},
+{
+"word": "bright",
+"pos2": "adj",
+"zh2": "聰明的",
+"ex2": "She is a bright student.",
+"exZh2": "她是個聰明的學生。"
+},
+{
+"word": "brush",
+"pos2": "v",
+"zh2": "刷",
+"ex2": "I brush my teeth every day.",
+"exZh2": "我每天刷牙。"
+},
+{
+"word": "button",
+"pos2": "n",
+"zh2": "按鈕",
+"ex2": "Press the red button now.",
+"exZh2": "現在按下紅色按鈕。"
+},
+{
+"word": "call",
+"pos2": "v",
+"zh2": "打電話；叫",
+"ex2": "Please call me tonight.",
+"exZh2": "今晚請打電話給我。"
+},
+{
+"word": "camp",
+"pos2": "n",
+"zh2": "營地；露營",
+"ex2": "We set up the camp.",
+"exZh2": "我們搭起了營地。"
+},
+{
+"word": "can",
+"pos2": "n",
+"zh2": "罐頭",
+"ex2": "I opened a can of fish.",
+"exZh2": "我打開一罐魚罐頭。"
+},
+{
+"word": "care",
+"pos2": "n",
+"zh2": "照顧；小心",
+"ex2": "Take care of yourself.",
+"exZh2": "好好照顧你自己。"
+},
+{
+"word": "case",
+"pos2": "n",
+"zh2": "盒子；箱子",
+"ex2": "Put it in the pencil case.",
+"exZh2": "把它放進鉛筆盒裡。"
+},
+{
+"word": "catch",
+"pos2": "v",
+"zh2": "趕上；接住",
+"ex2": "I can catch the bus.",
+"exZh2": "我趕得上那班公車。"
+},
+{
+"word": "cause",
+"pos2": "n",
+"zh2": "原因",
+"ex2": "What is the cause of fire?",
+"exZh2": "火災的原因是什麼？"
+},
+{
+"word": "certain",
+"pos2": "adj",
+"zh2": "某一；某些",
+"ex2": "A certain boy is waiting for you.",
+"exZh2": "有某個男孩在等你。"
+},
+{
+"word": "change",
+"pos2": "n",
+"zh2": "零錢；找的錢",
+"ex2": "Here is your change, sir.",
+"exZh2": "先生，這是找您的零錢。"
+},
+{
+"word": "character",
+"pos2": "n",
+"zh2": "(書、電影中的)角色",
+"ex2": "My favorite character is the hero.",
+"exZh2": "我最喜歡的角色是那位英雄。"
+},
+{
+"word": "charge",
+"pos2": "v",
+"zh2": "充電",
+"ex2": "I need to charge my phone now.",
+"exZh2": "我現在需要幫手機充電。"
+},
+{
+"word": "class",
+"pos2": "n",
+"zh2": "課；課程",
+"ex2": "We have an English class today.",
+"exZh2": "我們今天有一堂英文課。"
+},
+{
+"word": "clear",
+"pos2": "adj",
+"zh2": "晴朗的；無雲的",
+"ex2": "The sky is clear and blue today.",
+"exZh2": "今天天空晴朗又湛藍。"
+},
+{
+"word": "close",
+"pos2": "adj",
+"zh2": "親近的；接近的",
+"ex2": "She is my close friend.",
+"exZh2": "她是我親近的朋友。"
+},
+{
+"word": "cold",
+"pos2": "n",
+"zh2": "感冒",
+"ex2": "I caught a cold last week.",
+"exZh2": "我上週感冒了。"
+},
+{
+"word": "company",
+"pos2": "n",
+"zh2": "陪伴；同伴",
+"ex2": "I enjoy your company.",
+"exZh2": "我喜歡有你作伴。"
+},
+{
+"word": "complete",
+"pos2": "v",
+"zh2": "完成",
+"ex2": "He completed the work today.",
+"exZh2": "他今天完成了工作。"
+},
+{
+"word": "concern",
+"pos2": "v",
+"zh2": "與…有關；涉及",
+"ex2": "This concerns all of us.",
+"exZh2": "這件事與我們都有關。"
+},
+{
+"word": "cook",
+"pos2": "n",
+"zh2": "廚師",
+"ex2": "My mother is a good cook.",
+"exZh2": "我媽媽是個好廚師。"
+},
+{
+"word": "cool",
+"pos2": "adj",
+"zh2": "酷的；很棒的",
+"ex2": "Your new bike is so cool!",
+"exZh2": "你的新腳踏車真酷！"
+},
+{
+"word": "copy",
+"pos2": "n",
+"zh2": "一份；一本",
+"ex2": "I bought a copy of the book.",
+"exZh2": "我買了一本那本書。"
+},
+{
+"word": "cost",
+"pos2": "n",
+"zh2": "費用；成本",
+"ex2": "The cost of the trip is high.",
+"exZh2": "這趟旅行的費用很高。"
+},
+{
+"word": "cover",
+"pos2": "n",
+"zh2": "封面；蓋子",
+"ex2": "The book has a red cover.",
+"exZh2": "這本書有個紅色封面。"
+},
+{
+"word": "cure",
+"pos2": "v",
+"zh2": "治癒；治好",
+"ex2": "The doctor cured my illness.",
+"exZh2": "醫生治好了我的病。"
+},
+{
+"word": "current",
+"pos2": "n",
+"zh2": "水流；電流",
+"ex2": "The river current is very strong.",
+"exZh2": "這條河的水流很強。"
+},
+{
+"word": "dance",
+"pos2": "n",
+"zh2": "舞蹈；舞會",
+"ex2": "We went to the school dance.",
+"exZh2": "我們去了學校的舞會。"
+},
+{
+"word": "dark",
+"pos2": "n",
+"zh2": "黑暗",
+"ex2": "The cat hid in the dark.",
+"exZh2": "那隻貓躲在黑暗中。"
+},
+{
+"word": "date",
+"pos2": "n",
+"zh2": "約會",
+"ex2": "They went on a date last night.",
+"exZh2": "他們昨晚去約會。"
+},
+{
+"word": "deal",
+"pos2": "v",
+"zh2": "處理；應付",
+"ex2": "I can deal with this problem.",
+"exZh2": "我能處理這個問題。"
+},
+{
+"word": "design",
+"pos2": "n",
+"zh2": "設計",
+"ex2": "I like the design of this bag.",
+"exZh2": "我喜歡這個包包的設計。"
+},
+{
+"word": "dish",
+"pos2": "n",
+"zh2": "菜餚；一道菜",
+"ex2": "This dish is very delicious.",
+"exZh2": "這道菜非常美味。"
+},
+{
+"word": "draw",
+"pos2": "v",
+"zh2": "畫；繪畫",
+"ex2": "She likes to draw a cat.",
+"exZh2": "她喜歡畫一隻貓。"
+},
+{
+"word": "dream",
+"pos2": "v",
+"zh2": "做夢；夢想",
+"ex2": "I dream of being a singer.",
+"exZh2": "我夢想成為一名歌手。"
+},
+{
+"word": "dress",
+"pos2": "v",
+"zh2": "穿衣服；打扮",
+"ex2": "She dresses up for the party.",
+"exZh2": "她為了派對盛裝打扮。"
+},
+{
+"word": "drink",
+"pos2": "n",
+"zh2": "飲料",
+"ex2": "Would you like a cold drink?",
+"exZh2": "你想要一杯冷飲嗎？"
+},
+{
+"word": "drop",
+"pos2": "n",
+"zh2": "一滴",
+"ex2": "A drop of water fell down.",
+"exZh2": "一滴水落了下來。"
+},
+{
+"word": "dry",
+"pos2": "v",
+"zh2": "弄乾；擦乾",
+"ex2": "Please dry your hands.",
+"exZh2": "請把你的手擦乾。"
+},
+{
+"word": "double",
+"pos2": "adj",
+"zh2": "雙倍的；兩倍的",
+"ex2": "I need a double room.",
+"exZh2": "我需要一間雙人房。"
+},
+{
+"word": "doubt",
+"pos2": "n",
+"zh2": "懷疑",
+"ex2": "There is no doubt about it.",
+"exZh2": "這件事毫無疑問。"
+},
+{
+"word": "early",
+"pos2": "adv",
+"zh2": "早地；提早地",
+"ex2": "He got up early today.",
+"exZh2": "他今天很早起床。"
+},
+{
+"word": "end",
+"pos2": "n",
+"zh2": "結尾；末端",
+"ex2": "The shop is at the end.",
+"exZh2": "那家店在最尾端。"
+},
+{
+"word": "even",
+"pos2": "adj",
+"zh2": "偶數的；平的",
+"ex2": "Two and four are even numbers.",
+"exZh2": "二和四是偶數。"
+},
+{
+"word": "excuse",
+"pos2": "n",
+"zh2": "藉口",
+"ex2": "Don't give me any excuse.",
+"exZh2": "別給我任何藉口。"
+},
+{
+"word": "express",
+"pos2": "n",
+"zh2": "快車；快遞",
+"ex2": "We took the express to Taipei.",
+"exZh2": "我們搭快車去台北。"
+},
+{
+"word": "face",
+"pos2": "v",
+"zh2": "面對",
+"ex2": "We must face the problem.",
+"exZh2": "我們必須面對這個問題。"
+},
+{
+"word": "fair",
+"pos2": "n",
+"zh2": "市集；園遊會",
+"ex2": "I bought a book at the fair.",
+"exZh2": "我在園遊會買了一本書。"
+},
+{
+"word": "fall",
+"pos2": "n",
+"zh2": "秋天",
+"ex2": "The leaves turn red in fall.",
+"exZh2": "葉子在秋天變紅。"
+},
+{
+"word": "fan",
+"pos2": "n",
+"zh2": "粉絲；迷",
+"ex2": "He is a big baseball fan.",
+"exZh2": "他是個棒球迷。"
+},
+{
+"word": "fast",
+"pos2": "adv",
+"zh2": "快地",
+"ex2": "The rabbit runs very fast.",
+"exZh2": "那隻兔子跑得很快。"
+},
+{
+"word": "fight",
+"pos2": "v",
+"zh2": "打架；對抗",
+"ex2": "The two boys often fight.",
+"exZh2": "那兩個男孩常常打架。"
+},
+{
+"word": "fine",
+"pos2": "adj",
+"zh2": "好的；健康的",
+"ex2": "I am fine today, thank you.",
+"exZh2": "我今天很好，謝謝你。"
+},
+{
+"word": "first",
+"pos2": "adv",
+"zh2": "首先；最初",
+"ex2": "First, we wash our hands.",
+"exZh2": "首先，我們要洗手。"
+},
+{
+"word": "fish",
+"pos2": "v",
+"zh2": "釣魚",
+"ex2": "We fish by the river on weekends.",
+"exZh2": "我們週末在河邊釣魚。"
+},
+{
+"word": "fix",
+"pos2": "v",
+"zh2": "修理",
+"ex2": "Can you fix my old bike?",
+"exZh2": "你能修理我的舊腳踏車嗎？"
+},
+{
+"word": "floor",
+"pos2": "n",
+"zh2": "樓層",
+"ex2": "My office is on the third floor.",
+"exZh2": "我的辦公室在三樓。"
+},
+{
+"word": "focus",
+"pos2": "v",
+"zh2": "專注；集中",
+"ex2": "Please focus on your homework now.",
+"exZh2": "請現在專心做你的功課。"
+},
+{
+"word": "form",
+"pos2": "n",
+"zh2": "表格；形式",
+"ex2": "Please fill in this form first.",
+"exZh2": "請先填這張表格。"
+},
+{
+"word": "free",
+"pos2": "adj",
+"zh2": "免費的",
+"ex2": "The drinks here are all free.",
+"exZh2": "這裡的飲料都是免費的。"
+},
+{
+"word": "front",
+"pos2": "n",
+"zh2": "前面",
+"ex2": "A car stops in front of us.",
+"exZh2": "一輛車停在我們前面。"
+},
+{
+"word": "fly",
+"pos2": "n",
+"zh2": "蒼蠅",
+"ex2": "A fly is on the sweet cake.",
+"exZh2": "一隻蒼蠅停在甜蛋糕上。"
+},
+{
+"word": "game",
+"pos2": "n",
+"zh2": "比賽",
+"ex2": "We won the basketball game.",
+"exZh2": "我們贏了這場籃球比賽。"
+},
+{
+"word": "gas",
+"pos2": "n",
+"zh2": "汽油",
+"ex2": "The car needs more gas.",
+"exZh2": "這台車需要加更多汽油。"
+},
+{
+"word": "general",
+"pos2": "n",
+"zh2": "將軍",
+"ex2": "The general led the army.",
+"exZh2": "那位將軍率領著軍隊。"
+},
+{
+"word": "get",
+"pos2": "v",
+"zh2": "變得",
+"ex2": "It gets cold at night.",
+"exZh2": "晚上會變得很冷。"
+},
+{
+"word": "giant",
+"pos2": "n",
+"zh2": "巨人",
+"ex2": "The giant lives in the forest.",
+"exZh2": "那個巨人住在森林裡。"
+},
+{
+"word": "glass",
+"pos2": "n",
+"zh2": "玻璃杯，一杯",
+"ex2": "I want a glass of water.",
+"exZh2": "我想要一杯水。"
+},
+{
+"word": "goal",
+"pos2": "n",
+"zh2": "得分，進球",
+"ex2": "He scored the winning goal.",
+"exZh2": "他踢進了致勝的一球。"
+},
+{
+"word": "grade",
+"pos2": "n",
+"zh2": "年級",
+"ex2": "My sister is in third grade.",
+"exZh2": "我妹妹讀三年級。"
+},
+{
+"word": "guard",
+"pos2": "v",
+"zh2": "守衛，保護",
+"ex2": "The dog guards the house.",
+"exZh2": "那隻狗守衛著房子。"
+},
+{
+"word": "guide",
+"pos2": "n",
+"zh2": "導遊，指南",
+"ex2": "The guide showed us the way.",
+"exZh2": "導遊為我們指路。"
+},
+{
+"word": "half",
+"pos2": "n",
+"zh2": "一半",
+"ex2": "Half of the cake is gone.",
+"exZh2": "蛋糕的一半不見了。"
+},
+{
+"word": "hand",
+"pos2": "v",
+"zh2": "遞給；交出",
+"ex2": "Please hand me the book.",
+"exZh2": "請把那本書遞給我。"
+},
+{
+"word": "hard",
+"pos2": "adv",
+"zh2": "努力地；猛烈地",
+"ex2": "He works hard every day.",
+"exZh2": "他每天努力工作。"
+},
+{
+"word": "help",
+"pos2": "v",
+"zh2": "幫助",
+"ex2": "Can you help me clean it?",
+"exZh2": "你可以幫我清理它嗎？"
+},
+{
+"word": "hope",
+"pos2": "v",
+"zh2": "希望",
+"ex2": "I hope you can come.",
+"exZh2": "我希望你能來。"
+},
+{
+"word": "hold",
+"pos2": "v",
+"zh2": "舉辦",
+"ex2": "We will hold a party tonight.",
+"exZh2": "我們今晚將舉辦一場派對。"
+},
+{
+"word": "home",
+"pos2": "adv",
+"zh2": "回家；在家",
+"ex2": "I want to go home now.",
+"exZh2": "我現在想要回家。"
+},
+{
+"word": "head",
+"pos2": "v",
+"zh2": "前往；朝…去",
+"ex2": "Let's head to the park.",
+"exZh2": "我們前往公園吧。"
+},
+{
+"word": "hurt",
+"pos2": "adj",
+"zh2": "受傷的；疼痛的",
+"ex2": "He had a hurt look on his face.",
+"exZh2": "他臉上有受傷的表情。"
+},
+{
+"word": "interest",
+"pos2": "n",
+"zh2": "利息",
+"ex2": "The bank pays a high interest.",
+"exZh2": "這家銀行付高額利息。"
+},
+{
+"word": "iron",
+"pos2": "n",
+"zh2": "鐵",
+"ex2": "This gate is made of iron.",
+"exZh2": "這扇門是鐵做的。"
+},
+{
+"word": "interview",
+"pos2": "n",
+"zh2": "面試",
+"ex2": "She has a job interview today.",
+"exZh2": "她今天有一場工作面試。"
+},
+{
+"word": "jam",
+"pos2": "n",
+"zh2": "交通阻塞；塞車",
+"ex2": "We were stuck in a traffic jam.",
+"exZh2": "我們塞在車陣中。"
+},
+{
+"word": "judge",
+"pos2": "n",
+"zh2": "法官；裁判",
+"ex2": "The judge made a fair decision.",
+"exZh2": "法官做了公正的判決。"
+},
+{
+"word": "just",
+"pos2": "adv",
+"zh2": "只是；僅僅",
+"ex2": "I just want some water.",
+"exZh2": "我只是想要一些水。"
+},
+{
+"word": "kind",
+"pos2": "n",
+"zh2": "種類",
+"ex2": "What kind of music do you like?",
+"exZh2": "你喜歡哪種音樂？"
+},
+{
+"word": "kiss",
+"pos2": "v",
+"zh2": "親吻",
+"ex2": "She kissed her baby softly.",
+"exZh2": "她輕輕地親吻她的寶寶。"
+},
+{
+"word": "kid",
+"pos2": "v",
+"zh2": "開玩笑",
+"ex2": "Are you kidding me?",
+"exZh2": "你在開我玩笑嗎？"
+},
+{
+"word": "last",
+"pos2": "v",
+"zh2": "持續",
+"ex2": "The movie lasts two hours.",
+"exZh2": "這部電影持續兩個小時。"
+},
+{
+"word": "laugh",
+"pos2": "v",
+"zh2": "笑",
+"ex2": "We laughed at his joke.",
+"exZh2": "我們因他的笑話而笑。"
+},
+{
+"word": "land",
+"pos2": "v",
+"zh2": "降落",
+"ex2": "The plane landed on time.",
+"exZh2": "飛機準時降落。"
+},
+{
+"word": "letter",
+"pos2": "n",
+"zh2": "字母",
+"ex2": "A is the first letter.",
+"exZh2": "A是第一個字母。"
+},
+{
+"word": "lie",
+"pos2": "v",
+"zh2": "躺；平躺",
+"ex2": "I lie on the bed and rest.",
+"exZh2": "我躺在床上休息。"
+},
+{
+"word": "light",
+"pos2": "adj",
+"zh2": "輕的",
+"ex2": "This box is very light.",
+"exZh2": "這個箱子很輕。"
+},
+{
+"word": "like",
+"pos2": "prep",
+"zh2": "像；如同",
+"ex2": "He runs like the wind.",
+"exZh2": "他跑得像風一樣。"
+},
+{
+"word": "limit",
+"pos2": "v",
+"zh2": "限制",
+"ex2": "Please limit your time to ten minutes.",
+"exZh2": "請把你的時間限制在十分鐘內。"
+},
+{
+"word": "list",
+"pos2": "n",
+"zh2": "清單；名單",
+"ex2": "I have a list of things to buy.",
+"exZh2": "我有一張要買的東西的清單。"
+},
+{
+"word": "little",
+"pos2": "adj",
+"zh2": "小的",
+"ex2": "A little dog is in the box.",
+"exZh2": "一隻小狗在箱子裡。"
+},
+{
+"word": "live",
+"pos2": "adj",
+"zh2": "現場的；活的",
+"ex2": "We watched a live show last night.",
+"exZh2": "我們昨晚看了一場現場表演。"
+},
+{
+"word": "long",
+"pos2": "adj",
+"zh2": "長的",
+"ex2": "She has long black hair.",
+"exZh2": "她有一頭烏黑的長髮。"
+},
+{
+"word": "lock",
+"pos2": "v",
+"zh2": "鎖上",
+"ex2": "Please lock the door before you leave.",
+"exZh2": "離開前請把門鎖上。"
+},
+{
+"word": "love",
+"pos2": "v",
+"zh2": "愛；喜愛",
+"ex2": "I love my family very much.",
+"exZh2": "我非常愛我的家人。"
+},
+{
+"word": "mad",
+"pos2": "adj",
+"zh2": "瘋狂的",
+"ex2": "They drove me mad with the noise.",
+"exZh2": "那噪音把我逼瘋了。"
+},
+{
+"word": "mail",
+"pos2": "v",
+"zh2": "郵寄",
+"ex2": "I will mail the letter tomorrow.",
+"exZh2": "我明天會把信寄出去。"
+},
+{
+"word": "mark",
+"pos2": "v",
+"zh2": "做記號；標記",
+"ex2": "Mark the right answer with a pen.",
+"exZh2": "用筆把正確答案標起來。"
+},
+{
+"word": "match",
+"pos2": "n",
+"zh2": "火柴",
+"ex2": "He used a match to start the fire.",
+"exZh2": "他用一根火柴生火。"
+},
+{
+"word": "matter",
+"pos2": "v",
+"zh2": "要緊；重要",
+"ex2": "It doesn't matter if you are late.",
+"exZh2": "你遲到也沒關係。"
+},
+{
+"word": "mean",
+"pos2": "adj",
+"zh2": "刻薄的；小氣的",
+"ex2": "Don't be so mean to your sister.",
+"exZh2": "不要對你妹妹這麼刻薄。"
+},
+{
+"word": "mind",
+"pos2": "n",
+"zh2": "心智；頭腦",
+"ex2": "Keep this in mind, please.",
+"exZh2": "請把這件事記在心裡。"
+},
+{
+"word": "mine",
+"pos2": "pron",
+"zh2": "我的（東西）",
+"ex2": "This book is mine, not yours.",
+"exZh2": "這本書是我的，不是你的。"
+},
+{
+"word": "mop",
+"pos2": "v",
+"zh2": "用拖把拖（地）",
+"ex2": "I mop the floor every day.",
+"exZh2": "我每天拖地板。"
+},
+{
+"word": "most",
+"pos2": "adv",
+"zh2": "最（構成最高級）",
+"ex2": "She is the most beautiful girl.",
+"exZh2": "她是最漂亮的女孩。"
+},
+{
+"word": "name",
+"pos2": "v",
+"zh2": "命名；取名",
+"ex2": "They named the baby Tom.",
+"exZh2": "他們把寶寶取名為湯姆。"
+},
+{
+"word": "model",
+"pos2": "n",
+"zh2": "模型；模範",
+"ex2": "He made a model of a ship.",
+"exZh2": "他做了一個船的模型。"
+},
+{
+"word": "near",
+"pos2": "prep",
+"zh2": "在…附近",
+"ex2": "My house is near the school.",
+"exZh2": "我家在學校附近。"
+},
+{
+"word": "need",
+"pos2": "n",
+"zh2": "需要；需求",
+"ex2": "There is a need for water.",
+"exZh2": "有對水的需求。"
+},
+{
+"word": "note",
+"pos2": "v",
+"zh2": "注意；記下",
+"ex2": "Please note the new rule.",
+"exZh2": "請注意這條新規定。"
+},
+{
+"word": "notice",
+"pos2": "n",
+"zh2": "通知；告示",
+"ex2": "I saw a notice on the wall.",
+"exZh2": "我在牆上看到一張告示。"
+},
+{
+"word": "object",
+"pos2": "v",
+"zh2": "反對",
+"ex2": "They object to the plan.",
+"exZh2": "他們反對這個計畫。"
+},
+{
+"word": "offer",
+"pos2": "n",
+"zh2": "提議；出價",
+"ex2": "Thank you for your offer.",
+"exZh2": "謝謝你的提議。"
+},
+{
+"word": "old",
+"pos2": "adj",
+"zh2": "…歲的",
+"ex2": "My brother is ten years old.",
+"exZh2": "我弟弟十歲。"
+},
+{
+"word": "once",
+"pos2": "conj",
+"zh2": "一旦；一…就",
+"ex2": "Once you start, don't stop.",
+"exZh2": "你一旦開始，就別停下。"
+},
+{
+"word": "open",
+"pos2": "adj",
+"zh2": "開著的；營業中的",
+"ex2": "The store is open now.",
+"exZh2": "這家店現在有營業。"
+},
+{
+"word": "order",
+"pos2": "v",
+"zh2": "點餐；訂購",
+"ex2": "I would like to order a pizza.",
+"exZh2": "我想要點一個披薩。"
+},
+{
+"word": "orange",
+"pos2": "adj",
+"zh2": "橘色的",
+"ex2": "She is wearing an orange hat.",
+"exZh2": "她戴著一頂橘色的帽子。"
+},
+{
+"word": "own",
+"pos2": "adj",
+"zh2": "自己的",
+"ex2": "I have my own room.",
+"exZh2": "我有我自己的房間。"
+},
+{
+"word": "paint",
+"pos2": "n",
+"zh2": "油漆；顏料",
+"ex2": "The paint on the wall is wet.",
+"exZh2": "牆上的油漆是濕的。"
+},
+{
+"word": "park",
+"pos2": "v",
+"zh2": "停車",
+"ex2": "You can park your car here.",
+"exZh2": "你可以把車停在這裡。"
+},
+{
+"word": "patient",
+"pos2": "adj",
+"zh2": "有耐心的",
+"ex2": "My teacher is very patient.",
+"exZh2": "我的老師很有耐心。"
+},
+{
+"word": "pause",
+"pos2": "v",
+"zh2": "暫停",
+"ex2": "Please pause the movie now.",
+"exZh2": "請現在暫停這部電影。"
+},
+{
+"word": "pack",
+"pos2": "n",
+"zh2": "一包；一群",
+"ex2": "He bought a pack of milk.",
+"exZh2": "他買了一包牛奶。"
+},
+{
+"word": "place",
+"pos2": "v",
+"zh2": "放置；安放",
+"ex2": "She placed the book on the desk.",
+"exZh2": "她把書放在書桌上。"
+},
+{
+"word": "plain",
+"pos2": "adj",
+"zh2": "樸素的；清楚的",
+"ex2": "She wore a plain white dress.",
+"exZh2": "她穿著一件樸素的白洋裝。"
+},
+{
+"word": "plan",
+"pos2": "v",
+"zh2": "計畫；打算",
+"ex2": "We plan to visit Japan.",
+"exZh2": "我們打算去日本玩。"
+},
+{
+"word": "plant",
+"pos2": "v",
+"zh2": "種植",
+"ex2": "They plant trees every spring.",
+"exZh2": "他們每年春天種樹。"
+},
+{
+"word": "play",
+"pos2": "n",
+"zh2": "戲劇；劇本",
+"ex2": "We saw a play last night.",
+"exZh2": "我們昨晚看了一齣戲。"
+},
+{
+"word": "point",
+"pos2": "n",
+"zh2": "點；要點；分數",
+"ex2": "That is a good point.",
+"exZh2": "那是個很好的重點。"
+},
+{
+"word": "post",
+"pos2": "v",
+"zh2": "張貼；郵寄",
+"ex2": "He posted a photo online.",
+"exZh2": "他在網路上張貼了一張照片。"
+},
+{
+"word": "practice",
+"pos2": "v",
+"zh2": "練習",
+"ex2": "I practice English every day.",
+"exZh2": "我每天練習英文。"
+},
+{
+"word": "praise",
+"pos2": "v",
+"zh2": "稱讚",
+"ex2": "The teacher praised her hard work.",
+"exZh2": "老師稱讚她的努力。"
+},
+{
+"word": "pose",
+"pos2": "v",
+"zh2": "擺姿勢",
+"ex2": "They posed for a photo.",
+"exZh2": "他們擺好姿勢拍照。"
+},
+{
+"word": "present",
+"pos2": "n",
+"zh2": "禮物",
+"ex2": "I got a present for my birthday.",
+"exZh2": "我生日收到一份禮物。"
+},
+{
+"word": "pretty",
+"pos2": "adv",
+"zh2": "相當地；頗",
+"ex2": "The test was pretty easy.",
+"exZh2": "這次考試相當容易。"
+},
+{
+"word": "promise",
+"pos2": "v",
+"zh2": "答應；承諾",
+"ex2": "I promise to help you tomorrow.",
+"exZh2": "我答應明天幫你。"
+},
+{
+"word": "race",
+"pos2": "n",
+"zh2": "種族；人種",
+"ex2": "People of every race are equal.",
+"exZh2": "每個種族的人都是平等的。"
+},
+{
+"word": "rain",
+"pos2": "v",
+"zh2": "下雨",
+"ex2": "It often rains in summer here.",
+"exZh2": "這裡夏天常常下雨。"
+},
+{
+"word": "raise",
+"pos2": "v",
+"zh2": "舉起；抬起",
+"ex2": "Please raise your hand to answer.",
+"exZh2": "請舉手回答。"
+},
+{
+"word": "record",
+"pos2": "v",
+"zh2": "記錄；錄音",
+"ex2": "She recorded the song on her phone.",
+"exZh2": "她用手機錄下這首歌。"
+},
+{
+"word": "regret",
+"pos2": "v",
+"zh2": "後悔；遺憾",
+"ex2": "I regret telling him the secret.",
+"exZh2": "我後悔告訴他這個祕密。"
+},
+{
+"word": "report",
+"pos2": "v",
+"zh2": "報導；報告",
+"ex2": "The news reported a big fire.",
+"exZh2": "新聞報導了一場大火。"
+},
+{
+"word": "respect",
+"pos2": "v",
+"zh2": "尊重；尊敬",
+"ex2": "We should respect our teachers.",
+"exZh2": "我們應該尊敬老師。"
+},
+{
+"word": "rest",
+"pos2": "n",
+"zh2": "其餘；剩下的部分",
+"ex2": "The rest of the class went home.",
+"exZh2": "班上其餘的人回家了。"
+},
+{
+"word": "return",
+"pos2": "v",
+"zh2": "歸還；交還",
+"ex2": "Please return the book to me.",
+"exZh2": "請把這本書還給我。"
+},
+{
+"word": "ring",
+"pos2": "v",
+"zh2": "(鈴)響；打電話",
+"ex2": "The school bell rings at eight.",
+"exZh2": "學校的鈴在八點響。"
+},
+{
+"word": "right",
+"pos2": "adj",
+"zh2": "右邊的",
+"ex2": "Turn right at the corner.",
+"exZh2": "在轉角向右轉。"
+},
+{
+"word": "rock",
+"pos2": "v",
+"zh2": "搖動；搖晃",
+"ex2": "She rocked the baby to sleep.",
+"exZh2": "她搖著寶寶入睡。"
+},
+{
+"word": "room",
+"pos2": "n",
+"zh2": "空間",
+"ex2": "There is no room in the box.",
+"exZh2": "盒子裡沒有空間了。"
+},
+{
+"word": "run",
+"pos2": "v",
+"zh2": "經營；管理",
+"ex2": "My uncle runs a small shop.",
+"exZh2": "我叔叔經營一家小店。"
+},
+{
+"word": "rule",
+"pos2": "n",
+"zh2": "規則；規定",
+"ex2": "We must follow the school rules.",
+"exZh2": "我們必須遵守校規。"
+},
+{
+"word": "row",
+"pos2": "v",
+"zh2": "划(船)",
+"ex2": "They rowed the boat across the lake.",
+"exZh2": "他們划船橫渡湖泊。"
+},
+{
+"word": "save",
+"pos2": "v",
+"zh2": "省下；儲蓄",
+"ex2": "I save money every month.",
+"exZh2": "我每個月存錢。"
+},
+{
+"word": "score",
+"pos2": "v",
+"zh2": "得分；進球",
+"ex2": "He scored two goals today.",
+"exZh2": "他今天進了兩球。"
+},
+{
+"word": "search",
+"pos2": "n",
+"zh2": "搜尋；尋找",
+"ex2": "The search for the dog took hours.",
+"exZh2": "尋找那隻狗花了好幾個小時。"
+},
+{
+"word": "second",
+"pos2": "n",
+"zh2": "秒",
+"ex2": "Wait a second, please.",
+"exZh2": "請等一秒鐘。"
+},
+{
+"word": "sense",
+"pos2": "n",
+"zh2": "意義；道理",
+"ex2": "Your answer makes sense.",
+"exZh2": "你的答案有道理。"
+},
+{
+"word": "serve",
+"pos2": "v",
+"zh2": "供應（食物）",
+"ex2": "They serve dinner at six.",
+"exZh2": "他們六點供應晚餐。"
+},
+{
+"word": "set",
+"pos2": "v",
+"zh2": "擺放；設定",
+"ex2": "Please set the table now.",
+"exZh2": "請現在擺好餐具。"
+},
+{
+"word": "share",
+"pos2": "n",
+"zh2": "一份；份額",
+"ex2": "This is your share of cake.",
+"exZh2": "這是你那份蛋糕。"
+},
+{
+"word": "shock",
+"pos2": "v",
+"zh2": "使震驚",
+"ex2": "The news shocked everyone.",
+"exZh2": "這消息使大家震驚。"
+},
+{
+"word": "shoot",
+"pos2": "v",
+"zh2": "拍攝",
+"ex2": "They shoot a movie here.",
+"exZh2": "他們在這裡拍電影。"
+},
+{
+"word": "short",
+"pos2": "adj",
+"zh2": "矮的",
+"ex2": "My brother is very short.",
+"exZh2": "我弟弟很矮。"
+},
+{
+"word": "show",
+"pos2": "n",
+"zh2": "表演；節目",
+"ex2": "We watched a TV show last night.",
+"exZh2": "我們昨晚看了一個電視節目。"
+},
+{
+"word": "sight",
+"pos2": "n",
+"zh2": "景象；風景",
+"ex2": "The mountain is a beautiful sight.",
+"exZh2": "那座山是美麗的景象。"
+},
+{
+"word": "sign",
+"pos2": "n",
+"zh2": "標誌；告示牌",
+"ex2": "The road sign is very clear.",
+"exZh2": "那個路標非常清楚。"
+},
+{
+"word": "sink",
+"pos2": "n",
+"zh2": "水槽；洗手台",
+"ex2": "The dishes are in the sink.",
+"exZh2": "盤子在水槽裡。"
+},
+{
+"word": "smell",
+"pos2": "n",
+"zh2": "氣味",
+"ex2": "I love the smell of coffee.",
+"exZh2": "我喜歡咖啡的氣味。"
+},
+{
+"word": "smile",
+"pos2": "n",
+"zh2": "微笑",
+"ex2": "She has a big smile.",
+"exZh2": "她有大大的微笑。"
+},
+{
+"word": "smoke",
+"pos2": "v",
+"zh2": "抽菸；冒煙",
+"ex2": "Please do not smoke here.",
+"exZh2": "請不要在這裡抽菸。"
+},
+{
+"word": "snow",
+"pos2": "v",
+"zh2": "下雪",
+"ex2": "It often snows in winter.",
+"exZh2": "冬天時常下雪。"
+},
+{
+"word": "sound",
+"pos2": "n",
+"zh2": "聲音",
+"ex2": "I heard a strange sound.",
+"exZh2": "我聽到一個奇怪的聲音。"
+},
+{
+"word": "space",
+"pos2": "n",
+"zh2": "太空",
+"ex2": "They flew into space.",
+"exZh2": "他們飛向太空。"
+},
+{
+"word": "square",
+"pos2": "n",
+"zh2": "正方形",
+"ex2": "Draw a square on the paper.",
+"exZh2": "在紙上畫一個正方形。"
+},
+{
+"word": "stage",
+"pos2": "n",
+"zh2": "階段",
+"ex2": "This is the first stage.",
+"exZh2": "這是第一個階段。"
+},
+{
+"word": "stand",
+"pos2": "v",
+"zh2": "忍受",
+"ex2": "I can't stand the noise.",
+"exZh2": "我無法忍受這噪音。"
+},
+{
+"word": "star",
+"pos2": "n",
+"zh2": "明星",
+"ex2": "She is a movie star.",
+"exZh2": "她是一位電影明星。"
+},
+{
+"word": "start",
+"pos2": "n",
+"zh2": "開始；起點",
+"ex2": "It was a good start.",
+"exZh2": "那是一個好的開始。"
+},
+{
+"word": "state",
+"pos2": "n",
+"zh2": "州；狀態",
+"ex2": "Texas is a big state.",
+"exZh2": "德州是一個大州。"
+},
+{
+"word": "step",
+"pos2": "n",
+"zh2": "步驟；腳步",
+"ex2": "Follow each step slowly.",
+"exZh2": "慢慢地跟著每個步驟。"
+},
+{
+"word": "still",
+"pos2": "adj",
+"zh2": "靜止的；不動的",
+"ex2": "Please stand still now.",
+"exZh2": "請現在站著不要動。"
+},
+{
+"word": "stop",
+"pos2": "n",
+"zh2": "車站；站牌",
+"ex2": "Get off at the next stop.",
+"exZh2": "在下一站下車。"
+},
+{
+"word": "store",
+"pos2": "v",
+"zh2": "儲存；存放",
+"ex2": "We store food in the fridge.",
+"exZh2": "我們把食物存放在冰箱裡。"
+},
+{
+"word": "strike",
+"pos2": "v",
+"zh2": "打擊；擊中",
+"ex2": "The ball struck his head.",
+"exZh2": "球擊中了他的頭。"
+},
+{
+"word": "speaker",
+"pos2": "n",
+"zh2": "喇叭；音箱",
+"ex2": "Turn up the speaker, please.",
+"exZh2": "請把喇叭調大聲。"
+},
+{
+"word": "subject",
+"pos2": "n",
+"zh2": "主題；題目",
+"ex2": "What is the subject of this story?",
+"exZh2": "這個故事的主題是什麼？"
+},
+{
+"word": "suit",
+"pos2": "n",
+"zh2": "西裝；套裝",
+"ex2": "My father wears a black suit.",
+"exZh2": "我爸爸穿一套黑色西裝。"
+},
+{
+"word": "support",
+"pos2": "v",
+"zh2": "支撐；承載",
+"ex2": "These poles support the tent.",
+"exZh2": "這些柱子支撐著帳篷。"
+},
+{
+"word": "swallow",
+"pos2": "n",
+"zh2": "燕子",
+"ex2": "A swallow is flying in the sky.",
+"exZh2": "一隻燕子在天空飛。"
+},
+{
+"word": "sweet",
+"pos2": "adj",
+"zh2": "親切的；可愛的",
+"ex2": "She is a sweet old lady.",
+"exZh2": "她是位親切的老太太。"
+},
+{
+"word": "swing",
+"pos2": "n",
+"zh2": "鞦韆",
+"ex2": "The kids play on the swing.",
+"exZh2": "孩子們在鞦韆上玩。"
+},
+{
+"word": "table",
+"pos2": "n",
+"zh2": "表格",
+"ex2": "Look at the table on page five.",
+"exZh2": "看第五頁的表格。"
+},
+{
+"word": "take",
+"pos2": "v",
+"zh2": "搭乘",
+"ex2": "I take a bus to school.",
+"exZh2": "我搭公車上學。"
+},
+{
+"word": "tape",
+"pos2": "n",
+"zh2": "膠帶",
+"ex2": "Fix the box with some tape.",
+"exZh2": "用一些膠帶把箱子黏好。"
+},
+{
+"word": "taste",
+"pos2": "v",
+"zh2": "品嚐；嚐起來",
+"ex2": "This soup tastes good.",
+"exZh2": "這湯嚐起來很好。"
+},
+{
+"word": "tear",
+"pos2": "v",
+"zh2": "撕；撕破",
+"ex2": "Don't tear the paper.",
+"exZh2": "不要撕破那張紙。"
+},
+{
+"word": "term",
+"pos2": "n",
+"zh2": "學期",
+"ex2": "We have an exam this term.",
+"exZh2": "我們這學期有一場考試。"
+},
+{
+"word": "surprise",
+"pos2": "n",
+"zh2": "驚喜；驚奇",
+"ex2": "The gift was a big surprise.",
+"exZh2": "這份禮物是個大驚喜。"
+},
+{
+"word": "test",
+"pos2": "v",
+"zh2": "測試；檢驗",
+"ex2": "The teacher will test our English.",
+"exZh2": "老師會測驗我們的英文。"
+},
+{
+"word": "thin",
+"pos2": "adj",
+"zh2": "瘦的",
+"ex2": "The thin boy runs fast.",
+"exZh2": "那個瘦的男孩跑得很快。"
+},
+{
+"word": "thought",
+"pos2": "v",
+"zh2": "想；認為（think的過去式）",
+"ex2": "I thought it was true.",
+"exZh2": "我以為那是真的。"
+},
+{
+"word": "ticket",
+"pos2": "n",
+"zh2": "罰單",
+"ex2": "He got a parking ticket.",
+"exZh2": "他收到一張違規停車罰單。"
+},
+{
+"word": "tie",
+"pos2": "v",
+"zh2": "綁；繫",
+"ex2": "Please tie your shoes.",
+"exZh2": "請綁好你的鞋帶。"
+},
+{
+"word": "time",
+"pos2": "n",
+"zh2": "次；倍",
+"ex2": "I read it three times.",
+"exZh2": "我讀了它三次。"
+},
+{
+"word": "tip",
+"pos2": "n",
+"zh2": "小費",
+"ex2": "We left a tip for her.",
+"exZh2": "我們留了小費給她。"
+},
+{
+"word": "touch",
+"pos2": "v",
+"zh2": "觸摸；碰",
+"ex2": "Don't touch the hot pot.",
+"exZh2": "別碰那個熱鍋。"
+},
+{
+"word": "track",
+"pos2": "n",
+"zh2": "跑道；軌道",
+"ex2": "They run on the track.",
+"exZh2": "他們在跑道上跑步。"
+},
+{
+"word": "trade",
+"pos2": "v",
+"zh2": "交易；交換",
+"ex2": "I will trade my card.",
+"exZh2": "我要交換我的卡片。"
+},
+{
+"word": "top",
+"pos2": "n",
+"zh2": "陀螺",
+"ex2": "The boy spins a top.",
+"exZh2": "那男孩在轉陀螺。"
+},
+{
+"word": "train",
+"pos2": "v",
+"zh2": "訓練；培訓",
+"ex2": "The coach trains us every day.",
+"exZh2": "教練每天訓練我們。"
+},
+{
+"word": "trap",
+"pos2": "v",
+"zh2": "困住；使陷入",
+"ex2": "The cat was trapped in the box.",
+"exZh2": "那隻貓被困在箱子裡。"
+},
+{
+"word": "treat",
+"pos2": "n",
+"zh2": "請客；款待",
+"ex2": "Lunch is my treat today.",
+"exZh2": "今天午餐我請客。"
+},
+{
+"word": "trick",
+"pos2": "v",
+"zh2": "欺騙；耍詭計",
+"ex2": "He tricked me into paying.",
+"exZh2": "他騙我付了錢。"
+},
+{
+"word": "trip",
+"pos2": "v",
+"zh2": "絆倒",
+"ex2": "I tripped over a stone.",
+"exZh2": "我被一顆石頭絆倒了。"
+},
+{
+"word": "turn",
+"pos2": "n",
+"zh2": "輪到；順序",
+"ex2": "It's your turn to read.",
+"exZh2": "輪到你念了。"
+},
+{
+"word": "type",
+"pos2": "n",
+"zh2": "類型；種類",
+"ex2": "What type of music do you like?",
+"exZh2": "你喜歡哪種音樂？"
+},
+{
+"word": "trust",
+"pos2": "n",
+"zh2": "信任",
+"ex2": "You must earn his trust.",
+"exZh2": "你必須贏得他的信任。"
+},
+{
+"word": "use",
+"pos2": "n",
+"zh2": "用途；使用",
+"ex2": "This tool has many uses.",
+"exZh2": "這個工具有很多用途。"
+},
+{
+"word": "visit",
+"pos2": "n",
+"zh2": "拜訪；參觀",
+"ex2": "We paid a visit to the museum.",
+"exZh2": "我們參觀了博物館。"
+},
+{
+"word": "walk",
+"pos2": "n",
+"zh2": "散步",
+"ex2": "Let's take a walk in the park.",
+"exZh2": "我們去公園散步吧。"
+},
+{
+"word": "watch",
+"pos2": "v",
+"zh2": "觀看",
+"ex2": "I watch TV after dinner.",
+"exZh2": "我晚餐後看電視。"
+},
+{
+"word": "wave",
+"pos2": "v",
+"zh2": "揮手；揮動",
+"ex2": "She waved goodbye to me.",
+"exZh2": "她向我揮手道別。"
+},
+{
+"word": "well",
+"pos2": "adj",
+"zh2": "健康的；安好的",
+"ex2": "I feel well today.",
+"exZh2": "我今天覺得很好。"
+},
+{
+"word": "while",
+"pos2": "n",
+"zh2": "一會兒",
+"ex2": "Please wait for a while.",
+"exZh2": "請等一會兒。"
+},
+{
+"word": "wish",
+"pos2": "n",
+"zh2": "願望；希望",
+"ex2": "I made a wish at the party.",
+"exZh2": "我在派對上許了一個願望。"
+},
+{
+"word": "wonder",
+"pos2": "n",
+"zh2": "奇蹟；驚奇",
+"ex2": "The Great Wall is a wonder.",
+"exZh2": "長城是一個奇蹟。"
+},
+{
+"word": "wood",
+"pos2": "n",
+"zh2": "樹林；森林",
+"ex2": "We walked in the woods.",
+"exZh2": "我們在樹林裡散步。"
+},
+{
+"word": "work",
+"pos2": "n",
+"zh2": "工作；作品",
+"ex2": "This is a work of art.",
+"exZh2": "這是一件藝術作品。"
+},
+{
+"word": "worry",
+"pos2": "n",
+"zh2": "憂慮；煩惱",
+"ex2": "Don't have any worry now.",
+"exZh2": "現在不要有任何煩惱。"
+},
+{
+"word": "wound",
+"pos2": "v",
+"zh2": "使受傷；弄傷",
+"ex2": "The dog wounded his leg.",
+"exZh2": "那隻狗弄傷了他的腿。"
+},
+{
+"word": "email",
+"pos2": "v",
+"zh2": "寄電子郵件給",
+"ex2": "Please email me tonight.",
+"exZh2": "請今晚寄電子郵件給我。"
+},
+{
+"word": "plastic",
+"pos2": "adj",
+"zh2": "塑膠的",
+"ex2": "I need a plastic bag.",
+"exZh2": "我需要一個塑膠袋。"
+}
+]

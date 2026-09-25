@@ -1,0 +1,14037 @@
+{
+"version": "2.0",
+"source": "教育部十二年國教課綱英語文參考字彙(2000字/1200基礎)",
+"total": 2000,
+"topic_labels": {
+"person": "人物",
+"describe": "性格外型",
+"body": "身體",
+"health": "健康",
+"family": "家庭",
+"number": "數字",
+"time": "時間",
+"money": "金錢",
+"food": "食物",
+"clothes": "衣物",
+"color": "顏色",
+"sport": "運動嗜好",
+"home": "居家",
+"school": "學校",
+"place": "地點",
+"transport": "交通",
+"measure": "度量",
+"language": "語言",
+"festival": "節日",
+"job": "職業",
+"nature": "天氣自然",
+"animal": "動物",
+"func": "功能詞",
+"thing": "其他名詞",
+"action": "動作",
+"adverb": "副詞",
+"daily": "日常",
+"emotion": "情緒"
+},
+"words": [
+{
+"word": "able",
+"pos": "adj",
+"zh_tw": "有能力的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "about",
+"pos": "prep",
+"zh_tw": "有關",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "above",
+"pos": "adv",
+"zh_tw": "在上方",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "abroad",
+"pos": "adv",
+"zh_tw": "在國外",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "absent",
+"pos": "adj",
+"zh_tw": "缺席的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "accept",
+"pos": "v",
+"zh_tw": "接受",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "accident",
+"pos": "n",
+"zh_tw": "意外",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "achieve",
+"pos": "v",
+"zh_tw": "達成",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "across",
+"pos": "prep",
+"zh_tw": "在…對面",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "act",
+"pos": "n",
+"zh_tw": "行為",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "action",
+"pos": "n",
+"zh_tw": "活動",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "active",
+"pos": "adj",
+"zh_tw": "積極的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "activity",
+"pos": "n",
+"zh_tw": "活動",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "actor",
+"pos": "n",
+"zh_tw": "男演員",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "actress",
+"pos": "n",
+"zh_tw": "女演員",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "actually",
+"pos": "adv",
+"zh_tw": "確實",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "add",
+"pos": "v",
+"zh_tw": "增加",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "address",
+"pos": "n",
+"zh_tw": "地址",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "admire",
+"pos": "v",
+"zh_tw": "欽佩",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "adult",
+"pos": "n",
+"zh_tw": "成人",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "advertisement",
+"pos": "n",
+"zh_tw": "廣告",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "advice",
+"pos": "n",
+"zh_tw": "勸告",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "advise",
+"pos": "v",
+"zh_tw": "勸告",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "affect",
+"pos": "v",
+"zh_tw": "影響",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "afraid",
+"pos": "adj",
+"zh_tw": "害怕的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "after",
+"pos": "conj",
+"zh_tw": "在…之後",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "afternoon",
+"pos": "n",
+"zh_tw": "下午",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "again",
+"pos": "adv",
+"zh_tw": "再度",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "against",
+"pos": "prep",
+"zh_tw": "靠著",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "age",
+"pos": "n",
+"zh_tw": "年齡",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "ago",
+"pos": "adv",
+"zh_tw": "…之前",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "agree",
+"pos": "v",
+"zh_tw": "同意",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "ahead",
+"pos": "adv",
+"zh_tw": "向前",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "aim",
+"pos": "n",
+"zh_tw": "目標",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "air",
+"pos": "n",
+"zh_tw": "空氣",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "airplane",
+"pos": "n",
+"zh_tw": "飛機",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "airport",
+"pos": "n",
+"zh_tw": "機場",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "alarm",
+"pos": "n",
+"zh_tw": "警報器",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "album",
+"pos": "n",
+"zh_tw": "相簿",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "alike",
+"pos": "adv",
+"zh_tw": "相同地",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "alive",
+"pos": "adj",
+"zh_tw": "活的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "all",
+"pos": "adj",
+"zh_tw": "全部的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "allow",
+"pos": "v",
+"zh_tw": "允許",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "almost",
+"pos": "adv",
+"zh_tw": "幾乎",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "alone",
+"pos": "adv",
+"zh_tw": "獨自地",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "along",
+"pos": "prep",
+"zh_tw": "沿著",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "aloud",
+"pos": "adv",
+"zh_tw": "大聲地",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "already",
+"pos": "adv",
+"zh_tw": "已經",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "also",
+"pos": "adv",
+"zh_tw": "也",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "although",
+"pos": "conj",
+"zh_tw": "雖然",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "altogether",
+"pos": "adv",
+"zh_tw": "總共",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "always",
+"pos": "adv",
+"zh_tw": "總是",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "amazed",
+"pos": "adj",
+"zh_tw": "驚奇的",
+"level": 2,
+"topic": "emotion"
+},
+{
+"word": "ambulance",
+"pos": "n",
+"zh_tw": "救護車",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "among",
+"pos": "prep",
+"zh_tw": "在…之間",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "ancient",
+"pos": "adj",
+"zh_tw": "古代的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "angel",
+"pos": "n",
+"zh_tw": "天使",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "anger",
+"pos": "n",
+"zh_tw": "憤怒",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "angry",
+"pos": "adj",
+"zh_tw": "生氣的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "animal",
+"pos": "n",
+"zh_tw": "動物",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "ankle",
+"pos": "n",
+"zh_tw": "腳踝",
+"level": 2,
+"topic": "body"
+},
+{
+"word": "another",
+"pos": "adj",
+"zh_tw": "另外的",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "answer",
+"pos": "n",
+"zh_tw": "答案",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "ant",
+"pos": "n",
+"zh_tw": "螞蟻",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "any",
+"pos": "adj",
+"zh_tw": "任何的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "anymore",
+"pos": "adv",
+"zh_tw": "不再",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "anyone",
+"pos": "pron",
+"zh_tw": "任何人",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "anything",
+"pos": "n",
+"zh_tw": "任何事物",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "anywhere",
+"pos": "adv",
+"zh_tw": "任何地方",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "apartment",
+"pos": "n",
+"zh_tw": "公寓",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "apologize",
+"pos": "v",
+"zh_tw": "道歉",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "appear",
+"pos": "v",
+"zh_tw": "出現",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "apple",
+"pos": "n",
+"zh_tw": "蘋果",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "appreciate",
+"pos": "v",
+"zh_tw": "欣賞",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "April",
+"pos": "n",
+"zh_tw": "四月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "area",
+"pos": "n",
+"zh_tw": "地區",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "argue",
+"pos": "v",
+"zh_tw": "爭論",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "arm",
+"pos": "n",
+"zh_tw": "手臂",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "armchair",
+"pos": "n",
+"zh_tw": "扶手椅",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "army",
+"pos": "n",
+"zh_tw": "軍隊",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "around",
+"pos": "adv",
+"zh_tw": "在附近",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "arrange",
+"pos": "v",
+"zh_tw": "安排",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "arrive",
+"pos": "v",
+"zh_tw": "到達",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "art",
+"pos": "n",
+"zh_tw": "藝術",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "artist",
+"pos": "n",
+"zh_tw": "藝術家",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "as",
+"pos": "prep",
+"zh_tw": "像，如同",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "ask",
+"pos": "v",
+"zh_tw": "詢問",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "asleep",
+"pos": "adj",
+"zh_tw": "睡著的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "assistant",
+"pos": "n",
+"zh_tw": "助手",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "assume",
+"pos": "v",
+"zh_tw": "假設",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "attack",
+"pos": "n",
+"zh_tw": "攻擊",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "attention",
+"pos": "n",
+"zh_tw": "注意力",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "audience",
+"pos": "n",
+"zh_tw": "觀眾",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "August",
+"pos": "n",
+"zh_tw": "八月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "aunt",
+"pos": "n",
+"zh_tw": "姑媽",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "autumn",
+"pos": "n",
+"zh_tw": "秋天",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "available",
+"pos": "adj",
+"zh_tw": "可獲得的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "avoid",
+"pos": "v",
+"zh_tw": "避免",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "award",
+"pos": "n",
+"zh_tw": "獎項",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "away",
+"pos": "adv",
+"zh_tw": "不在",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "baby",
+"pos": "n",
+"zh_tw": "嬰兒",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "baby sitter",
+"pos": "n",
+"zh_tw": "保母",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "back",
+"pos": "n",
+"zh_tw": "背部",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "backward(s)",
+"pos": "adv",
+"zh_tw": "向後地",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "bad",
+"pos": "adj",
+"zh_tw": "壞的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "badminton",
+"pos": "n",
+"zh_tw": "羽毛球",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "bag",
+"pos": "n",
+"zh_tw": "袋子",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "bake",
+"pos": "v",
+"zh_tw": "烘烤",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "bakery",
+"pos": "n",
+"zh_tw": "麵包店",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "balcony",
+"pos": "n",
+"zh_tw": "陽臺",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "ball",
+"pos": "n",
+"zh_tw": "球",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "balloon",
+"pos": "n",
+"zh_tw": "氣球",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "banana",
+"pos": "n",
+"zh_tw": "香蕉",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "band",
+"pos": "n",
+"zh_tw": "樂團",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "bank",
+"pos": "n",
+"zh_tw": "銀行",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "barbecue",
+"pos": "v",
+"zh_tw": "火烤",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "barber",
+"pos": "n",
+"zh_tw": "理髮師",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "bark",
+"pos": "v",
+"zh_tw": "吠叫",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "base",
+"pos": "n",
+"zh_tw": "基礎",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "baseball",
+"pos": "n",
+"zh_tw": "棒球",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "basement",
+"pos": "n",
+"zh_tw": "地下室",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "basic",
+"pos": "adj",
+"zh_tw": "基礎的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "basket",
+"pos": "n",
+"zh_tw": "籃子",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "basketball",
+"pos": "n",
+"zh_tw": "籃球",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "bat",
+"pos": "n",
+"zh_tw": "蝙蝠",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "bath",
+"pos": "n",
+"zh_tw": "沐浴",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "bathe",
+"pos": "v",
+"zh_tw": "沐浴",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "bathroom",
+"pos": "n",
+"zh_tw": "浴室",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "beach",
+"pos": "n",
+"zh_tw": "沙灘",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "bean",
+"pos": "n",
+"zh_tw": "豆子",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "bear",
+"pos": "n",
+"zh_tw": "熊",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "beard",
+"pos": "n",
+"zh_tw": "鬍鬚",
+"level": 2,
+"topic": "body"
+},
+{
+"word": "beat",
+"pos": "v",
+"zh_tw": "拍打",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "beautiful",
+"pos": "adj",
+"zh_tw": "美麗的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "beauty",
+"pos": "n",
+"zh_tw": "美貌",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "because",
+"pos": "conj",
+"zh_tw": "因為",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "become",
+"pos": "v",
+"zh_tw": "成為",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "bed",
+"pos": "n",
+"zh_tw": "床",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "bedroom",
+"pos": "n",
+"zh_tw": "臥室",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "bee",
+"pos": "n",
+"zh_tw": "蜜蜂",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "beef",
+"pos": "n",
+"zh_tw": "牛肉",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "beer",
+"pos": "n",
+"zh_tw": "啤酒",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "before",
+"pos": "conj",
+"zh_tw": "在…之前",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "begin",
+"pos": "v",
+"zh_tw": "開始",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "beginner",
+"pos": "n",
+"zh_tw": "初學者",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "beginning",
+"pos": "n",
+"zh_tw": "開始",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "behave",
+"pos": "v",
+"zh_tw": "表現",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "behavior",
+"pos": "n",
+"zh_tw": "行為",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "behind",
+"pos": "adv",
+"zh_tw": "在之後",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "believe",
+"pos": "v",
+"zh_tw": "相信",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "bell",
+"pos": "n",
+"zh_tw": "鈴",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "belong",
+"pos": "v",
+"zh_tw": "屬於",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "below",
+"pos": "adv",
+"zh_tw": "在下面",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "belt",
+"pos": "n",
+"zh_tw": "皮帶",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "bench",
+"pos": "n",
+"zh_tw": "長凳",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "benefit",
+"pos": "n/v",
+"zh_tw": "好處；受益",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "besides",
+"pos": "adv",
+"zh_tw": "此外",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "between",
+"pos": "prep",
+"zh_tw": "在…之間",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "beyond",
+"pos": "prep",
+"zh_tw": "超出",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "bicycle",
+"pos": "n",
+"zh_tw": "腳踏車",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "big",
+"pos": "adj",
+"zh_tw": "大的",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "bike",
+"pos": "n",
+"zh_tw": "腳踏車",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "bill",
+"pos": "n",
+"zh_tw": "帳單；鈔票",
+"level": 2,
+"topic": "money"
+},
+{
+"word": "biology",
+"pos": "n",
+"zh_tw": "生物學",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "bird",
+"pos": "n",
+"zh_tw": "鳥",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "birthday",
+"pos": "n",
+"zh_tw": "生日",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "bite",
+"pos": "v",
+"zh_tw": "咬",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "bitter",
+"pos": "adj",
+"zh_tw": "痛苦的",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "black",
+"pos": "adj",
+"zh_tw": "黑的",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "blackboard",
+"pos": "n",
+"zh_tw": "黑板",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "blame",
+"pos": "v",
+"zh_tw": "責怪",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "blank",
+"pos": "adj",
+"zh_tw": "空白的",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "blanket",
+"pos": "n",
+"zh_tw": "毯子",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "blind",
+"pos": "adj",
+"zh_tw": "失明的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "block",
+"pos": "n",
+"zh_tw": "街區",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "blood",
+"pos": "n",
+"zh_tw": "血",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "bloody",
+"pos": "adj",
+"zh_tw": "血腥的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "blow",
+"pos": "v",
+"zh_tw": "吹",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "blue",
+"pos": "adj",
+"zh_tw": "藍的",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "boat",
+"pos": "n",
+"zh_tw": "船",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "body",
+"pos": "n",
+"zh_tw": "身體",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "boil",
+"pos": "v",
+"zh_tw": "燒開",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "bomb",
+"pos": "n",
+"zh_tw": "炸彈",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "bone",
+"pos": "n",
+"zh_tw": "骨頭",
+"level": 2,
+"topic": "body"
+},
+{
+"word": "book",
+"pos": "n",
+"zh_tw": "書",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "bookcase",
+"pos": "n",
+"zh_tw": "書櫥",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "bored",
+"pos": "adj",
+"zh_tw": "厭倦的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "boring",
+"pos": "adj",
+"zh_tw": "無聊的",
+"level": 1,
+"topic": "emotion"
+},
+{
+"word": "born",
+"pos": "adj",
+"zh_tw": "天生的",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "borrow",
+"pos": "v",
+"zh_tw": "借",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "boss",
+"pos": "n",
+"zh_tw": "老闆",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "both",
+"pos": "pron",
+"zh_tw": "兩者",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "bother",
+"pos": "v",
+"zh_tw": "使煩惱",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "bottle",
+"pos": "n",
+"zh_tw": "瓶子",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "bottom",
+"pos": "n",
+"zh_tw": "底部",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "bow",
+"pos": "n",
+"zh_tw": "弓",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "bowl",
+"pos": "n",
+"zh_tw": "碗",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "bowling",
+"pos": "n",
+"zh_tw": "保齡球",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "box",
+"pos": "n",
+"zh_tw": "箱子",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "boy",
+"pos": "n",
+"zh_tw": "男孩",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "brain",
+"pos": "n",
+"zh_tw": "腦",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "branch",
+"pos": "n",
+"zh_tw": "分店",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "brand",
+"pos": "n",
+"zh_tw": "品牌",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "brave",
+"pos": "adj",
+"zh_tw": "勇敢的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "bread",
+"pos": "n",
+"zh_tw": "麵包",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "break",
+"pos": "v",
+"zh_tw": "弄壞",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "breakfast",
+"pos": "n",
+"zh_tw": "早餐",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "breathe",
+"pos": "v",
+"zh_tw": "呼吸",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "brick",
+"pos": "n",
+"zh_tw": "磚塊",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "bridge",
+"pos": "n",
+"zh_tw": "橋",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "brief",
+"pos": "adj",
+"zh_tw": "短暫的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "bright",
+"pos": "adj",
+"zh_tw": "明亮的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "bring",
+"pos": "v",
+"zh_tw": "帶來",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "broad",
+"pos": "adj",
+"zh_tw": "寬闊的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "broadcast",
+"pos": "v",
+"zh_tw": "廣播",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "brother",
+"pos": "n",
+"zh_tw": "兄弟",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "brown",
+"pos": "adj",
+"zh_tw": "棕色的",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "brunch",
+"pos": "n",
+"zh_tw": "早午餐",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "brush",
+"pos": "n",
+"zh_tw": "刷子",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "bucket",
+"pos": "n",
+"zh_tw": "桶子",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "buffet",
+"pos": "n",
+"zh_tw": "自助餐",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "bug",
+"pos": "n",
+"zh_tw": "昆蟲",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "build",
+"pos": "v",
+"zh_tw": "建造",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "building",
+"pos": "n",
+"zh_tw": "建築物",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "bun",
+"pos": "n",
+"zh_tw": "圓麵包",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "bundle",
+"pos": "n",
+"zh_tw": "(一)包，束",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "burn",
+"pos": "v",
+"zh_tw": "燒",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "burst",
+"pos": "v",
+"zh_tw": "爆裂",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "bus",
+"pos": "n",
+"zh_tw": "公車",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "business",
+"pos": "n",
+"zh_tw": "商業",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "businessman",
+"pos": "n",
+"zh_tw": "商人",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "busy",
+"pos": "adj",
+"zh_tw": "忙碌的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "but",
+"pos": "conj",
+"zh_tw": "但是",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "butter",
+"pos": "n",
+"zh_tw": "奶油",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "butterfly",
+"pos": "n",
+"zh_tw": "蝴蝶",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "button",
+"pos": "n",
+"zh_tw": "鈕扣",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "buy",
+"pos": "v",
+"zh_tw": "買",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "by",
+"pos": "prep",
+"zh_tw": "沿；用…方法",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "cabbage",
+"pos": "n",
+"zh_tw": "甘藍菜",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "cable",
+"pos": "n",
+"zh_tw": "電纜",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "cafeteria",
+"pos": "n",
+"zh_tw": "自助餐廳",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "cage",
+"pos": "n",
+"zh_tw": "鳥籠",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "cake",
+"pos": "n",
+"zh_tw": "蛋糕",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "calendar",
+"pos": "n",
+"zh_tw": "日曆",
+"level": 2,
+"topic": "time"
+},
+{
+"word": "call",
+"pos": "n",
+"zh_tw": "呼叫",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "calm",
+"pos": "adj",
+"zh_tw": "平靜的",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "camera",
+"pos": "n",
+"zh_tw": "照相機",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "camp",
+"pos": "v",
+"zh_tw": "紮營",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "campus",
+"pos": "n",
+"zh_tw": "校園",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "can",
+"pos": "aux",
+"zh_tw": "能夠",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "cancel",
+"pos": "v",
+"zh_tw": "取消",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "cancer",
+"pos": "n",
+"zh_tw": "癌症",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "candle",
+"pos": "n",
+"zh_tw": "蠟燭",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "candy",
+"pos": "n",
+"zh_tw": "糖果",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "cap",
+"pos": "n",
+"zh_tw": "帽子",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "captain",
+"pos": "n",
+"zh_tw": "隊長",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "car",
+"pos": "n",
+"zh_tw": "車子",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "card",
+"pos": "n",
+"zh_tw": "卡片",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "care",
+"pos": "v",
+"zh_tw": "關心",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "careful",
+"pos": "adj",
+"zh_tw": "小心的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "careless",
+"pos": "adj",
+"zh_tw": "粗心的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "carpet",
+"pos": "n",
+"zh_tw": "地毯",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "carrot",
+"pos": "n",
+"zh_tw": "胡蘿蔔",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "carry",
+"pos": "v",
+"zh_tw": "拿，運送",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "cartoon",
+"pos": "n",
+"zh_tw": "卡通",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "case",
+"pos": "n",
+"zh_tw": "例子",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "cash",
+"pos": "n",
+"zh_tw": "現金",
+"level": 2,
+"topic": "money"
+},
+{
+"word": "cassette",
+"pos": "n",
+"zh_tw": "卡帶",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "castle",
+"pos": "n",
+"zh_tw": "城堡",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "cat",
+"pos": "n",
+"zh_tw": "貓",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "catch",
+"pos": "v",
+"zh_tw": "追捕",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "cause",
+"pos": "v",
+"zh_tw": "導致",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "ceiling",
+"pos": "n",
+"zh_tw": "天花板",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "celebrate",
+"pos": "v",
+"zh_tw": "慶祝",
+"level": 1,
+"topic": "festival"
+},
+{
+"word": "cell",
+"pos": "n",
+"zh_tw": "細胞",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "cent",
+"pos": "n",
+"zh_tw": "分",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "center",
+"pos": "n",
+"zh_tw": "中央",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "centimeter",
+"pos": "n",
+"zh_tw": "公分",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "central",
+"pos": "adj",
+"zh_tw": "中央的",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "century",
+"pos": "n",
+"zh_tw": "世紀",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "cereal",
+"pos": "n",
+"zh_tw": "穀類食物",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "certain",
+"pos": "adj",
+"zh_tw": "確實的",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "chair",
+"pos": "n",
+"zh_tw": "椅子",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "chalk",
+"pos": "n",
+"zh_tw": "粉筆",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "challenge",
+"pos": "n/v",
+"zh_tw": "挑戰",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "chance",
+"pos": "n",
+"zh_tw": "機會",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "change",
+"pos": "v",
+"zh_tw": "改變",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "channel",
+"pos": "n",
+"zh_tw": "電視臺",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "character",
+"pos": "n",
+"zh_tw": "性格",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "charge",
+"pos": "v",
+"zh_tw": "收費",
+"level": 2,
+"topic": "money"
+},
+{
+"word": "chart",
+"pos": "n",
+"zh_tw": "圖表",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "chase",
+"pos": "v",
+"zh_tw": "追趕",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "cheap",
+"pos": "adj",
+"zh_tw": "便宜的",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "cheat",
+"pos": "v",
+"zh_tw": "欺騙",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "check",
+"pos": "v",
+"zh_tw": "檢查",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "cheer",
+"pos": "v",
+"zh_tw": "歡呼",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "cheese",
+"pos": "n",
+"zh_tw": "起司",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "chemical",
+"pos": "adj",
+"zh_tw": "化學的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "chess",
+"pos": "n",
+"zh_tw": "西洋棋",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "chicken",
+"pos": "n",
+"zh_tw": "雞",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "chief",
+"pos": "n",
+"zh_tw": "首領",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "child",
+"pos": "n",
+"zh_tw": "小孩",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "childish",
+"pos": "adj",
+"zh_tw": "幼稚的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "childlike",
+"pos": "adj",
+"zh_tw": "天真的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "chin",
+"pos": "n",
+"zh_tw": "下巴",
+"level": 2,
+"topic": "body"
+},
+{
+"word": "chocolate",
+"pos": "n",
+"zh_tw": "巧克力",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "choice",
+"pos": "n",
+"zh_tw": "選擇",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "choose",
+"pos": "v",
+"zh_tw": "選擇",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "chopstick",
+"pos": "n",
+"zh_tw": "筷子",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "Christmas",
+"pos": "n",
+"zh_tw": "耶誕節",
+"level": 1,
+"topic": "festival"
+},
+{
+"word": "chubby",
+"pos": "adj",
+"zh_tw": "豐滿的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "church",
+"pos": "n",
+"zh_tw": "教堂",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "circle",
+"pos": "n",
+"zh_tw": "圓圈",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "city",
+"pos": "n",
+"zh_tw": "城市",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "claim",
+"pos": "v",
+"zh_tw": "主張",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "clap",
+"pos": "v",
+"zh_tw": "拍(手)",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "class",
+"pos": "n",
+"zh_tw": "班級",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "classic",
+"pos": "adj",
+"zh_tw": "古典的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "classmate",
+"pos": "n",
+"zh_tw": "同學",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "classroom",
+"pos": "n",
+"zh_tw": "班級",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "clay",
+"pos": "n",
+"zh_tw": "黏土",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "clean",
+"pos": "adj",
+"zh_tw": "乾淨的",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "clear",
+"pos": "adj",
+"zh_tw": "清楚的",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "clerk",
+"pos": "n",
+"zh_tw": "店員",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "clever",
+"pos": "adj",
+"zh_tw": "聰明的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "climate",
+"pos": "n",
+"zh_tw": "氣候",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "climb",
+"pos": "v",
+"zh_tw": "攀爬",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "clock",
+"pos": "n",
+"zh_tw": "時鐘",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "close",
+"pos": "v",
+"zh_tw": "關",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "closet",
+"pos": "n",
+"zh_tw": "櫥櫃",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "clothes",
+"pos": "n",
+"zh_tw": "衣服",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "cloud",
+"pos": "n",
+"zh_tw": "雲",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "club",
+"pos": "n",
+"zh_tw": "俱樂部",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "coach",
+"pos": "n",
+"zh_tw": "教練",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "coast",
+"pos": "n",
+"zh_tw": "海岸",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "coat",
+"pos": "n",
+"zh_tw": "大衣",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "cockroach",
+"pos": "n",
+"zh_tw": "蟑螂",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "coffee",
+"pos": "n",
+"zh_tw": "咖啡",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "coin",
+"pos": "n",
+"zh_tw": "硬幣",
+"level": 2,
+"topic": "money"
+},
+{
+"word": "coke",
+"pos": "n",
+"zh_tw": "可樂",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "cold",
+"pos": "adj",
+"zh_tw": "冷的",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "collect",
+"pos": "v",
+"zh_tw": "收集",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "college",
+"pos": "n",
+"zh_tw": "大學",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "color",
+"pos": "n",
+"zh_tw": "顏色",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "colorful",
+"pos": "adj",
+"zh_tw": "多采多姿的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "comb",
+"pos": "n",
+"zh_tw": "梳子",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "come",
+"pos": "v",
+"zh_tw": "來",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "comfortable",
+"pos": "adj",
+"zh_tw": "舒服的",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "command",
+"pos": "v",
+"zh_tw": "命令",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "comment",
+"pos": "n",
+"zh_tw": "意見",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "common",
+"pos": "adj",
+"zh_tw": "共同的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "communicate",
+"pos": "v",
+"zh_tw": "溝通",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "community",
+"pos": "n",
+"zh_tw": "社區",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "company",
+"pos": "n",
+"zh_tw": "公司",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "compare",
+"pos": "v",
+"zh_tw": "比較",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "complain",
+"pos": "v",
+"zh_tw": "抱怨",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "complaint",
+"pos": "n",
+"zh_tw": "抱怨",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "complete",
+"pos": "adj",
+"zh_tw": "完整的",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "computer",
+"pos": "n",
+"zh_tw": "電腦",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "concentrate",
+"pos": "v",
+"zh_tw": "專心",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "concern",
+"pos": "n",
+"zh_tw": "擔心",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "confident",
+"pos": "adj",
+"zh_tw": "有自信的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "conflict",
+"pos": "n",
+"zh_tw": "衝突",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "confuse",
+"pos": "v",
+"zh_tw": "使迷惑",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "congratulation",
+"pos": "n",
+"zh_tw": "道賀",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "connect",
+"pos": "v",
+"zh_tw": "連接",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "consider",
+"pos": "v",
+"zh_tw": "考慮",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "considerate",
+"pos": "adj",
+"zh_tw": "體貼的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "contact",
+"pos": "v",
+"zh_tw": "聯絡",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "continue",
+"pos": "v",
+"zh_tw": "使繼續",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "contract",
+"pos": "n",
+"zh_tw": "合約",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "control",
+"pos": "v",
+"zh_tw": "控制",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "convenient",
+"pos": "adj",
+"zh_tw": "方便的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "conversation",
+"pos": "n",
+"zh_tw": "對話",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "cook",
+"pos": "v",
+"zh_tw": "煮",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "cookie",
+"pos": "n",
+"zh_tw": "點心",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "cool",
+"pos": "adj",
+"zh_tw": "涼的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "copy",
+"pos": "v",
+"zh_tw": "複製",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "corn",
+"pos": "n",
+"zh_tw": "玉米",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "corner",
+"pos": "n",
+"zh_tw": "角落",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "correct",
+"pos": "adj",
+"zh_tw": "正確的",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "cost",
+"pos": "v",
+"zh_tw": "花費",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "cotton",
+"pos": "n",
+"zh_tw": "棉花",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "couch",
+"pos": "n",
+"zh_tw": "長沙發",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "cough",
+"pos": "v",
+"zh_tw": "咳嗽",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "count",
+"pos": "v",
+"zh_tw": "計數",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "country",
+"pos": "n",
+"zh_tw": "國家",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "couple",
+"pos": "n",
+"zh_tw": "一對",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "courage",
+"pos": "n",
+"zh_tw": "勇氣",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "course",
+"pos": "n",
+"zh_tw": "課程",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "court",
+"pos": "n",
+"zh_tw": "法院；球場",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "cousin",
+"pos": "n",
+"zh_tw": "表(堂)兄弟姊 妹",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "cover",
+"pos": "v",
+"zh_tw": "覆蓋",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "cow",
+"pos": "n",
+"zh_tw": "母牛",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "cowboy",
+"pos": "n",
+"zh_tw": "牛仔",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "crab",
+"pos": "n",
+"zh_tw": "螃蟹",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "crayon",
+"pos": "n",
+"zh_tw": "蠟筆",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "crazy",
+"pos": "adj",
+"zh_tw": "瘋狂的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "cream",
+"pos": "n",
+"zh_tw": "乳液",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "create",
+"pos": "v",
+"zh_tw": "創造",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "crime",
+"pos": "n",
+"zh_tw": "罪",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "cruel",
+"pos": "adj",
+"zh_tw": "殘忍的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "cry",
+"pos": "v",
+"zh_tw": "哭",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "culture",
+"pos": "n",
+"zh_tw": "文化",
+"level": 2,
+"topic": "festival"
+},
+{
+"word": "cup",
+"pos": "n",
+"zh_tw": "杯子",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "cure",
+"pos": "n",
+"zh_tw": "治療",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "curious",
+"pos": "adj",
+"zh_tw": "好奇的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "current",
+"pos": "adj",
+"zh_tw": "現在的",
+"level": 2,
+"topic": "time"
+},
+{
+"word": "curtain",
+"pos": "n",
+"zh_tw": "窗簾",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "curve",
+"pos": "n",
+"zh_tw": "曲線",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "custom",
+"pos": "n",
+"zh_tw": "習慣",
+"level": 2,
+"topic": "festival"
+},
+{
+"word": "customer",
+"pos": "v",
+"zh_tw": "顧客",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "cut",
+"pos": "v",
+"zh_tw": "切割",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "cute",
+"pos": "adj",
+"zh_tw": "可愛的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "damage",
+"pos": "v",
+"zh_tw": "損害",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "dance",
+"pos": "v",
+"zh_tw": "跳舞",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "danger",
+"pos": "n",
+"zh_tw": "危險",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "dangerous",
+"pos": "adj",
+"zh_tw": "危險的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "dark",
+"pos": "adj",
+"zh_tw": "黑的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "data",
+"pos": "n",
+"zh_tw": "資料",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "date",
+"pos": "n",
+"zh_tw": "日期",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "daughter",
+"pos": "n",
+"zh_tw": "女兒",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "dawn",
+"pos": "n",
+"zh_tw": "黎明",
+"level": 2,
+"topic": "time"
+},
+{
+"word": "day",
+"pos": "n",
+"zh_tw": "一天",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "dead",
+"pos": "adj",
+"zh_tw": "死的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "deaf",
+"pos": "adj",
+"zh_tw": "聾的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "deal",
+"pos": "n",
+"zh_tw": "交易",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "dear",
+"pos": "adj",
+"zh_tw": "親愛的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "death",
+"pos": "n",
+"zh_tw": "死亡",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "debate",
+"pos": "n",
+"zh_tw": "辯論",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "December",
+"pos": "n",
+"zh_tw": "十二月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "decide",
+"pos": "v",
+"zh_tw": "決定",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "decision",
+"pos": "n",
+"zh_tw": "決定",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "decorate",
+"pos": "v",
+"zh_tw": "裝飾",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "decrease",
+"pos": "v",
+"zh_tw": "減少",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "deep",
+"pos": "adj",
+"zh_tw": "深的",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "deer",
+"pos": "n",
+"zh_tw": "鹿",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "degree",
+"pos": "n",
+"zh_tw": "程度",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "delicious",
+"pos": "adj",
+"zh_tw": "美味的",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "deliver",
+"pos": "v",
+"zh_tw": "投遞",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "dentist",
+"pos": "n",
+"zh_tw": "牙醫",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "deny",
+"pos": "v",
+"zh_tw": "否認",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "department",
+"pos": "n",
+"zh_tw": "部門",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "depend",
+"pos": "v",
+"zh_tw": "依賴",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "describe",
+"pos": "v",
+"zh_tw": "描述",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "desert",
+"pos": "n",
+"zh_tw": "沙漠",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "design",
+"pos": "v",
+"zh_tw": "設計",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "desire",
+"pos": "n",
+"zh_tw": "慾望",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "desk",
+"pos": "n",
+"zh_tw": "書桌",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "dessert",
+"pos": "n",
+"zh_tw": "甜點",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "detect",
+"pos": "v",
+"zh_tw": "查出",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "develop",
+"pos": "v",
+"zh_tw": "發展",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "dial",
+"pos": "v",
+"zh_tw": "撥電話",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "diamond",
+"pos": "n",
+"zh_tw": "鑽石",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "diary",
+"pos": "n",
+"zh_tw": "日記",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "dictionary",
+"pos": "n",
+"zh_tw": "字典",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "die",
+"pos": "v",
+"zh_tw": "死",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "diet",
+"pos": "n",
+"zh_tw": "飲食",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "difference",
+"pos": "n",
+"zh_tw": "差異",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "different",
+"pos": "adj",
+"zh_tw": "不同的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "difficult",
+"pos": "adj",
+"zh_tw": "困難的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "difficulty",
+"pos": "n",
+"zh_tw": "困難",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "dig",
+"pos": "v",
+"zh_tw": "挖掘",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "diligent",
+"pos": "adj",
+"zh_tw": "勤勉的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "dinner",
+"pos": "n",
+"zh_tw": "晚餐",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "dinosaur",
+"pos": "n",
+"zh_tw": "恐龍",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "diplomat",
+"pos": "n",
+"zh_tw": "外交官",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "direct",
+"pos": "adj",
+"zh_tw": "直的",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "direction",
+"pos": "n",
+"zh_tw": "方向",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "dirty",
+"pos": "adj",
+"zh_tw": "骯髒的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "disagree",
+"pos": "v",
+"zh_tw": "不同意",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "disappear",
+"pos": "v",
+"zh_tw": "消失",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "disappoint",
+"pos": "v",
+"zh_tw": "使失望",
+"level": 2,
+"topic": "emotion"
+},
+{
+"word": "discover",
+"pos": "v",
+"zh_tw": "發現",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "discuss",
+"pos": "v",
+"zh_tw": "討論",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "discussion",
+"pos": "n",
+"zh_tw": "討論",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "dish",
+"pos": "n",
+"zh_tw": "盤子",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "dishonest",
+"pos": "adj",
+"zh_tw": "不誠實的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "distance",
+"pos": "n",
+"zh_tw": "距離",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "distant",
+"pos": "adj",
+"zh_tw": "遠的",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "divide",
+"pos": "v",
+"zh_tw": "分割",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "dizzy",
+"pos": "adj",
+"zh_tw": "頭暈的",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "do",
+"pos": "v",
+"zh_tw": "做",
+"level": 1,
+"topic": "daily"
+},
+{
+"word": "doctor",
+"pos": "n",
+"zh_tw": "醫生",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "dog",
+"pos": "n",
+"zh_tw": "狗",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "doll",
+"pos": "n",
+"zh_tw": "洋娃娃",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "dollar",
+"pos": "n",
+"zh_tw": "元",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "dolphin",
+"pos": "n",
+"zh_tw": "海豚",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "donkey",
+"pos": "n",
+"zh_tw": "驢",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "door",
+"pos": "n",
+"zh_tw": "門",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "dot",
+"pos": "n",
+"zh_tw": "點",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "double",
+"pos": "v",
+"zh_tw": "加倍",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "doubt",
+"pos": "v",
+"zh_tw": "懷疑",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "doughnut",
+"pos": "n",
+"zh_tw": "甜甜圈",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "dove",
+"pos": "n",
+"zh_tw": "鴿子",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "down",
+"pos": "adv",
+"zh_tw": "向下",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "downstairs",
+"pos": "adv",
+"zh_tw": "在樓下",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "downtown",
+"pos": "n",
+"zh_tw": "商業區",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "dozen",
+"pos": "n",
+"zh_tw": "(一)打",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "drag",
+"pos": "v",
+"zh_tw": "拖",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "dragon",
+"pos": "n",
+"zh_tw": "龍",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "drama",
+"pos": "n",
+"zh_tw": "戲劇",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "draw",
+"pos": "v",
+"zh_tw": "拉",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "drawer",
+"pos": "n",
+"zh_tw": "抽屜",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "dream",
+"pos": "n",
+"zh_tw": "夢",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "dress",
+"pos": "n",
+"zh_tw": "洋裝",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "drink",
+"pos": "v",
+"zh_tw": "喝",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "drive",
+"pos": "v",
+"zh_tw": "開車",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "driver",
+"pos": "n",
+"zh_tw": "駕駛人",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "drop",
+"pos": "v",
+"zh_tw": "落下",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "drug",
+"pos": "n",
+"zh_tw": "藥；毒品",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "drum",
+"pos": "n",
+"zh_tw": "鼓",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "dry",
+"pos": "adj",
+"zh_tw": "乾的",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "dryer",
+"pos": "n",
+"zh_tw": "烘乾機",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "duck",
+"pos": "n",
+"zh_tw": "鴨子",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "dumb",
+"pos": "adj",
+"zh_tw": "笨的；啞的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "dumpling",
+"pos": "n",
+"zh_tw": "餃子",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "during",
+"pos": "prep",
+"zh_tw": "在…期間",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "duty",
+"pos": "n",
+"zh_tw": "義務",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "each",
+"pos": "adj",
+"zh_tw": "每個",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "eagle",
+"pos": "n",
+"zh_tw": "老鷹",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "ear",
+"pos": "n",
+"zh_tw": "耳朵",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "early",
+"pos": "adj",
+"zh_tw": "早的",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "earn",
+"pos": "v",
+"zh_tw": "獲得",
+"level": 2,
+"topic": "money"
+},
+{
+"word": "earring",
+"pos": "n",
+"zh_tw": "耳環",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "earth",
+"pos": "n",
+"zh_tw": "地球",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "ease",
+"pos": "v",
+"zh_tw": "放鬆",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "east",
+"pos": "n",
+"zh_tw": "東方",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "eastern",
+"pos": "adj",
+"zh_tw": "東方的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "easy",
+"pos": "adj",
+"zh_tw": "容易的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "eat",
+"pos": "v",
+"zh_tw": "吃",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "edge",
+"pos": "n",
+"zh_tw": "邊緣",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "education",
+"pos": "n",
+"zh_tw": "教育",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "effect",
+"pos": "n",
+"zh_tw": "影響",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "effort",
+"pos": "n",
+"zh_tw": "努力",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "egg",
+"pos": "n",
+"zh_tw": "蛋",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "eight",
+"pos": "n",
+"zh_tw": "八",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "eighteen",
+"pos": "n",
+"zh_tw": "十八",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "eighty",
+"pos": "n",
+"zh_tw": "八十",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "elder",
+"pos": "adj",
+"zh_tw": "年長的",
+"level": 2,
+"topic": "family"
+},
+{
+"word": "elect",
+"pos": "v",
+"zh_tw": "選出",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "electric",
+"pos": "adj",
+"zh_tw": "電的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "elephant",
+"pos": "n",
+"zh_tw": "大象",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "eleven",
+"pos": "n",
+"zh_tw": "十一",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "else",
+"pos": "adv",
+"zh_tw": "其他",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "embarrass",
+"pos": "v",
+"zh_tw": "使尷尬",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "emotion",
+"pos": "n",
+"zh_tw": "情緒",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "emphasize",
+"pos": "v",
+"zh_tw": "強調",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "employ",
+"pos": "v",
+"zh_tw": "雇用",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "empty",
+"pos": "adj",
+"zh_tw": "空的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "encourage",
+"pos": "v",
+"zh_tw": "鼓勵",
+"level": 2,
+"topic": "emotion"
+},
+{
+"word": "end",
+"pos": "v",
+"zh_tw": "結束",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "enemy",
+"pos": "n",
+"zh_tw": "敵人",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "energetic",
+"pos": "adj",
+"zh_tw": "精力充沛 的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "energy",
+"pos": "n",
+"zh_tw": "精力",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "engine",
+"pos": "n",
+"zh_tw": "引擎",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "engineer",
+"pos": "n",
+"zh_tw": "工程師",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "enjoy",
+"pos": "v",
+"zh_tw": "享受",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "enough",
+"pos": "adj",
+"zh_tw": "足夠的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "enter",
+"pos": "v",
+"zh_tw": "進入",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "entrance",
+"pos": "n",
+"zh_tw": "入口",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "envelope",
+"pos": "n",
+"zh_tw": "信封",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "environment",
+"pos": "n",
+"zh_tw": "自然環境",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "envy",
+"pos": "v",
+"zh_tw": "忌妒",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "equal",
+"pos": "adj",
+"zh_tw": "相等的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "eraser",
+"pos": "n",
+"zh_tw": "橡皮擦",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "error",
+"pos": "n",
+"zh_tw": "錯誤",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "especially",
+"pos": "adv",
+"zh_tw": "特別地",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "eve",
+"pos": "n",
+"zh_tw": "前夕",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "even",
+"pos": "adv",
+"zh_tw": "甚至",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "evening",
+"pos": "n",
+"zh_tw": "傍晚",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "event",
+"pos": "n",
+"zh_tw": "事件",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "ever",
+"pos": "adv",
+"zh_tw": "從來",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "every",
+"pos": "adj",
+"zh_tw": "每個",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "evil",
+"pos": "n",
+"zh_tw": "惡魔",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "exact",
+"pos": "adj",
+"zh_tw": "正確的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "exam",
+"pos": "n",
+"zh_tw": "考試",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "example",
+"pos": "n",
+"zh_tw": "例子",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "excellent",
+"pos": "adj",
+"zh_tw": "優秀的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "except",
+"pos": "prep",
+"zh_tw": "除…之外",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "excite",
+"pos": "v",
+"zh_tw": "使…興奮",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "excited",
+"pos": "adj",
+"zh_tw": "興奮的",
+"level": 1,
+"topic": "emotion"
+},
+{
+"word": "excuse",
+"pos": "v",
+"zh_tw": "原諒",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "exercise",
+"pos": "n",
+"zh_tw": "運動",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "exist",
+"pos": "v",
+"zh_tw": "存在",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "exit",
+"pos": "n",
+"zh_tw": "出口",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "expect",
+"pos": "v",
+"zh_tw": "期望",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "expensive",
+"pos": "adj",
+"zh_tw": "昂貴的",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "experience",
+"pos": "n",
+"zh_tw": "經驗",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "explain",
+"pos": "v",
+"zh_tw": "說明",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "express",
+"pos": "v",
+"zh_tw": "表達",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "extra",
+"pos": "adj",
+"zh_tw": "額外的",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "eye",
+"pos": "n",
+"zh_tw": "眼睛",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "eyebrow",
+"pos": "n",
+"zh_tw": "眉毛",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "face",
+"pos": "n",
+"zh_tw": "臉",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "fact",
+"pos": "n",
+"zh_tw": "事實",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "factory",
+"pos": "n",
+"zh_tw": "工廠",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "fail",
+"pos": "v",
+"zh_tw": "失敗",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "fair",
+"pos": "adj",
+"zh_tw": "公平的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "fall",
+"pos": "v",
+"zh_tw": "倒下",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "false",
+"pos": "adj",
+"zh_tw": "錯的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "family",
+"pos": "n",
+"zh_tw": "家",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "famous",
+"pos": "adj",
+"zh_tw": "著名的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "fan",
+"pos": "n",
+"zh_tw": "電扇",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "fancy",
+"pos": "n",
+"zh_tw": "想像力",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "fantastic",
+"pos": "adj",
+"zh_tw": "極好的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "far",
+"pos": "adj",
+"zh_tw": "遠方的",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "farm",
+"pos": "n",
+"zh_tw": "農場",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "farmer",
+"pos": "n",
+"zh_tw": "農夫",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "fashion",
+"pos": "n",
+"zh_tw": "流行",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "fast",
+"pos": "adj",
+"zh_tw": "快的",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "fat",
+"pos": "adj",
+"zh_tw": "肥胖的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "father",
+"pos": "n",
+"zh_tw": "父親",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "faucet",
+"pos": "n",
+"zh_tw": "水龍頭",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "fault",
+"pos": "n",
+"zh_tw": "缺點",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "favorite",
+"pos": "adj",
+"zh_tw": "最喜歡的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "fear",
+"pos": "n",
+"zh_tw": "害怕",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "February",
+"pos": "n",
+"zh_tw": "二月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "fee",
+"pos": "n",
+"zh_tw": "費用",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "feed",
+"pos": "v",
+"zh_tw": "餵養",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "feel",
+"pos": "v",
+"zh_tw": "感覺",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "feeling",
+"pos": "n",
+"zh_tw": "感覺",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "female",
+"pos": "n",
+"zh_tw": "女性",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "fence",
+"pos": "n",
+"zh_tw": "柵欄",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "festival",
+"pos": "n",
+"zh_tw": "節慶",
+"level": 1,
+"topic": "festival"
+},
+{
+"word": "fever",
+"pos": "n",
+"zh_tw": "發燒",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "few",
+"pos": "adj",
+"zh_tw": "少數的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "fifteen",
+"pos": "n",
+"zh_tw": "十五",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "fifty",
+"pos": "n",
+"zh_tw": "五十",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "fight",
+"pos": "n",
+"zh_tw": "戰鬥",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "fill",
+"pos": "v",
+"zh_tw": "裝滿",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "film",
+"pos": "n",
+"zh_tw": "電影",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "final",
+"pos": "adj",
+"zh_tw": "最後的",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "finally",
+"pos": "adv",
+"zh_tw": "最後",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "find",
+"pos": "v",
+"zh_tw": "找到",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "fine",
+"pos": "adj",
+"zh_tw": "精巧的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "finger",
+"pos": "n",
+"zh_tw": "指頭",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "finish",
+"pos": "v",
+"zh_tw": "結束",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "fire",
+"pos": "n",
+"zh_tw": "火",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "first",
+"pos": "adj",
+"zh_tw": "第一的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "fish",
+"pos": "n",
+"zh_tw": "魚",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "fisherman",
+"pos": "n",
+"zh_tw": "漁夫",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "fit",
+"pos": "v",
+"zh_tw": "適合",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "five",
+"pos": "n",
+"zh_tw": "五",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "fix",
+"pos": "v",
+"zh_tw": "固定",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "flag",
+"pos": "n",
+"zh_tw": "旗幟",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "flash",
+"pos": "n",
+"zh_tw": "閃光",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "flashlight",
+"pos": "n",
+"zh_tw": "手電筒",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "flight",
+"pos": "n",
+"zh_tw": "飛機航次",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "flood",
+"pos": "n",
+"zh_tw": "洪水",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "floor",
+"pos": "n",
+"zh_tw": "地板",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "flour",
+"pos": "n",
+"zh_tw": "麵粉",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "flower",
+"pos": "n",
+"zh_tw": "花",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "flu",
+"pos": "n",
+"zh_tw": "流行性感冒",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "flute",
+"pos": "n",
+"zh_tw": "長笛",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "fly",
+"pos": "v",
+"zh_tw": "飛",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "focus",
+"pos": "n",
+"zh_tw": "焦點",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "fog",
+"pos": "n",
+"zh_tw": "霧",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "follow",
+"pos": "v",
+"zh_tw": "跟隨",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "food",
+"pos": "n",
+"zh_tw": "食物",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "fool",
+"pos": "n",
+"zh_tw": "傻子",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "foolish",
+"pos": "adj",
+"zh_tw": "愚笨的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "foot",
+"pos": "n",
+"zh_tw": "腳",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "football",
+"pos": "n",
+"zh_tw": "足球",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "for",
+"pos": "prep",
+"zh_tw": "為了",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "force",
+"pos": "v",
+"zh_tw": "強迫",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "foreign",
+"pos": "adj",
+"zh_tw": "外國的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "foreigner",
+"pos": "n",
+"zh_tw": "外國人",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "forest",
+"pos": "n",
+"zh_tw": "森林",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "forever",
+"pos": "adv",
+"zh_tw": "永遠",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "forget",
+"pos": "v",
+"zh_tw": "忘記",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "forgive",
+"pos": "v",
+"zh_tw": "原諒",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "fork",
+"pos": "n",
+"zh_tw": "叉子",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "form",
+"pos": "v",
+"zh_tw": "形成",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "formal",
+"pos": "adj",
+"zh_tw": "正式的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "former",
+"pos": "adj",
+"zh_tw": "前者的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "fortunately",
+"pos": "adv",
+"zh_tw": "幸運地",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "forty",
+"pos": "n",
+"zh_tw": "四十",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "forward(s)",
+"pos": "adv",
+"zh_tw": "向前",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "four",
+"pos": "n",
+"zh_tw": "四",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "fourteen",
+"pos": "n",
+"zh_tw": "十四",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "fox",
+"pos": "n",
+"zh_tw": "狐狸",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "frank",
+"pos": "adj",
+"zh_tw": "直率的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "free",
+"pos": "adj",
+"zh_tw": "自由的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "freedom",
+"pos": "n",
+"zh_tw": "自由",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "fresh",
+"pos": "adj",
+"zh_tw": "新鮮的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "Friday",
+"pos": "n",
+"zh_tw": "星期五",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "friend",
+"pos": "n",
+"zh_tw": "朋友",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "friendly",
+"pos": "adj",
+"zh_tw": "友好的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "frighten",
+"pos": "v",
+"zh_tw": "使害怕",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "frog",
+"pos": "n",
+"zh_tw": "青蛙",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "from",
+"pos": "prep",
+"zh_tw": "從…",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "front",
+"pos": "adj",
+"zh_tw": "前面的",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "fruit",
+"pos": "n",
+"zh_tw": "水果",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "fry",
+"pos": "v",
+"zh_tw": "油炸",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "full",
+"pos": "adj",
+"zh_tw": "滿的",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "fun",
+"pos": "n",
+"zh_tw": "趣味",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "function",
+"pos": "n",
+"zh_tw": "功能",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "funny",
+"pos": "adj",
+"zh_tw": "好笑的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "furniture",
+"pos": "n",
+"zh_tw": "傢俱",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "future",
+"pos": "n",
+"zh_tw": "未來",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "gain",
+"pos": "v",
+"zh_tw": "獲得",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "game",
+"pos": "n",
+"zh_tw": "遊戲",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "garage",
+"pos": "n",
+"zh_tw": "車庫",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "garbage",
+"pos": "n",
+"zh_tw": "垃圾",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "garden",
+"pos": "n",
+"zh_tw": "花園",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "gas",
+"pos": "n",
+"zh_tw": "瓦斯",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "gate",
+"pos": "n",
+"zh_tw": "大門",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "gather",
+"pos": "v",
+"zh_tw": "集合",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "general",
+"pos": "adj",
+"zh_tw": "一般的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "generous",
+"pos": "adj",
+"zh_tw": "慷慨的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "genius",
+"pos": "n",
+"zh_tw": "天才",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "gentle",
+"pos": "adj",
+"zh_tw": "溫和的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "gentleman",
+"pos": "n",
+"zh_tw": "紳士",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "geography",
+"pos": "n",
+"zh_tw": "地理",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "gesture",
+"pos": "n",
+"zh_tw": "姿勢，手勢",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "get",
+"pos": "v",
+"zh_tw": "得到",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "ghost",
+"pos": "n",
+"zh_tw": "鬼",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "giant",
+"pos": "adj",
+"zh_tw": "巨大的",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "gift",
+"pos": "n",
+"zh_tw": "禮物",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "girl",
+"pos": "n",
+"zh_tw": "女孩",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "give",
+"pos": "v",
+"zh_tw": "給予",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "glad",
+"pos": "adj",
+"zh_tw": "高興的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "glass",
+"pos": "n",
+"zh_tw": "玻璃",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "glasses",
+"pos": "n",
+"zh_tw": "眼鏡",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "glove",
+"pos": "n",
+"zh_tw": "手套",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "glue",
+"pos": "n",
+"zh_tw": "膠水",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "go",
+"pos": "v",
+"zh_tw": "去",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "goal",
+"pos": "n",
+"zh_tw": "目標",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "goat",
+"pos": "n",
+"zh_tw": "山羊",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "god",
+"pos": "n",
+"zh_tw": "上帝",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "gold",
+"pos": "n",
+"zh_tw": "黃金",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "golden",
+"pos": "adj",
+"zh_tw": "金色的",
+"level": 2,
+"topic": "color"
+},
+{
+"word": "golf",
+"pos": "n",
+"zh_tw": "高爾夫球",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "good",
+"pos": "adj",
+"zh_tw": "好的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "goodness",
+"pos": "n",
+"zh_tw": "善良",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "goose",
+"pos": "n",
+"zh_tw": "鵝",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "government",
+"pos": "n",
+"zh_tw": "政府",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "grade",
+"pos": "n",
+"zh_tw": "分數",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "gradually",
+"pos": "adv",
+"zh_tw": "逐漸地",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "gram",
+"pos": "n",
+"zh_tw": "克",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "grandfather",
+"pos": "n",
+"zh_tw": "祖父",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "grandmother",
+"pos": "n",
+"zh_tw": "祖母",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "grandson",
+"pos": "n",
+"zh_tw": "孫子",
+"level": 2,
+"topic": "family"
+},
+{
+"word": "grape",
+"pos": "n",
+"zh_tw": "葡萄",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "grass",
+"pos": "n",
+"zh_tw": "草",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "grateful",
+"pos": "adj",
+"zh_tw": "感激的",
+"level": 2,
+"topic": "emotion"
+},
+{
+"word": "gray",
+"pos": "adj",
+"zh_tw": "灰色的",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "great",
+"pos": "adj",
+"zh_tw": "傑出的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "greedy",
+"pos": "adj",
+"zh_tw": "貪心的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "green",
+"pos": "adj",
+"zh_tw": "綠色的",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "greet",
+"pos": "v",
+"zh_tw": "問候",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "ground",
+"pos": "n",
+"zh_tw": "土地",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "group",
+"pos": "n",
+"zh_tw": "群，組",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "grow",
+"pos": "v",
+"zh_tw": "生長",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "guard",
+"pos": "n",
+"zh_tw": "警衛",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "guava",
+"pos": "n",
+"zh_tw": "番石榴",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "guess",
+"pos": "v",
+"zh_tw": "猜測",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "guest",
+"pos": "n",
+"zh_tw": "客人",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "guide",
+"pos": "v",
+"zh_tw": "引導",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "guitar",
+"pos": "n",
+"zh_tw": "吉他",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "gun",
+"pos": "n",
+"zh_tw": "槍",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "guy",
+"pos": "n",
+"zh_tw": "小伙子",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "gym",
+"pos": "n",
+"zh_tw": "體育館",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "habit",
+"pos": "n",
+"zh_tw": "習慣",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "hair",
+"pos": "n",
+"zh_tw": "頭髮",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "half",
+"pos": "adj",
+"zh_tw": "一半的",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "hall",
+"pos": "n",
+"zh_tw": "大廳",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "Halloween",
+"pos": "n",
+"zh_tw": "萬聖節",
+"level": 1,
+"topic": "festival"
+},
+{
+"word": "ham",
+"pos": "n",
+"zh_tw": "火腿",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "hamburger",
+"pos": "n",
+"zh_tw": "漢堡",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "hammer",
+"pos": "n",
+"zh_tw": "槌子",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "hand",
+"pos": "n",
+"zh_tw": "手",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "handkerchief",
+"pos": "n",
+"zh_tw": "手帕",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "handle",
+"pos": "v",
+"zh_tw": "處理",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "handsome",
+"pos": "adj",
+"zh_tw": "英俊的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "hang",
+"pos": "v",
+"zh_tw": "掛",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "hanger",
+"pos": "n",
+"zh_tw": "衣架",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "happen",
+"pos": "v",
+"zh_tw": "發生",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "happy",
+"pos": "adj",
+"zh_tw": "快樂的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "hard",
+"pos": "adj",
+"zh_tw": "難的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "hardly",
+"pos": "adv",
+"zh_tw": "幾乎不",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "harm",
+"pos": "v/n",
+"zh_tw": "傷害",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "hat",
+"pos": "n",
+"zh_tw": "帽子",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "hate",
+"pos": "v",
+"zh_tw": "憎恨",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "have",
+"pos": "v",
+"zh_tw": "有",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "head",
+"pos": "n",
+"zh_tw": "頭",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "headache",
+"pos": "n",
+"zh_tw": "頭痛",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "health",
+"pos": "n",
+"zh_tw": "健康",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "healthy",
+"pos": "adj",
+"zh_tw": "健康的",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "hear",
+"pos": "v",
+"zh_tw": "聽",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "heart",
+"pos": "n",
+"zh_tw": "心臟",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "heat",
+"pos": "n",
+"zh_tw": "熱",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "heater",
+"pos": "n",
+"zh_tw": "熱水器",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "heavy",
+"pos": "adj",
+"zh_tw": "重的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "height",
+"pos": "n",
+"zh_tw": "高度",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "helicopter",
+"pos": "n",
+"zh_tw": "直升機",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "help",
+"pos": "n",
+"zh_tw": "幫忙",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "helpful",
+"pos": "adj",
+"zh_tw": "有助益的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "hen",
+"pos": "n",
+"zh_tw": "母雞",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "here",
+"pos": "adv",
+"zh_tw": "在這裡",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "hero",
+"pos": "n",
+"zh_tw": "英雄",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "hide",
+"pos": "v",
+"zh_tw": "藏",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "high",
+"pos": "adj",
+"zh_tw": "高的",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "highway",
+"pos": "n",
+"zh_tw": "公路",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "hike",
+"pos": "n",
+"zh_tw": "遠足",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "hill",
+"pos": "n",
+"zh_tw": "小山丘",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "hip",
+"pos": "n",
+"zh_tw": "臀部",
+"level": 2,
+"topic": "body"
+},
+{
+"word": "hippo",
+"pos": "n",
+"zh_tw": "河馬",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "hire",
+"pos": "v",
+"zh_tw": "雇用",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "history",
+"pos": "n",
+"zh_tw": "歷史",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "hit",
+"pos": "v",
+"zh_tw": "打",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "hobby",
+"pos": "n",
+"zh_tw": "嗜好",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "hold",
+"pos": "v",
+"zh_tw": "抓住",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "hole",
+"pos": "n",
+"zh_tw": "洞",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "holiday",
+"pos": "n",
+"zh_tw": "假日",
+"level": 1,
+"topic": "festival"
+},
+{
+"word": "home",
+"pos": "n",
+"zh_tw": "家",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "homework",
+"pos": "n",
+"zh_tw": "作業",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "honest",
+"pos": "adj",
+"zh_tw": "誠實的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "honesty",
+"pos": "n",
+"zh_tw": "誠實",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "honey",
+"pos": "n",
+"zh_tw": "蜂蜜",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "hop",
+"pos": "n",
+"zh_tw": "跳躍",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "hope",
+"pos": "n",
+"zh_tw": "希望",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "horrible",
+"pos": "adj",
+"zh_tw": "恐怖的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "horse",
+"pos": "n",
+"zh_tw": "馬",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "hospital",
+"pos": "n",
+"zh_tw": "醫院",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "host",
+"pos": "n",
+"zh_tw": "主人",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "hot",
+"pos": "adj",
+"zh_tw": "熱的",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "hotel",
+"pos": "n",
+"zh_tw": "旅館",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "hour",
+"pos": "n",
+"zh_tw": "小時",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "house",
+"pos": "n",
+"zh_tw": "房子",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "housewife",
+"pos": "n",
+"zh_tw": "家庭主婦",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "housework",
+"pos": "n",
+"zh_tw": "家事",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "how",
+"pos": "adv",
+"zh_tw": "如何",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "however",
+"pos": "adv",
+"zh_tw": "然而",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "huge",
+"pos": "adj",
+"zh_tw": "巨大的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "human",
+"pos": "n",
+"zh_tw": "人",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "humble",
+"pos": "adj",
+"zh_tw": "謙虛的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "humid",
+"pos": "adj",
+"zh_tw": "潮溼的",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "humor",
+"pos": "n",
+"zh_tw": "幽默",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "humorous",
+"pos": "adj",
+"zh_tw": "幽默的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "hundred",
+"pos": "n",
+"zh_tw": "一百",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "hunger",
+"pos": "n",
+"zh_tw": "飢餓",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "hungry",
+"pos": "adj",
+"zh_tw": "飢餓的",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "hunt",
+"pos": "v",
+"zh_tw": "狩獵",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "hunter",
+"pos": "n",
+"zh_tw": "獵人",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "hurry",
+"pos": "v",
+"zh_tw": "匆忙",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "hurt",
+"pos": "v",
+"zh_tw": "受傷",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "husband",
+"pos": "n",
+"zh_tw": "丈夫",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "ice",
+"pos": "n",
+"zh_tw": "冰",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "idea",
+"pos": "n",
+"zh_tw": "想法",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "if",
+"pos": "conj",
+"zh_tw": "假如",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "ignore",
+"pos": "v",
+"zh_tw": "忽視",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "ill",
+"pos": "adj",
+"zh_tw": "生病的",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "imagine",
+"pos": "v",
+"zh_tw": "想像",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "impolite",
+"pos": "adj",
+"zh_tw": "不禮貌的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "importance",
+"pos": "n",
+"zh_tw": "重要性",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "important",
+"pos": "adj",
+"zh_tw": "重要的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "impossible",
+"pos": "adj",
+"zh_tw": "不可能 的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "improve",
+"pos": "v",
+"zh_tw": "改進",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "in",
+"pos": "prep",
+"zh_tw": "在…之中",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "inch",
+"pos": "n",
+"zh_tw": "英吋",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "include",
+"pos": "v",
+"zh_tw": "包括",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "income",
+"pos": "n",
+"zh_tw": "收入",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "increase",
+"pos": "v",
+"zh_tw": "增加",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "indeed",
+"pos": "adv",
+"zh_tw": "確實",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "independent",
+"pos": "adj",
+"zh_tw": "獨立的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "indicate",
+"pos": "v",
+"zh_tw": "指示",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "influence",
+"pos": "n",
+"zh_tw": "影響",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "information",
+"pos": "n",
+"zh_tw": "資訊",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "ink",
+"pos": "n",
+"zh_tw": "墨水",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "insect",
+"pos": "n",
+"zh_tw": "昆蟲",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "inside",
+"pos": "adv",
+"zh_tw": "在內部地",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "insist",
+"pos": "v",
+"zh_tw": "堅持",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "inspire",
+"pos": "v",
+"zh_tw": "激勵",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "instance",
+"pos": "n",
+"zh_tw": "例子",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "instant",
+"pos": "adj",
+"zh_tw": "立即的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "instead",
+"pos": "adv",
+"zh_tw": "代替；反而",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "instrument",
+"pos": "n",
+"zh_tw": "樂器",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "intelligent",
+"pos": "adj",
+"zh_tw": "聰明的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "interest",
+"pos": "n",
+"zh_tw": "興趣",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "interested",
+"pos": "adj",
+"zh_tw": "感興趣的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "interesting",
+"pos": "adj",
+"zh_tw": "有趣的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "international",
+"pos": "adj",
+"zh_tw": "國際的",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "Internet",
+"pos": "n",
+"zh_tw": "網路",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "Interrupt",
+"pos": "v",
+"zh_tw": "打擾",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "interview",
+"pos": "n",
+"zh_tw": "訪問",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "into",
+"pos": "prep",
+"zh_tw": "進入…之內",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "introduce",
+"pos": "v",
+"zh_tw": "介紹",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "invent",
+"pos": "v",
+"zh_tw": "發明",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "invitation",
+"pos": "n",
+"zh_tw": "邀請",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "invite",
+"pos": "v",
+"zh_tw": "邀請",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "iron",
+"pos": "n",
+"zh_tw": "熨斗",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "island",
+"pos": "n",
+"zh_tw": "島",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "item",
+"pos": "n",
+"zh_tw": "項目",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "jacket",
+"pos": "n",
+"zh_tw": "外套",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "jam",
+"pos": "n",
+"zh_tw": "果醬",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "January",
+"pos": "n",
+"zh_tw": "一月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "jazz",
+"pos": "n",
+"zh_tw": "爵士樂",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "jealous",
+"pos": "adj",
+"zh_tw": "妒忌的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "jeans",
+"pos": "n",
+"zh_tw": "牛仔褲",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "jeep",
+"pos": "n",
+"zh_tw": "吉普車",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "job",
+"pos": "n",
+"zh_tw": "工作",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "jog",
+"pos": "v",
+"zh_tw": "慢跑",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "join",
+"pos": "v",
+"zh_tw": "參加",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "joke",
+"pos": "n",
+"zh_tw": "笑話",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "journalist",
+"pos": "n",
+"zh_tw": "新聞記者",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "joy",
+"pos": "n",
+"zh_tw": "喜悅",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "judge",
+"pos": "v",
+"zh_tw": "判斷",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "juice",
+"pos": "n",
+"zh_tw": "果汁",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "July",
+"pos": "n",
+"zh_tw": "七月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "jump",
+"pos": "v",
+"zh_tw": "跳",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "June",
+"pos": "n",
+"zh_tw": "六月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "just",
+"pos": "adv",
+"zh_tw": "剛才",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "keep",
+"pos": "v",
+"zh_tw": "(使)保持",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "ketchup",
+"pos": "n",
+"zh_tw": "番茄醬",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "key",
+"pos": "n",
+"zh_tw": "鑰匙",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "kick",
+"pos": "v",
+"zh_tw": "踢",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "kid",
+"pos": "n",
+"zh_tw": "小孩",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "kill",
+"pos": "v",
+"zh_tw": "殺死",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "kilogram",
+"pos": "n",
+"zh_tw": "公斤",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "kilometer",
+"pos": "n",
+"zh_tw": "公里",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "kind",
+"pos": "adj",
+"zh_tw": "仁慈的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "kindergarten",
+"pos": "n",
+"zh_tw": "幼稚園",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "king",
+"pos": "n",
+"zh_tw": "國王",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "kingdom",
+"pos": "n",
+"zh_tw": "王國",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "kiss",
+"pos": "n",
+"zh_tw": "吻",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "kitchen",
+"pos": "n",
+"zh_tw": "廚房",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "kite",
+"pos": "n",
+"zh_tw": "風箏",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "kitten",
+"pos": "n",
+"zh_tw": "小貓",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "knee",
+"pos": "n",
+"zh_tw": "膝蓋",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "knife",
+"pos": "n",
+"zh_tw": "刀",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "knock",
+"pos": "v",
+"zh_tw": "敲",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "know",
+"pos": "v",
+"zh_tw": "知道",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "knowledge",
+"pos": "n",
+"zh_tw": "知識",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "lack",
+"pos": "v",
+"zh_tw": "缺乏",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "lady",
+"pos": "n",
+"zh_tw": "女士",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "lake",
+"pos": "n",
+"zh_tw": "湖泊",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "lamb",
+"pos": "n",
+"zh_tw": "小羊",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "lamp",
+"pos": "n",
+"zh_tw": "燈",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "land",
+"pos": "n",
+"zh_tw": "土地",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "language",
+"pos": "n",
+"zh_tw": "語言",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "lantern",
+"pos": "n",
+"zh_tw": "燈籠",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "large",
+"pos": "adj",
+"zh_tw": "大的",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "last",
+"pos": "adj",
+"zh_tw": "最後的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "late",
+"pos": "adj",
+"zh_tw": "晚的",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "later",
+"pos": "adj",
+"zh_tw": "稍晚的",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "latest",
+"pos": "adj",
+"zh_tw": "最新的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "laugh",
+"pos": "n",
+"zh_tw": "笑聲",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "law",
+"pos": "n",
+"zh_tw": "法律",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "lawyer",
+"pos": "n",
+"zh_tw": "律師",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "lay",
+"pos": "v",
+"zh_tw": "放置",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "lazy",
+"pos": "adj",
+"zh_tw": "懶惰的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "lead",
+"pos": "v",
+"zh_tw": "領導",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "leader",
+"pos": "n",
+"zh_tw": "領袖",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "leaf",
+"pos": "n",
+"zh_tw": "葉子",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "learn",
+"pos": "v",
+"zh_tw": "學習",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "least",
+"pos": "adv",
+"zh_tw": "最少",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "leave",
+"pos": "v",
+"zh_tw": "離開",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "left",
+"pos": "adj",
+"zh_tw": "左邊的",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "leg",
+"pos": "n",
+"zh_tw": "腿",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "legal",
+"pos": "adj",
+"zh_tw": "合法的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "lemon",
+"pos": "n",
+"zh_tw": "檸檬",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "lend",
+"pos": "v",
+"zh_tw": "借",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "less",
+"pos": "adj",
+"zh_tw": "較少的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "lesson",
+"pos": "n",
+"zh_tw": "課",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "let",
+"pos": "v",
+"zh_tw": "讓",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "letter",
+"pos": "n",
+"zh_tw": "信",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "lettuce",
+"pos": "n",
+"zh_tw": "生菜",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "level",
+"pos": "n",
+"zh_tw": "水準",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "library",
+"pos": "n",
+"zh_tw": "圖書館",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "lick",
+"pos": "v",
+"zh_tw": "舔",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "lid",
+"pos": "n",
+"zh_tw": "蓋子",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "lie",
+"pos": "n",
+"zh_tw": "謊言",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "life",
+"pos": "n",
+"zh_tw": "生命",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "lift",
+"pos": "v",
+"zh_tw": "抬起",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "light",
+"pos": "n",
+"zh_tw": "燈",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "lightning",
+"pos": "n",
+"zh_tw": "閃電",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "like",
+"pos": "v",
+"zh_tw": "喜歡",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "likely",
+"pos": "adv",
+"zh_tw": "可能",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "lily",
+"pos": "n",
+"zh_tw": "百合花",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "limit",
+"pos": "n",
+"zh_tw": "限度",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "line",
+"pos": "n",
+"zh_tw": "線",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "link",
+"pos": "n",
+"zh_tw": "關聯",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "lion",
+"pos": "n",
+"zh_tw": "獅子",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "lip",
+"pos": "n",
+"zh_tw": "嘴唇",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "liquid",
+"pos": "n",
+"zh_tw": "液體",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "list",
+"pos": "v",
+"zh_tw": "把…列表",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "listen",
+"pos": "v",
+"zh_tw": "聽",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "liter",
+"pos": "n",
+"zh_tw": "升(容量單位)",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "little",
+"pos": "adj",
+"zh_tw": "少的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "live",
+"pos": "v",
+"zh_tw": "居住",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "loaf",
+"pos": "n",
+"zh_tw": "一條(麵包)",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "local",
+"pos": "adj",
+"zh_tw": "本地的",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "lock",
+"pos": "n",
+"zh_tw": "鎖",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "locker",
+"pos": "n",
+"zh_tw": "寄物櫃",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "lonely",
+"pos": "adj",
+"zh_tw": "寂寞的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "long",
+"pos": "v",
+"zh_tw": "渴望",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "look",
+"pos": "v",
+"zh_tw": "看",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "lose",
+"pos": "v",
+"zh_tw": "失去",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "loser",
+"pos": "n",
+"zh_tw": "失敗者",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "lot",
+"pos": "n",
+"zh_tw": "許多",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "loud",
+"pos": "adj",
+"zh_tw": "大聲的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "love",
+"pos": "n",
+"zh_tw": "愛",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "lovely",
+"pos": "adj",
+"zh_tw": "可愛的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "lover",
+"pos": "n",
+"zh_tw": "情人",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "low",
+"pos": "adj",
+"zh_tw": "低的",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "luck",
+"pos": "n",
+"zh_tw": "運氣",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "lucky",
+"pos": "adj",
+"zh_tw": "幸運的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "lunch",
+"pos": "n",
+"zh_tw": "午餐",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "machine",
+"pos": "n",
+"zh_tw": "機器",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "mad",
+"pos": "adj",
+"zh_tw": "生氣的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "magazine",
+"pos": "n",
+"zh_tw": "雜誌",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "magic",
+"pos": "n",
+"zh_tw": "魔術",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "magician",
+"pos": "n",
+"zh_tw": "魔術師",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "mail",
+"pos": "n",
+"zh_tw": "郵件",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "main",
+"pos": "adj",
+"zh_tw": "主要的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "maintain",
+"pos": "v",
+"zh_tw": "維持",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "major",
+"pos": "adj",
+"zh_tw": "主要的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "make",
+"pos": "v",
+"zh_tw": "做",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "male",
+"pos": "n",
+"zh_tw": "男性",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "mall",
+"pos": "n",
+"zh_tw": "商場",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "man",
+"pos": "n",
+"zh_tw": "男人",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "manage",
+"pos": "v",
+"zh_tw": "管理；設法",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "manager",
+"pos": "n",
+"zh_tw": "經理",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "mango",
+"pos": "n",
+"zh_tw": "芒果",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "manner",
+"pos": "n",
+"zh_tw": "態度",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "many",
+"pos": "adj",
+"zh_tw": "許多的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "map",
+"pos": "n",
+"zh_tw": "地圖",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "March",
+"pos": "n",
+"zh_tw": "三月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "mark",
+"pos": "n",
+"zh_tw": "標記",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "market",
+"pos": "n",
+"zh_tw": "市場",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "marriage",
+"pos": "n",
+"zh_tw": "結婚",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "married",
+"pos": "adj",
+"zh_tw": "已婚的",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "marry",
+"pos": "v",
+"zh_tw": "結婚",
+"level": 2,
+"topic": "family"
+},
+{
+"word": "marvelous",
+"pos": "adj",
+"zh_tw": "非凡的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "mask",
+"pos": "n",
+"zh_tw": "面具",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "mass",
+"pos": "n",
+"zh_tw": "塊",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "master",
+"pos": "n",
+"zh_tw": "大師",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "mat",
+"pos": "n",
+"zh_tw": "墊子",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "match",
+"pos": "n",
+"zh_tw": "比賽",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "mate",
+"pos": "n",
+"zh_tw": "配偶",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "material",
+"pos": "n",
+"zh_tw": "材料",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "math",
+"pos": "n",
+"zh_tw": "數學",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "matter",
+"pos": "n",
+"zh_tw": "事情",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "maximum",
+"pos": "adj",
+"zh_tw": "最多的",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "may",
+"pos": "aux",
+"zh_tw": "可能",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "maybe",
+"pos": "adv",
+"zh_tw": "也許",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "meal",
+"pos": "n",
+"zh_tw": "餐",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "mean",
+"pos": "v",
+"zh_tw": "意指",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "meaning",
+"pos": "n",
+"zh_tw": "意思",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "measure",
+"pos": "v",
+"zh_tw": "測量",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "meat",
+"pos": "n",
+"zh_tw": "肉類",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "mechanic",
+"pos": "n",
+"zh_tw": "技工",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "media",
+"pos": "n",
+"zh_tw": "大眾傳媒",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "medicine",
+"pos": "n",
+"zh_tw": "藥",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "medium",
+"pos": "adj",
+"zh_tw": "中等的",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "meet",
+"pos": "v",
+"zh_tw": "見面",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "meeting",
+"pos": "n",
+"zh_tw": "會議",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "member",
+"pos": "n",
+"zh_tw": "會員",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "memory",
+"pos": "n",
+"zh_tw": "記憶",
+"level": 2,
+"topic": "festival"
+},
+{
+"word": "mention",
+"pos": "v",
+"zh_tw": "提及",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "menu",
+"pos": "n",
+"zh_tw": "菜單",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "message",
+"pos": "n",
+"zh_tw": "信息",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "metal",
+"pos": "n",
+"zh_tw": "金屬",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "meter",
+"pos": "n",
+"zh_tw": "公尺",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "method",
+"pos": "n",
+"zh_tw": "方法",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "microwave",
+"pos": "n",
+"zh_tw": "微波爐",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "middle",
+"pos": "adj",
+"zh_tw": "中間的",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "midnight",
+"pos": "n",
+"zh_tw": "午夜",
+"level": 2,
+"topic": "time"
+},
+{
+"word": "mile",
+"pos": "n",
+"zh_tw": "英里",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "milk",
+"pos": "n",
+"zh_tw": "牛奶",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "million",
+"pos": "n",
+"zh_tw": "百萬",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "mind",
+"pos": "v",
+"zh_tw": "介意",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "mine",
+"pos": "n",
+"zh_tw": "礦",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "minor",
+"pos": "adj",
+"zh_tw": "次要的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "minus",
+"pos": "prep",
+"zh_tw": "減",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "minute",
+"pos": "n",
+"zh_tw": "分",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "mirror",
+"pos": "n",
+"zh_tw": "鏡子",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "Miss",
+"pos": "n",
+"zh_tw": "小姐",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "mistake",
+"pos": "n",
+"zh_tw": "錯誤",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "mix",
+"pos": "v",
+"zh_tw": "混合",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "model",
+"pos": "n",
+"zh_tw": "模特兒",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "modern",
+"pos": "adj",
+"zh_tw": "現代的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "moment",
+"pos": "n",
+"zh_tw": "片刻",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "Monday",
+"pos": "n",
+"zh_tw": "星期一",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "money",
+"pos": "n",
+"zh_tw": "錢",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "monkey",
+"pos": "n",
+"zh_tw": "猴子",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "monster",
+"pos": "n",
+"zh_tw": "妖怪",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "month",
+"pos": "n",
+"zh_tw": "月份",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "moon",
+"pos": "n",
+"zh_tw": "月亮",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "mop",
+"pos": "n",
+"zh_tw": "拖把",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "more",
+"pos": "adj",
+"zh_tw": "更多的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "moreover",
+"pos": "adv",
+"zh_tw": "此外",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "morning",
+"pos": "n",
+"zh_tw": "早上",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "mosquito",
+"pos": "n",
+"zh_tw": "蚊子",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "most",
+"pos": "adj",
+"zh_tw": "最多的",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "mostly",
+"pos": "adv",
+"zh_tw": "主要地",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "mother",
+"pos": "n",
+"zh_tw": "母親",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "motion",
+"pos": "n",
+"zh_tw": "動作",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "motorcycle",
+"pos": "n",
+"zh_tw": "摩托車",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "mountain",
+"pos": "n",
+"zh_tw": "山",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "mouse",
+"pos": "n",
+"zh_tw": "老鼠",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "mouth",
+"pos": "n",
+"zh_tw": "嘴巴",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "move",
+"pos": "v",
+"zh_tw": "移動",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "movement",
+"pos": "n",
+"zh_tw": "動作",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "movie",
+"pos": "n",
+"zh_tw": "電影",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "Mr.",
+"pos": "n",
+"zh_tw": "先生",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "MRT",
+"pos": "n",
+"zh_tw": "捷運",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "mud",
+"pos": "n",
+"zh_tw": "泥濘",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "mug",
+"pos": "n",
+"zh_tw": "馬克杯",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "museum",
+"pos": "n",
+"zh_tw": "博物館",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "music",
+"pos": "n",
+"zh_tw": "音樂",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "musician",
+"pos": "n",
+"zh_tw": "音樂家",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "must",
+"pos": "aux",
+"zh_tw": "必須",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "nail",
+"pos": "n",
+"zh_tw": "釘子",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "name",
+"pos": "n",
+"zh_tw": "名字",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "napkin",
+"pos": "n",
+"zh_tw": "餐巾",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "narrow",
+"pos": "adj",
+"zh_tw": "狹窄的",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "nation",
+"pos": "n",
+"zh_tw": "國家",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "national",
+"pos": "adj",
+"zh_tw": "國家的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "natural",
+"pos": "adj",
+"zh_tw": "自然的",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "nature",
+"pos": "n",
+"zh_tw": "自然",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "naughty",
+"pos": "adj",
+"zh_tw": "頑皮的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "near",
+"pos": "adj",
+"zh_tw": "接近的",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "nearly",
+"pos": "adv",
+"zh_tw": "幾乎",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "necessary",
+"pos": "adj",
+"zh_tw": "必要的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "neck",
+"pos": "n",
+"zh_tw": "脖子",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "necklace",
+"pos": "n",
+"zh_tw": "項鍊",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "need",
+"pos": "v",
+"zh_tw": "需要",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "needle",
+"pos": "n",
+"zh_tw": "針",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "negative",
+"pos": "adj",
+"zh_tw": "負面的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "neighbor",
+"pos": "n",
+"zh_tw": "鄰居",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "neither",
+"pos": "adv",
+"zh_tw": "既不…也不",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "nephew",
+"pos": "n",
+"zh_tw": "姪子，外甥",
+"level": 2,
+"topic": "family"
+},
+{
+"word": "nervous",
+"pos": "adj",
+"zh_tw": "緊張的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "nest",
+"pos": "n",
+"zh_tw": "鳥巢",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "never",
+"pos": "adv",
+"zh_tw": "從未",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "new",
+"pos": "adj",
+"zh_tw": "新的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "news",
+"pos": "n",
+"zh_tw": "新聞",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "newspaper",
+"pos": "n",
+"zh_tw": "報紙",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "next",
+"pos": "adj",
+"zh_tw": "下一個的",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "nice",
+"pos": "adj",
+"zh_tw": "友善的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "niece",
+"pos": "n",
+"zh_tw": "姪女，甥女",
+"level": 2,
+"topic": "family"
+},
+{
+"word": "night",
+"pos": "n",
+"zh_tw": "夜晚",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "nine",
+"pos": "n",
+"zh_tw": "九",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "nineteen",
+"pos": "n",
+"zh_tw": "十九",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "ninety",
+"pos": "n",
+"zh_tw": "九十",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "no",
+"pos": "adv",
+"zh_tw": "不",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "nod",
+"pos": "v",
+"zh_tw": "點頭",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "noise",
+"pos": "n",
+"zh_tw": "噪音",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "noisy",
+"pos": "adj",
+"zh_tw": "吵雜的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "none",
+"pos": "pron",
+"zh_tw": "沒有人",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "noodle",
+"pos": "n",
+"zh_tw": "麵條",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "noon",
+"pos": "n",
+"zh_tw": "中午",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "nor",
+"pos": "conj",
+"zh_tw": "也不",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "north",
+"pos": "n",
+"zh_tw": "北方",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "nose",
+"pos": "n",
+"zh_tw": "鼻子",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "not",
+"pos": "adv",
+"zh_tw": "不是",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "note",
+"pos": "n",
+"zh_tw": "便條",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "notebook",
+"pos": "n",
+"zh_tw": "筆記本",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "nothing",
+"pos": "pron",
+"zh_tw": "沒有什麼",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "notice",
+"pos": "v",
+"zh_tw": "注意到",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "novel",
+"pos": "n",
+"zh_tw": "小說",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "November",
+"pos": "n",
+"zh_tw": "十一月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "now",
+"pos": "adv",
+"zh_tw": "現在",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "number",
+"pos": "n",
+"zh_tw": "數字",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "nurse",
+"pos": "n",
+"zh_tw": "護士",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "nut",
+"pos": "n",
+"zh_tw": "堅果",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "obey",
+"pos": "v",
+"zh_tw": "聽從",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "object",
+"pos": "n",
+"zh_tw": "物體",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "ocean",
+"pos": "n",
+"zh_tw": "海洋",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "October",
+"pos": "n",
+"zh_tw": "十月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "of",
+"pos": "prep",
+"zh_tw": "…的",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "off",
+"pos": "prep",
+"zh_tw": "從…離開",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "offer",
+"pos": "v",
+"zh_tw": "提出",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "office",
+"pos": "n",
+"zh_tw": "辦公室",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "officer",
+"pos": "n",
+"zh_tw": "警官，官員",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "often",
+"pos": "adv",
+"zh_tw": "經常",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "oil",
+"pos": "n",
+"zh_tw": "石油",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "okay",
+"pos": "adj",
+"zh_tw": "可以的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "old",
+"pos": "adj",
+"zh_tw": "老的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "omit",
+"pos": "v",
+"zh_tw": "省略",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "on",
+"pos": "prep",
+"zh_tw": "在…上面",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "once",
+"pos": "adv",
+"zh_tw": "一次",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "one",
+"pos": "adj",
+"zh_tw": "一個的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "onion",
+"pos": "n",
+"zh_tw": "洋蔥",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "only",
+"pos": "adj",
+"zh_tw": "唯一的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "open",
+"pos": "v",
+"zh_tw": "打開",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "operate",
+"pos": "v",
+"zh_tw": "操作",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "opinion",
+"pos": "n",
+"zh_tw": "意見",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "opportunity",
+"pos": "n",
+"zh_tw": "機會",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "or",
+"pos": "conj",
+"zh_tw": "或者",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "orange",
+"pos": "n",
+"zh_tw": "柑橘",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "order",
+"pos": "n",
+"zh_tw": "命令",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "ordinary",
+"pos": "adj",
+"zh_tw": "普通的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "organ",
+"pos": "n",
+"zh_tw": "器官",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "organization",
+"pos": "n",
+"zh_tw": "機構",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "other",
+"pos": "adj",
+"zh_tw": "其他的",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "out",
+"pos": "adv",
+"zh_tw": "向外",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "outside",
+"pos": "adv",
+"zh_tw": "在外面",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "oven",
+"pos": "n",
+"zh_tw": "烤箱",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "over",
+"pos": "prep",
+"zh_tw": "在…之上",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "overseas",
+"pos": "adv",
+"zh_tw": "在國外",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "own",
+"pos": "v",
+"zh_tw": "擁有",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "owner",
+"pos": "n",
+"zh_tw": "物主",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "ox",
+"pos": "n",
+"zh_tw": "公牛",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "pack",
+"pos": "v",
+"zh_tw": "打包",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "package",
+"pos": "n",
+"zh_tw": "包裹",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "page",
+"pos": "n",
+"zh_tw": "頁",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "pain",
+"pos": "n",
+"zh_tw": "痛苦",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "painful",
+"pos": "adj",
+"zh_tw": "痛苦的",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "paint",
+"pos": "v",
+"zh_tw": "畫圖",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "painter",
+"pos": "n",
+"zh_tw": "畫家",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "pair",
+"pos": "n",
+"zh_tw": "一對",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "pajamas",
+"pos": "n",
+"zh_tw": "睡衣",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "pale",
+"pos": "adj",
+"zh_tw": "蒼白的",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "pan",
+"pos": "n",
+"zh_tw": "平底鍋",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "panda",
+"pos": "n",
+"zh_tw": "貓熊",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "pants",
+"pos": "n",
+"zh_tw": "褲子",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "papaya",
+"pos": "n",
+"zh_tw": "木瓜",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "paper",
+"pos": "n",
+"zh_tw": "紙",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "pardon",
+"pos": "n",
+"zh_tw": "原諒",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "parent",
+"pos": "n",
+"zh_tw": "父親(或母親)",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "park",
+"pos": "n",
+"zh_tw": "公園",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "parrot",
+"pos": "n",
+"zh_tw": "鸚鵡",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "part",
+"pos": "n",
+"zh_tw": "部分",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "particular",
+"pos": "adj",
+"zh_tw": "特別的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "partner",
+"pos": "n",
+"zh_tw": "夥伴",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "party",
+"pos": "n",
+"zh_tw": "派對",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "pass",
+"pos": "v",
+"zh_tw": "通過",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "passenger",
+"pos": "n",
+"zh_tw": "乘客",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "past",
+"pos": "adj",
+"zh_tw": "過去的",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "paste",
+"pos": "n",
+"zh_tw": "麵糰",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "path",
+"pos": "n",
+"zh_tw": "小徑",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "patient",
+"pos": "n",
+"zh_tw": "病人",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "pattern",
+"pos": "n",
+"zh_tw": "模式",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "pause",
+"pos": "n",
+"zh_tw": "停頓",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "pay",
+"pos": "v",
+"zh_tw": "付款",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "peace",
+"pos": "n",
+"zh_tw": "和平",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "peaceful",
+"pos": "adj",
+"zh_tw": "和平的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "peach",
+"pos": "n",
+"zh_tw": "桃子",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "peanut",
+"pos": "n",
+"zh_tw": "花生",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "pear",
+"pos": "n",
+"zh_tw": "梨子",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "pen",
+"pos": "n",
+"zh_tw": "筆",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "pencil",
+"pos": "n",
+"zh_tw": "鉛筆",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "people",
+"pos": "n",
+"zh_tw": "人",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "pepper",
+"pos": "n",
+"zh_tw": "胡椒粉",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "perfect",
+"pos": "adj",
+"zh_tw": "完美的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "perform",
+"pos": "v",
+"zh_tw": "表演；執行",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "perhaps",
+"pos": "adv",
+"zh_tw": "也許",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "period",
+"pos": "n",
+"zh_tw": "一段時間",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "personal",
+"pos": "adj",
+"zh_tw": "個人的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "personality",
+"pos": "n",
+"zh_tw": "個性",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "pet",
+"pos": "n",
+"zh_tw": "寵物",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "phone",
+"pos": "n",
+"zh_tw": "電話",
+"level": 1,
+"topic": "daily"
+},
+{
+"word": "photo",
+"pos": "n",
+"zh_tw": "照片",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "physics",
+"pos": "n",
+"zh_tw": "物理",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "piano",
+"pos": "n",
+"zh_tw": "鋼琴",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "pick",
+"pos": "v",
+"zh_tw": "挑選",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "picnic",
+"pos": "n",
+"zh_tw": "野餐",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "picture",
+"pos": "n",
+"zh_tw": "照片",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "pie",
+"pos": "n",
+"zh_tw": "派",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "piece",
+"pos": "n",
+"zh_tw": "一張",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "pig",
+"pos": "n",
+"zh_tw": "豬",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "pigeon",
+"pos": "n",
+"zh_tw": "鴿子",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "pile",
+"pos": "n",
+"zh_tw": "堆",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "pillow",
+"pos": "n",
+"zh_tw": "枕頭",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "pin",
+"pos": "n",
+"zh_tw": "別針",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "pineapple",
+"pos": "n",
+"zh_tw": "鳳梨",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "pink",
+"pos": "adj",
+"zh_tw": "粉紅色的",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "pipe",
+"pos": "n",
+"zh_tw": "煙斗",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "pizza",
+"pos": "n",
+"zh_tw": "披薩",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "place",
+"pos": "n",
+"zh_tw": "地方",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "plain",
+"pos": "n",
+"zh_tw": "平原",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "plan",
+"pos": "n",
+"zh_tw": "計畫",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "planet",
+"pos": "n",
+"zh_tw": "行星",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "plant",
+"pos": "n",
+"zh_tw": "植物",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "plate",
+"pos": "n",
+"zh_tw": "盤子",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "platform",
+"pos": "n",
+"zh_tw": "月臺",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "play",
+"pos": "v",
+"zh_tw": "玩",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "player",
+"pos": "n",
+"zh_tw": "運動員",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "playground",
+"pos": "n",
+"zh_tw": "操場",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "pleasant",
+"pos": "adj",
+"zh_tw": "舒適的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "please",
+"pos": "v",
+"zh_tw": "請",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "plus",
+"pos": "prep",
+"zh_tw": "加",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "pocket",
+"pos": "n",
+"zh_tw": "口袋",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "poem",
+"pos": "n",
+"zh_tw": "詩",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "poet",
+"pos": "n",
+"zh_tw": "詩人",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "point",
+"pos": "v",
+"zh_tw": "指出",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "poison",
+"pos": "n",
+"zh_tw": "毒藥",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "police",
+"pos": "n",
+"zh_tw": "警察",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "polite",
+"pos": "adj",
+"zh_tw": "有禮貌的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "pollute",
+"pos": "v",
+"zh_tw": "汙染",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "pollution",
+"pos": "n",
+"zh_tw": "汙染",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "pond",
+"pos": "n",
+"zh_tw": "池塘",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "pool",
+"pos": "n",
+"zh_tw": "水塘",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "poor",
+"pos": "adj",
+"zh_tw": "貧窮的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "popcorn",
+"pos": "n",
+"zh_tw": "爆米花",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "popular",
+"pos": "adj",
+"zh_tw": "受歡迎的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "population",
+"pos": "n",
+"zh_tw": "人口",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "pork",
+"pos": "n",
+"zh_tw": "豬肉",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "port",
+"pos": "n",
+"zh_tw": "港口",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "pose",
+"pos": "n",
+"zh_tw": "姿勢",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "position",
+"pos": "n",
+"zh_tw": "位置",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "positive",
+"pos": "adj",
+"zh_tw": "肯定的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "possible",
+"pos": "adj",
+"zh_tw": "有可能的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "post",
+"pos": "n",
+"zh_tw": "郵件",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "pot",
+"pos": "n",
+"zh_tw": "鍋",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "potato",
+"pos": "n",
+"zh_tw": "馬鈴薯",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "pound",
+"pos": "n",
+"zh_tw": "磅",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "powder",
+"pos": "n",
+"zh_tw": "粉末",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "power",
+"pos": "n",
+"zh_tw": "力量",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "practice",
+"pos": "n",
+"zh_tw": "練習",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "praise",
+"pos": "n",
+"zh_tw": "讚美",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "pray",
+"pos": "v",
+"zh_tw": "禱告",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "precious",
+"pos": "adj",
+"zh_tw": "珍貴的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "prefer",
+"pos": "v",
+"zh_tw": "較喜歡",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "prepare",
+"pos": "v",
+"zh_tw": "準備",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "presence",
+"pos": "n",
+"zh_tw": "存在",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "present",
+"pos": "adj",
+"zh_tw": "現在的",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "president",
+"pos": "n",
+"zh_tw": "總統；校長",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "pressure",
+"pos": "n",
+"zh_tw": "壓力",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "pretty",
+"pos": "adj",
+"zh_tw": "漂亮的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "prevent",
+"pos": "v",
+"zh_tw": "預防",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "price",
+"pos": "n",
+"zh_tw": "價格",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "pride",
+"pos": "n",
+"zh_tw": "驕傲",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "priest",
+"pos": "n",
+"zh_tw": "神父",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "primary",
+"pos": "adj",
+"zh_tw": "主要的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "prince",
+"pos": "n",
+"zh_tw": "王子",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "princess",
+"pos": "n",
+"zh_tw": "公主",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "principal",
+"pos": "n",
+"zh_tw": "原則",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "print",
+"pos": "v",
+"zh_tw": "印刷",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "prison",
+"pos": "n",
+"zh_tw": "監獄",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "private",
+"pos": "adj",
+"zh_tw": "私人的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "prize",
+"pos": "n",
+"zh_tw": "獎",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "probably",
+"pos": "adv",
+"zh_tw": "或許",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "problem",
+"pos": "n",
+"zh_tw": "問題",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "produce",
+"pos": "v",
+"zh_tw": "製造",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "production",
+"pos": "n",
+"zh_tw": "製造",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "professor",
+"pos": "n",
+"zh_tw": "教授",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "program",
+"pos": "n",
+"zh_tw": "節目",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "progress",
+"pos": "n",
+"zh_tw": "進步",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "project",
+"pos": "n",
+"zh_tw": "方案",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "promise",
+"pos": "n",
+"zh_tw": "承諾",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "pronounce",
+"pos": "v",
+"zh_tw": "發音",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "protect",
+"pos": "v",
+"zh_tw": "保護",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "proud",
+"pos": "adj",
+"zh_tw": "驕傲的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "prove",
+"pos": "v",
+"zh_tw": "證明",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "provide",
+"pos": "v",
+"zh_tw": "提供",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "public",
+"pos": "adj",
+"zh_tw": "公共的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "pull",
+"pos": "v",
+"zh_tw": "拉",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "pump",
+"pos": "n",
+"zh_tw": "抽水機",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "pumpkin",
+"pos": "n",
+"zh_tw": "南瓜",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "punish",
+"pos": "v",
+"zh_tw": "處罰",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "puppy",
+"pos": "n",
+"zh_tw": "小狗",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "purple",
+"pos": "adj",
+"zh_tw": "紫色的",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "purpose",
+"pos": "n",
+"zh_tw": "目的",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "purse",
+"pos": "n",
+"zh_tw": "錢包",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "push",
+"pos": "v",
+"zh_tw": "推",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "put",
+"pos": "v",
+"zh_tw": "放置",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "puzzle",
+"pos": "n",
+"zh_tw": "謎題",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "quality",
+"pos": "n",
+"zh_tw": "品質",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "quantity",
+"pos": "n",
+"zh_tw": "量",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "quarter",
+"pos": "n",
+"zh_tw": "四分之一",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "queen",
+"pos": "n",
+"zh_tw": "女王",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "question",
+"pos": "n",
+"zh_tw": "問題",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "quick",
+"pos": "adj",
+"zh_tw": "迅速的",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "quiet",
+"pos": "adj",
+"zh_tw": "安靜的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "quit",
+"pos": "v",
+"zh_tw": "停止",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "quite",
+"pos": "adv",
+"zh_tw": "相當地",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "quiz",
+"pos": "n",
+"zh_tw": "小考",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "rabbit",
+"pos": "n",
+"zh_tw": "兔子",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "race",
+"pos": "n",
+"zh_tw": "賽跑",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "radio",
+"pos": "n",
+"zh_tw": "收音機",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "railroad",
+"pos": "n",
+"zh_tw": "鐵路",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "rain",
+"pos": "n",
+"zh_tw": "雨",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "rainbow",
+"pos": "n",
+"zh_tw": "彩虹",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "rainy",
+"pos": "adj",
+"zh_tw": "多雨的",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "raise",
+"pos": "v",
+"zh_tw": "增加",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "range",
+"pos": "n",
+"zh_tw": "範圍",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "rare",
+"pos": "adj",
+"zh_tw": "稀少的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "rat",
+"pos": "n",
+"zh_tw": "老鼠",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "rather",
+"pos": "adv",
+"zh_tw": "稍微",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "reach",
+"pos": "v",
+"zh_tw": "到達",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "read",
+"pos": "v",
+"zh_tw": "閱讀",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "ready",
+"pos": "adj",
+"zh_tw": "準備好的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "real",
+"pos": "adj",
+"zh_tw": "真的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "realize",
+"pos": "v",
+"zh_tw": "瞭解",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "really",
+"pos": "adv",
+"zh_tw": "真實地",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "reason",
+"pos": "n",
+"zh_tw": "理由",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "receive",
+"pos": "v",
+"zh_tw": "收到",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "recently",
+"pos": "adv",
+"zh_tw": "最近",
+"level": 2,
+"topic": "time"
+},
+{
+"word": "record",
+"pos": "n",
+"zh_tw": "記錄",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "recover",
+"pos": "v",
+"zh_tw": "康復",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "rectangle",
+"pos": "n",
+"zh_tw": "長方形",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "recycle",
+"pos": "v",
+"zh_tw": "回收",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "red",
+"pos": "adj",
+"zh_tw": "紅色的",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "reduce",
+"pos": "v",
+"zh_tw": "減少",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "refrigerator",
+"pos": "n",
+"zh_tw": "冰箱",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "refuse",
+"pos": "v",
+"zh_tw": "拒絕",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "regard",
+"pos": "v",
+"zh_tw": "認為",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "regret",
+"pos": "n",
+"zh_tw": "後悔",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "regular",
+"pos": "adj",
+"zh_tw": "規律的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "reject",
+"pos": "v",
+"zh_tw": "拒絕",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "relation",
+"pos": "n",
+"zh_tw": "關係",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "relationship",
+"pos": "n",
+"zh_tw": "關係",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "relative",
+"pos": "n",
+"zh_tw": "親戚",
+"level": 2,
+"topic": "family"
+},
+{
+"word": "relaxed",
+"pos": "adj",
+"zh_tw": "放鬆的",
+"level": 2,
+"topic": "emotion"
+},
+{
+"word": "remember",
+"pos": "v",
+"zh_tw": "記得",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "remind",
+"pos": "v",
+"zh_tw": "提醒",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "rent",
+"pos": "v",
+"zh_tw": "租借",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "repair",
+"pos": "v",
+"zh_tw": "修理",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "repeat",
+"pos": "v",
+"zh_tw": "重複",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "reply",
+"pos": "v",
+"zh_tw": "回應",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "report",
+"pos": "n",
+"zh_tw": "報告",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "reporter",
+"pos": "n",
+"zh_tw": "記者",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "require",
+"pos": "v",
+"zh_tw": "需要",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "respect",
+"pos": "n",
+"zh_tw": "尊重",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "responsible",
+"pos": "adj",
+"zh_tw": "有責任 的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "rest",
+"pos": "n",
+"zh_tw": "休息",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "restaurant",
+"pos": "n",
+"zh_tw": "餐廳",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "restroom",
+"pos": "n",
+"zh_tw": "洗手間",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "result",
+"pos": "n",
+"zh_tw": "結果",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "return",
+"pos": "v",
+"zh_tw": "歸來",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "review",
+"pos": "v",
+"zh_tw": "複習",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "revise",
+"pos": "v",
+"zh_tw": "改變",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "rice",
+"pos": "n",
+"zh_tw": "米",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "rich",
+"pos": "adj",
+"zh_tw": "有錢的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "ride",
+"pos": "v",
+"zh_tw": "騎",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "right",
+"pos": "adj",
+"zh_tw": "正確的",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "ring",
+"pos": "n",
+"zh_tw": "戒指",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "rise",
+"pos": "v",
+"zh_tw": "上升",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "river",
+"pos": "n",
+"zh_tw": "河流",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "road",
+"pos": "n",
+"zh_tw": "道路",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "rob",
+"pos": "v",
+"zh_tw": "搶劫",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "robot",
+"pos": "n",
+"zh_tw": "機器人",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "rock",
+"pos": "n",
+"zh_tw": "石塊",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "role",
+"pos": "n",
+"zh_tw": "角色",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "roll",
+"pos": "v",
+"zh_tw": "滾動",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "roof",
+"pos": "n",
+"zh_tw": "屋頂",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "room",
+"pos": "n",
+"zh_tw": "房間",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "root",
+"pos": "n",
+"zh_tw": "根",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "rope",
+"pos": "n",
+"zh_tw": "繩子",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "rose",
+"pos": "n",
+"zh_tw": "玫瑰",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "round",
+"pos": "adj",
+"zh_tw": "圓的",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "row",
+"pos": "n",
+"zh_tw": "一排",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "royal",
+"pos": "adj",
+"zh_tw": "皇室的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "rub",
+"pos": "v",
+"zh_tw": "摩擦",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "rubber",
+"pos": "n",
+"zh_tw": "橡膠",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "rude",
+"pos": "adj",
+"zh_tw": "粗魯的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "ruin",
+"pos": "v",
+"zh_tw": "毀壞",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "rule",
+"pos": "v",
+"zh_tw": "統治",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "ruler",
+"pos": "n",
+"zh_tw": "統治者；尺",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "run",
+"pos": "v",
+"zh_tw": "跑步",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "rush",
+"pos": "v",
+"zh_tw": "衝進",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "sad",
+"pos": "adj",
+"zh_tw": "悲傷的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "safe",
+"pos": "adj",
+"zh_tw": "安全的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "safety",
+"pos": "n",
+"zh_tw": "安全",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "sail",
+"pos": "v",
+"zh_tw": "航行",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "sailor",
+"pos": "n",
+"zh_tw": "水手",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "salad",
+"pos": "n",
+"zh_tw": "沙拉",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "sale",
+"pos": "n",
+"zh_tw": "出售",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "salt",
+"pos": "n",
+"zh_tw": "鹽",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "same",
+"pos": "adj",
+"zh_tw": "相同的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "sample",
+"pos": "n",
+"zh_tw": "樣品",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "sand",
+"pos": "n",
+"zh_tw": "沙",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "sandwich",
+"pos": "n",
+"zh_tw": "三明治",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "satisfy",
+"pos": "v",
+"zh_tw": "滿意",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "Saturday",
+"pos": "n",
+"zh_tw": "星期六",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "sauce",
+"pos": "n",
+"zh_tw": "醬料",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "save",
+"pos": "v",
+"zh_tw": "拯救",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "say",
+"pos": "v",
+"zh_tw": "說",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "scare",
+"pos": "v",
+"zh_tw": "(使)害怕",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "scarf",
+"pos": "n",
+"zh_tw": "圍巾",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "scene",
+"pos": "n",
+"zh_tw": "風景",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "scenery",
+"pos": "n",
+"zh_tw": "景色",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "schedule",
+"pos": "n",
+"zh_tw": "時間表",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "school",
+"pos": "n",
+"zh_tw": "學校",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "science",
+"pos": "n",
+"zh_tw": "科學",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "scientist",
+"pos": "n",
+"zh_tw": "科學家",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "scooter",
+"pos": "n",
+"zh_tw": "摩托車",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "score",
+"pos": "n",
+"zh_tw": "得分",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "screen",
+"pos": "n",
+"zh_tw": "螢幕",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "sea",
+"pos": "n",
+"zh_tw": "海",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "seafood",
+"pos": "n",
+"zh_tw": "海鮮",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "search",
+"pos": "v",
+"zh_tw": "搜索",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "season",
+"pos": "n",
+"zh_tw": "季節",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "seat",
+"pos": "n",
+"zh_tw": "座位",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "second",
+"pos": "adj",
+"zh_tw": "第二的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "secret",
+"pos": "n",
+"zh_tw": "祕密",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "secretary",
+"pos": "n",
+"zh_tw": "祕書",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "section",
+"pos": "n",
+"zh_tw": "部分",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "see",
+"pos": "v",
+"zh_tw": "看見",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "seed",
+"pos": "n",
+"zh_tw": "種子",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "seek",
+"pos": "v",
+"zh_tw": "尋找",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "seem",
+"pos": "v",
+"zh_tw": "似乎",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "seesaw",
+"pos": "n",
+"zh_tw": "蹺蹺板",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "seldom",
+"pos": "adv",
+"zh_tw": "不常",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "select",
+"pos": "v",
+"zh_tw": "挑選",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "self",
+"pos": "n",
+"zh_tw": "自我",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "selfish",
+"pos": "adj",
+"zh_tw": "自私的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "sell",
+"pos": "v",
+"zh_tw": "販賣",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "semester",
+"pos": "n",
+"zh_tw": "學期",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "send",
+"pos": "v",
+"zh_tw": "送",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "sense",
+"pos": "n",
+"zh_tw": "感覺官能",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "sentence",
+"pos": "n",
+"zh_tw": "句子",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "September",
+"pos": "n",
+"zh_tw": "九月",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "serious",
+"pos": "adj",
+"zh_tw": "嚴重的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "servant",
+"pos": "n",
+"zh_tw": "僕人",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "serve",
+"pos": "v",
+"zh_tw": "服務",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "service",
+"pos": "n",
+"zh_tw": "服務",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "set",
+"pos": "n",
+"zh_tw": "一套，一組",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "settle",
+"pos": "v",
+"zh_tw": "解決",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "seven",
+"pos": "n",
+"zh_tw": "七",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "seventeen",
+"pos": "n",
+"zh_tw": "十七",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "seventy",
+"pos": "n",
+"zh_tw": "七十",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "several",
+"pos": "adj",
+"zh_tw": "幾個的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "shake",
+"pos": "v",
+"zh_tw": "搖動",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "shall",
+"pos": "aux",
+"zh_tw": "將要",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "shape",
+"pos": "n",
+"zh_tw": "形狀",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "share",
+"pos": "v",
+"zh_tw": "分享",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "shark",
+"pos": "n",
+"zh_tw": "鯊魚",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "sharp",
+"pos": "adj",
+"zh_tw": "銳利的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "sheep",
+"pos": "n",
+"zh_tw": "羊",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "sheet",
+"pos": "n",
+"zh_tw": "床單",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "shelf",
+"pos": "n",
+"zh_tw": "架",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "shell",
+"pos": "n",
+"zh_tw": "貝殼",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "shine",
+"pos": "v",
+"zh_tw": "照耀",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "ship",
+"pos": "n",
+"zh_tw": "船",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "shirt",
+"pos": "n",
+"zh_tw": "襯衫",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "shock",
+"pos": "n",
+"zh_tw": "震驚",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "shoe",
+"pos": "n",
+"zh_tw": "鞋子",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "shoot",
+"pos": "v",
+"zh_tw": "射擊",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "shop",
+"pos": "n",
+"zh_tw": "商店",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "shore",
+"pos": "n",
+"zh_tw": "岸",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "short",
+"pos": "adj",
+"zh_tw": "短的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "shorts",
+"pos": "n",
+"zh_tw": "短褲",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "should",
+"pos": "aux",
+"zh_tw": "應該",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "shoulder",
+"pos": "n",
+"zh_tw": "肩膀",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "shout",
+"pos": "v",
+"zh_tw": "大聲喊叫",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "show",
+"pos": "v",
+"zh_tw": "展現",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "shower",
+"pos": "n",
+"zh_tw": "淋浴",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "shrimp",
+"pos": "n",
+"zh_tw": "蝦子",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "shut",
+"pos": "v",
+"zh_tw": "關閉",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "shy",
+"pos": "adj",
+"zh_tw": "害羞的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "sick",
+"pos": "adj",
+"zh_tw": "生病的",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "side",
+"pos": "n",
+"zh_tw": "面",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "sidewalk",
+"pos": "n",
+"zh_tw": "人行道",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "sight",
+"pos": "n",
+"zh_tw": "視力",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "sign",
+"pos": "v",
+"zh_tw": "示意",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "silence",
+"pos": "n",
+"zh_tw": "沉默",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "silent",
+"pos": "adj",
+"zh_tw": "沉默的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "silk",
+"pos": "n",
+"zh_tw": "絲",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "silly",
+"pos": "adj",
+"zh_tw": "傻的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "silver",
+"pos": "n",
+"zh_tw": "銀",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "similar",
+"pos": "adj",
+"zh_tw": "相似的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "simple",
+"pos": "adj",
+"zh_tw": "簡單的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "simply",
+"pos": "adv",
+"zh_tw": "簡單地",
+"level": 2,
+"topic": "adverb"
+},
+{
+"word": "since",
+"pos": "prep",
+"zh_tw": "從…時起",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "sincere",
+"pos": "adj",
+"zh_tw": "真誠的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "sing",
+"pos": "v",
+"zh_tw": "唱歌",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "singer",
+"pos": "n",
+"zh_tw": "歌手",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "single",
+"pos": "adj",
+"zh_tw": "單一的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "sink",
+"pos": "v",
+"zh_tw": "沉",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "sir",
+"pos": "n",
+"zh_tw": "先生",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "sister",
+"pos": "n",
+"zh_tw": "姊妹",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "sit",
+"pos": "v",
+"zh_tw": "坐",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "situation",
+"pos": "n",
+"zh_tw": "情況",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "six",
+"pos": "n",
+"zh_tw": "六",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "sixteen",
+"pos": "n",
+"zh_tw": "十六",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "sixty",
+"pos": "n",
+"zh_tw": "六十",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "size",
+"pos": "n",
+"zh_tw": "尺碼",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "skate",
+"pos": "v",
+"zh_tw": "溜冰",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "ski",
+"pos": "v",
+"zh_tw": "滑雪",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "skill",
+"pos": "n",
+"zh_tw": "技巧",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "skillful",
+"pos": "adj",
+"zh_tw": "熟練的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "skin",
+"pos": "n",
+"zh_tw": "皮膚",
+"level": 2,
+"topic": "body"
+},
+{
+"word": "skinny",
+"pos": "adj",
+"zh_tw": "皮包骨的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "skirt",
+"pos": "n",
+"zh_tw": "裙子",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "sky",
+"pos": "n",
+"zh_tw": "天空",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "sleep",
+"pos": "v",
+"zh_tw": "睡覺",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "sleepy",
+"pos": "adj",
+"zh_tw": "想睡的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "slender",
+"pos": "adj",
+"zh_tw": "纖細的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "slide",
+"pos": "v",
+"zh_tw": "滑動",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "slim",
+"pos": "adj",
+"zh_tw": "苗條的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "slippers",
+"pos": "n",
+"zh_tw": "拖鞋",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "slow",
+"pos": "adj",
+"zh_tw": "緩慢的",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "small",
+"pos": "adj",
+"zh_tw": "小的",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "smart",
+"pos": "adj",
+"zh_tw": "聰明的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "smell",
+"pos": "v",
+"zh_tw": "聞",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "smile",
+"pos": "v",
+"zh_tw": "微笑",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "smoke",
+"pos": "n",
+"zh_tw": "煙",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "snack",
+"pos": "n",
+"zh_tw": "點心",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "snail",
+"pos": "n",
+"zh_tw": "蝸牛",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "snake",
+"pos": "n",
+"zh_tw": "蛇",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "sneakers",
+"pos": "n",
+"zh_tw": "運動鞋",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "snow",
+"pos": "n",
+"zh_tw": "雪",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "snowy",
+"pos": "adj",
+"zh_tw": "下雪多的",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "so",
+"pos": "adv",
+"zh_tw": "如此",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "soap",
+"pos": "n",
+"zh_tw": "肥皂",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "soccer",
+"pos": "n",
+"zh_tw": "足球",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "social",
+"pos": "adj",
+"zh_tw": "社會的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "society",
+"pos": "n",
+"zh_tw": "社會",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "sock",
+"pos": "n",
+"zh_tw": "襪子",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "soda",
+"pos": "n",
+"zh_tw": "汽水",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "sofa",
+"pos": "n",
+"zh_tw": "沙發",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "soft",
+"pos": "adj",
+"zh_tw": "軟的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "soldier",
+"pos": "n",
+"zh_tw": "士兵",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "solve",
+"pos": "v",
+"zh_tw": "解決",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "some",
+"pos": "adj",
+"zh_tw": "一些的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "someone",
+"pos": "pron",
+"zh_tw": "某人",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "something",
+"pos": "n",
+"zh_tw": "某事",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "sometimes",
+"pos": "adv",
+"zh_tw": "有時候",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "somewhere",
+"pos": "adv",
+"zh_tw": "在某處",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "son",
+"pos": "n",
+"zh_tw": "兒子",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "song",
+"pos": "n",
+"zh_tw": "歌",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "soon",
+"pos": "adv",
+"zh_tw": "不久",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "sore",
+"pos": "adj",
+"zh_tw": "疼痛的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "sorry",
+"pos": "adj",
+"zh_tw": "感到抱歉的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "soul",
+"pos": "n",
+"zh_tw": "靈魂",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "sound",
+"pos": "v",
+"zh_tw": "聽起來",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "soup",
+"pos": "n",
+"zh_tw": "湯",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "sour",
+"pos": "adj",
+"zh_tw": "酸的",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "source",
+"pos": "n",
+"zh_tw": "出處",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "south",
+"pos": "n",
+"zh_tw": "南方",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "soy",
+"pos": "n",
+"zh_tw": "醬油",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "space",
+"pos": "n",
+"zh_tw": "空間",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "spaghetti",
+"pos": "n",
+"zh_tw": "義大利麵",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "speak",
+"pos": "v",
+"zh_tw": "講話",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "speaker",
+"pos": "n",
+"zh_tw": "演講者",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "special",
+"pos": "adj",
+"zh_tw": "特別的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "speech",
+"pos": "n",
+"zh_tw": "演講",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "speed",
+"pos": "n",
+"zh_tw": "速度",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "spell",
+"pos": "v",
+"zh_tw": "拼寫",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "spend",
+"pos": "v",
+"zh_tw": "花費(時間)",
+"level": 1,
+"topic": "money"
+},
+{
+"word": "spider",
+"pos": "n",
+"zh_tw": "蜘蛛",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "spirit",
+"pos": "n",
+"zh_tw": "精神",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "spoon",
+"pos": "n",
+"zh_tw": "湯匙",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "sport",
+"pos": "n",
+"zh_tw": "體育活動",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "spring",
+"pos": "n",
+"zh_tw": "春天",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "square",
+"pos": "n",
+"zh_tw": "廣場",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "stage",
+"pos": "n",
+"zh_tw": "舞臺",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "stair",
+"pos": "n",
+"zh_tw": "樓梯",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "stamp",
+"pos": "n",
+"zh_tw": "郵票",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "stand",
+"pos": "v",
+"zh_tw": "站起來",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "star",
+"pos": "n",
+"zh_tw": "星星",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "start",
+"pos": "v",
+"zh_tw": "開始",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "state",
+"pos": "v",
+"zh_tw": "敘述",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "station",
+"pos": "n",
+"zh_tw": "車站",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "stationery",
+"pos": "n",
+"zh_tw": "文具",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "stay",
+"pos": "v",
+"zh_tw": "停留",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "steak",
+"pos": "n",
+"zh_tw": "牛排",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "steal",
+"pos": "v",
+"zh_tw": "偷竊",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "steam",
+"pos": "n",
+"zh_tw": "蒸汽",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "step",
+"pos": "v",
+"zh_tw": "行走",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "still",
+"pos": "adv",
+"zh_tw": "仍然",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "stingy",
+"pos": "adj",
+"zh_tw": "小氣的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "stomach",
+"pos": "n",
+"zh_tw": "胃",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "stomachache",
+"pos": "n",
+"zh_tw": "胃痛",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "stone",
+"pos": "n",
+"zh_tw": "石頭",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "stop",
+"pos": "v",
+"zh_tw": "停",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "store",
+"pos": "n",
+"zh_tw": "商店",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "storm",
+"pos": "n",
+"zh_tw": "暴風雨",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "story",
+"pos": "n",
+"zh_tw": "故事",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "stove",
+"pos": "n",
+"zh_tw": "火爐",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "straight",
+"pos": "adj",
+"zh_tw": "直的",
+"level": 1,
+"topic": "measure"
+},
+{
+"word": "strange",
+"pos": "adj",
+"zh_tw": "奇怪的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "stranger",
+"pos": "n",
+"zh_tw": "陌生人",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "straw",
+"pos": "n",
+"zh_tw": "稻草",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "strawberry",
+"pos": "n",
+"zh_tw": "草莓",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "stream",
+"pos": "n",
+"zh_tw": "小河",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "street",
+"pos": "n",
+"zh_tw": "街道",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "stress",
+"pos": "n",
+"zh_tw": "壓力",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "strict",
+"pos": "adj",
+"zh_tw": "嚴格的",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "strike",
+"pos": "n",
+"zh_tw": "罷工",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "strong",
+"pos": "adj",
+"zh_tw": "強壯的",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "student",
+"pos": "n",
+"zh_tw": "學生",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "study",
+"pos": "v",
+"zh_tw": "學習",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "stupid",
+"pos": "adj",
+"zh_tw": "笨的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "style",
+"pos": "n",
+"zh_tw": "風格",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "subject",
+"pos": "n",
+"zh_tw": "科目",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "subway",
+"pos": "n",
+"zh_tw": "地鐵",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "succeed",
+"pos": "v",
+"zh_tw": "成功",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "success",
+"pos": "n",
+"zh_tw": "成功",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "successful",
+"pos": "adj",
+"zh_tw": "成功的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "such",
+"pos": "det",
+"zh_tw": "如此的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "sudden",
+"pos": "adj",
+"zh_tw": "突然的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "sugar",
+"pos": "n",
+"zh_tw": "糖",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "suggest",
+"pos": "v",
+"zh_tw": "建議",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "suit",
+"pos": "v",
+"zh_tw": "適合",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "summer",
+"pos": "n",
+"zh_tw": "夏天",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "sun",
+"pos": "n",
+"zh_tw": "太陽",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "Sunday",
+"pos": "n",
+"zh_tw": "星期天",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "sunny",
+"pos": "adj",
+"zh_tw": "陽光充足的",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "super",
+"pos": "adj",
+"zh_tw": "極好的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "supermarket",
+"pos": "n",
+"zh_tw": "超市",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "supper",
+"pos": "n",
+"zh_tw": "晚餐",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "supply",
+"pos": "v",
+"zh_tw": "提供",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "support",
+"pos": "v",
+"zh_tw": "支持",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "suppose",
+"pos": "v",
+"zh_tw": "假設；應該",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "sure",
+"pos": "adj",
+"zh_tw": "確定的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "surf",
+"pos": "v",
+"zh_tw": "衝浪",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "surface",
+"pos": "n",
+"zh_tw": "表面",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "surprise",
+"pos": "v",
+"zh_tw": "驚訝",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "surprised",
+"pos": "adj",
+"zh_tw": "感到驚訝 的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "survive",
+"pos": "v",
+"zh_tw": "生存",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "swallow",
+"pos": "v",
+"zh_tw": "吞嚥",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "swan",
+"pos": "n",
+"zh_tw": "天鵝",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "sweater",
+"pos": "n",
+"zh_tw": "毛衣",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "sweep",
+"pos": "v",
+"zh_tw": "清掃",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "sweet",
+"pos": "adj",
+"zh_tw": "甜的",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "swim",
+"pos": "v",
+"zh_tw": "游泳",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "swing",
+"pos": "v",
+"zh_tw": "搖擺",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "symbol",
+"pos": "n",
+"zh_tw": "象徵",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "system",
+"pos": "n",
+"zh_tw": "系統",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "table",
+"pos": "n",
+"zh_tw": "桌子",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "tail",
+"pos": "n",
+"zh_tw": "尾巴",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "take",
+"pos": "v",
+"zh_tw": "拿",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "tale",
+"pos": "n",
+"zh_tw": "故事",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "talent",
+"pos": "n",
+"zh_tw": "才能",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "talk",
+"pos": "v",
+"zh_tw": "說話",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "talkative",
+"pos": "adj",
+"zh_tw": "多話的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "tall",
+"pos": "adj",
+"zh_tw": "高的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "tangerine",
+"pos": "n",
+"zh_tw": "橘子",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "tank",
+"pos": "n",
+"zh_tw": "坦克",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "tape",
+"pos": "n",
+"zh_tw": "錄音帶",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "task",
+"pos": "n",
+"zh_tw": "任務",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "taste",
+"pos": "n",
+"zh_tw": "味道",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "taxi",
+"pos": "n",
+"zh_tw": "計程車",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "tea",
+"pos": "n",
+"zh_tw": "茶",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "teach",
+"pos": "v",
+"zh_tw": "教導",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "teacher",
+"pos": "n",
+"zh_tw": "老師",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "team",
+"pos": "n",
+"zh_tw": "隊伍",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "teapot",
+"pos": "n",
+"zh_tw": "茶壺",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "tear",
+"pos": "n",
+"zh_tw": "眼淚",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "technology",
+"pos": "n",
+"zh_tw": "科技",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "teenager",
+"pos": "n",
+"zh_tw": "青少年",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "telephone",
+"pos": "n",
+"zh_tw": "電話",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "television",
+"pos": "n",
+"zh_tw": "電視",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "tell",
+"pos": "v",
+"zh_tw": "說",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "temperature",
+"pos": "n",
+"zh_tw": "溫度",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "temple",
+"pos": "n",
+"zh_tw": "廟宇",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "ten",
+"pos": "n",
+"zh_tw": "十",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "tennis",
+"pos": "n",
+"zh_tw": "網球",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "tent",
+"pos": "n",
+"zh_tw": "帳篷",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "term",
+"pos": "n",
+"zh_tw": "任期",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "terrible",
+"pos": "adj",
+"zh_tw": "可怕的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "terrific",
+"pos": "adj",
+"zh_tw": "很棒的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "test",
+"pos": "n",
+"zh_tw": "測驗",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "textbook",
+"pos": "n",
+"zh_tw": "教科書",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "than",
+"pos": "conj",
+"zh_tw": "比…",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "thank",
+"pos": "v",
+"zh_tw": "謝謝",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "Thanksgiving",
+"pos": "n",
+"zh_tw": "感恩節",
+"level": 2,
+"topic": "festival"
+},
+{
+"word": "that",
+"pos": "pron",
+"zh_tw": "那",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "theater",
+"pos": "n",
+"zh_tw": "電影院",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "then",
+"pos": "adv",
+"zh_tw": "然後",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "there",
+"pos": "adv",
+"zh_tw": "那裡",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "therefore",
+"pos": "adv",
+"zh_tw": "因此",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "these",
+"pos": "pron",
+"zh_tw": "這些",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "thick",
+"pos": "adj",
+"zh_tw": "厚的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "thief",
+"pos": "n",
+"zh_tw": "小偷",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "thin",
+"pos": "adj",
+"zh_tw": "薄的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "thing",
+"pos": "n",
+"zh_tw": "事情",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "think",
+"pos": "v",
+"zh_tw": "想",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "third",
+"pos": "adj",
+"zh_tw": "第三的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "thirsty",
+"pos": "adj",
+"zh_tw": "口渴的",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "thirteen",
+"pos": "n",
+"zh_tw": "十三",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "thirty",
+"pos": "n",
+"zh_tw": "三十",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "this",
+"pos": "pron",
+"zh_tw": "這",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "those",
+"pos": "pron",
+"zh_tw": "那些",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "though",
+"pos": "conj",
+"zh_tw": "雖然",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "thought",
+"pos": "n",
+"zh_tw": "想法",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "thousand",
+"pos": "n",
+"zh_tw": "千",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "three",
+"pos": "n",
+"zh_tw": "三",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "throat",
+"pos": "n",
+"zh_tw": "喉嚨",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "through",
+"pos": "adv",
+"zh_tw": "自始至終",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "throughout",
+"pos": "prep",
+"zh_tw": "遍及",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "throw",
+"pos": "v",
+"zh_tw": "投，扔",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "thumb",
+"pos": "n",
+"zh_tw": "拇指",
+"level": 2,
+"topic": "body"
+},
+{
+"word": "thunder",
+"pos": "n",
+"zh_tw": "雷",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "Thursday",
+"pos": "n",
+"zh_tw": "星期四",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "ticket",
+"pos": "n",
+"zh_tw": "票",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "tidy",
+"pos": "adj",
+"zh_tw": "整潔的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "tie",
+"pos": "n",
+"zh_tw": "領帶",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "tiger",
+"pos": "n",
+"zh_tw": "老虎",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "till",
+"pos": "conj",
+"zh_tw": "直到",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "time",
+"pos": "n",
+"zh_tw": "時間",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "tiny",
+"pos": "adj",
+"zh_tw": "極小的",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "tip",
+"pos": "n",
+"zh_tw": "祕訣",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "tired",
+"pos": "adj",
+"zh_tw": "疲倦的",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "title",
+"pos": "n",
+"zh_tw": "標題",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "to",
+"pos": "prep",
+"zh_tw": "向，朝",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "toast",
+"pos": "n",
+"zh_tw": "吐司",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "today",
+"pos": "n",
+"zh_tw": "今天",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "toe",
+"pos": "n",
+"zh_tw": "腳趾頭",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "tofu",
+"pos": "n",
+"zh_tw": "豆腐",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "together",
+"pos": "adv",
+"zh_tw": "一起",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "toilet",
+"pos": "n",
+"zh_tw": "馬桶",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "tomato",
+"pos": "n",
+"zh_tw": "番茄",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "tomorrow",
+"pos": "n",
+"zh_tw": "明天",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "tongue",
+"pos": "n",
+"zh_tw": "舌頭",
+"level": 2,
+"topic": "body"
+},
+{
+"word": "tonight",
+"pos": "n",
+"zh_tw": "今晚",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "too",
+"pos": "adv",
+"zh_tw": "也",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "tool",
+"pos": "n",
+"zh_tw": "工具",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "tooth",
+"pos": "n",
+"zh_tw": "牙齒",
+"level": 1,
+"topic": "body"
+},
+{
+"word": "toothache",
+"pos": "n",
+"zh_tw": "牙痛",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "toothbrush",
+"pos": "n",
+"zh_tw": "牙刷",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "top",
+"pos": "n",
+"zh_tw": "上面",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "topic",
+"pos": "n",
+"zh_tw": "主題",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "total",
+"pos": "adj",
+"zh_tw": "完全的",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "touch",
+"pos": "v",
+"zh_tw": "感動",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "toward",
+"pos": "prep",
+"zh_tw": "朝",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "towel",
+"pos": "n",
+"zh_tw": "毛巾",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "tower",
+"pos": "n",
+"zh_tw": "塔",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "town",
+"pos": "n",
+"zh_tw": "城鎮",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "toy",
+"pos": "n",
+"zh_tw": "玩具",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "trace",
+"pos": "n",
+"zh_tw": "蹤跡",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "track",
+"pos": "v",
+"zh_tw": "跟蹤",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "trade",
+"pos": "n",
+"zh_tw": "貿易",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "tradition",
+"pos": "n",
+"zh_tw": "傳統",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "traditional",
+"pos": "adj",
+"zh_tw": "傳統的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "traffic",
+"pos": "n",
+"zh_tw": "交通",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "train",
+"pos": "n",
+"zh_tw": "訓練",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "trap",
+"pos": "n",
+"zh_tw": "陷阱",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "trash",
+"pos": "n",
+"zh_tw": "垃圾",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "travel",
+"pos": "v",
+"zh_tw": "旅行",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "treasure",
+"pos": "n",
+"zh_tw": "寶藏",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "treat",
+"pos": "v",
+"zh_tw": "對待",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "tree",
+"pos": "n",
+"zh_tw": "樹",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "triangle",
+"pos": "n",
+"zh_tw": "三角形",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "trick",
+"pos": "n",
+"zh_tw": "惡作劇",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "trip",
+"pos": "n",
+"zh_tw": "旅行",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "trouble",
+"pos": "n",
+"zh_tw": "麻煩",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "trousers",
+"pos": "n",
+"zh_tw": "褲子",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "truck",
+"pos": "n",
+"zh_tw": "卡車",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "true",
+"pos": "adj",
+"zh_tw": "真的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "trumpet",
+"pos": "n",
+"zh_tw": "喇叭",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "trust",
+"pos": "v",
+"zh_tw": "相信",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "truth",
+"pos": "n",
+"zh_tw": "事實",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "try",
+"pos": "v",
+"zh_tw": "試圖",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "tube",
+"pos": "n",
+"zh_tw": "管子",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "Tuesday",
+"pos": "n",
+"zh_tw": "星期二",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "Tunnel",
+"pos": "n",
+"zh_tw": "隧道",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "turkey",
+"pos": "n",
+"zh_tw": "火雞",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "turn",
+"pos": "v",
+"zh_tw": "轉彎",
+"level": 1,
+"topic": "transport"
+},
+{
+"word": "turtle",
+"pos": "n",
+"zh_tw": "烏龜",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "twelve",
+"pos": "n",
+"zh_tw": "十二",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "twenty",
+"pos": "n",
+"zh_tw": "二十",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "twice",
+"pos": "adv",
+"zh_tw": "兩次",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "two",
+"pos": "n",
+"zh_tw": "二",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "type",
+"pos": "v",
+"zh_tw": "打字",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "typhoon",
+"pos": "n",
+"zh_tw": "颱風",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "typical",
+"pos": "adj",
+"zh_tw": "典型的",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "ugly",
+"pos": "adj",
+"zh_tw": "醜陋的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "umbrella",
+"pos": "n",
+"zh_tw": "雨傘",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "uncle",
+"pos": "n",
+"zh_tw": "叔伯",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "under",
+"pos": "prep",
+"zh_tw": "在…下面",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "underline",
+"pos": "v",
+"zh_tw": "強調",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "understand",
+"pos": "v",
+"zh_tw": "了解",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "underwear",
+"pos": "n",
+"zh_tw": "內衣褲",
+"level": 2,
+"topic": "clothes"
+},
+{
+"word": "unfortunately",
+"pos": "adv",
+"zh_tw": "不幸地",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "unhappy",
+"pos": "adj",
+"zh_tw": "不快樂的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "uniform",
+"pos": "n",
+"zh_tw": "制服",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "unique",
+"pos": "adj",
+"zh_tw": "獨一無二的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "universe",
+"pos": "n",
+"zh_tw": "宇宙",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "university",
+"pos": "n",
+"zh_tw": "大學",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "until",
+"pos": "prep",
+"zh_tw": "直到…",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "up",
+"pos": "adv",
+"zh_tw": "向上",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "upper",
+"pos": "adj",
+"zh_tw": "上面的",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "upset",
+"pos": "adj",
+"zh_tw": "心煩的",
+"level": 2,
+"topic": "emotion"
+},
+{
+"word": "upstairs",
+"pos": "adv",
+"zh_tw": "在樓上",
+"level": 2,
+"topic": "home"
+},
+{
+"word": "use",
+"pos": "v",
+"zh_tw": "使用",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "useful",
+"pos": "adj",
+"zh_tw": "有用的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "user",
+"pos": "n",
+"zh_tw": "使用者",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "usual",
+"pos": "adj",
+"zh_tw": "通常的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "usually",
+"pos": "adv",
+"zh_tw": "通常",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "vacation",
+"pos": "n",
+"zh_tw": "假期",
+"level": 1,
+"topic": "festival"
+},
+{
+"word": "valley",
+"pos": "n",
+"zh_tw": "山谷",
+"level": 2,
+"topic": "nature"
+},
+{
+"word": "valuable",
+"pos": "adj",
+"zh_tw": "有價值的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "value",
+"pos": "n",
+"zh_tw": "價值",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "various",
+"pos": "adj",
+"zh_tw": "各種的",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "vegetable",
+"pos": "n",
+"zh_tw": "蔬菜",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "vendor",
+"pos": "n",
+"zh_tw": "攤販",
+"level": 2,
+"topic": "job"
+},
+{
+"word": "very",
+"pos": "adv",
+"zh_tw": "非常",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "vest",
+"pos": "n",
+"zh_tw": "背心",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "victory",
+"pos": "n",
+"zh_tw": "勝利",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "video",
+"pos": "n",
+"zh_tw": "錄影帶",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "view",
+"pos": "n/v",
+"zh_tw": "觀點；看",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "village",
+"pos": "n",
+"zh_tw": "村莊",
+"level": 2,
+"topic": "place"
+},
+{
+"word": "vinegar",
+"pos": "n",
+"zh_tw": "醋",
+"level": 2,
+"topic": "food"
+},
+{
+"word": "violin",
+"pos": "n",
+"zh_tw": "小提琴",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "visit",
+"pos": "v",
+"zh_tw": "探訪",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "visitor",
+"pos": "n",
+"zh_tw": "訪客",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "vocabulary",
+"pos": "n",
+"zh_tw": "字彙",
+"level": 2,
+"topic": "school"
+},
+{
+"word": "voice",
+"pos": "n",
+"zh_tw": "聲音",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "volleyball",
+"pos": "n",
+"zh_tw": "排球",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "volunteer",
+"pos": "n/v",
+"zh_tw": "志工；自願",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "vote",
+"pos": "v",
+"zh_tw": "投票",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "waist",
+"pos": "n",
+"zh_tw": "腰",
+"level": 2,
+"topic": "body"
+},
+{
+"word": "wait",
+"pos": "v",
+"zh_tw": "等待",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "waiter",
+"pos": "n",
+"zh_tw": "服務生",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "waitress",
+"pos": "n",
+"zh_tw": "女服務生",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "wake",
+"pos": "v",
+"zh_tw": "醒",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "walk",
+"pos": "v",
+"zh_tw": "走",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "wall",
+"pos": "n",
+"zh_tw": "牆壁",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "wallet",
+"pos": "n",
+"zh_tw": "皮夾",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "want",
+"pos": "v",
+"zh_tw": "想要",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "war",
+"pos": "n",
+"zh_tw": "戰爭",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "warm",
+"pos": "adj",
+"zh_tw": "暖和的",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "wash",
+"pos": "v",
+"zh_tw": "洗滌",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "waste",
+"pos": "v",
+"zh_tw": "浪費",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "watch",
+"pos": "n",
+"zh_tw": "手錶",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "water",
+"pos": "n",
+"zh_tw": "水",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "waterfall",
+"pos": "n",
+"zh_tw": "瀑布",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "watermelon",
+"pos": "n",
+"zh_tw": "西瓜",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "wave",
+"pos": "n",
+"zh_tw": "波浪",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "way",
+"pos": "n",
+"zh_tw": "方式",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "weak",
+"pos": "adj",
+"zh_tw": "虛弱的",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "weapon",
+"pos": "n",
+"zh_tw": "武器",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "wear",
+"pos": "v",
+"zh_tw": "穿戴著",
+"level": 1,
+"topic": "clothes"
+},
+{
+"word": "weather",
+"pos": "n",
+"zh_tw": "天氣",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "wedding",
+"pos": "n",
+"zh_tw": "結婚儀式",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "Wednesday",
+"pos": "n",
+"zh_tw": "星期三",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "week",
+"pos": "n",
+"zh_tw": "週",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "weekday",
+"pos": "n",
+"zh_tw": "平日",
+"level": 2,
+"topic": "time"
+},
+{
+"word": "weekend",
+"pos": "n",
+"zh_tw": "週末",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "weight",
+"pos": "n",
+"zh_tw": "重量",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "welcome",
+"pos": "v",
+"zh_tw": "歡迎",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "well",
+"pos": "adv",
+"zh_tw": "很好地",
+"level": 1,
+"topic": "health"
+},
+{
+"word": "west",
+"pos": "n",
+"zh_tw": "西方",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "wet",
+"pos": "adj",
+"zh_tw": "溼的",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "whale",
+"pos": "n",
+"zh_tw": "鯨魚",
+"level": 1,
+"topic": "animal"
+},
+{
+"word": "what",
+"pos": "pron",
+"zh_tw": "什麼",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "wheel",
+"pos": "n",
+"zh_tw": "車輪",
+"level": 2,
+"topic": "transport"
+},
+{
+"word": "when",
+"pos": "pron",
+"zh_tw": "何時",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "where",
+"pos": "pron",
+"zh_tw": "哪裡",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "whether",
+"pos": "conj",
+"zh_tw": "是否",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "which",
+"pos": "pron",
+"zh_tw": "哪個",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "while",
+"pos": "conj",
+"zh_tw": "當…時候",
+"level": 2,
+"topic": "func"
+},
+{
+"word": "white",
+"pos": "adj",
+"zh_tw": "白色的",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "who",
+"pos": "pron",
+"zh_tw": "誰",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "whole",
+"pos": "adj",
+"zh_tw": "全體的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "whose",
+"pos": "pron",
+"zh_tw": "誰的",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "why",
+"pos": "adv",
+"zh_tw": "為何",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "wide",
+"pos": "adj",
+"zh_tw": "廣大的",
+"level": 2,
+"topic": "measure"
+},
+{
+"word": "widely",
+"pos": "adv",
+"zh_tw": "廣泛地",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "wife",
+"pos": "n",
+"zh_tw": "妻子",
+"level": 1,
+"topic": "family"
+},
+{
+"word": "wild",
+"pos": "adj",
+"zh_tw": "野生的",
+"level": 2,
+"topic": "describe"
+},
+{
+"word": "will",
+"pos": "aux",
+"zh_tw": "將要",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "willing",
+"pos": "adj",
+"zh_tw": "願意的",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "win",
+"pos": "v",
+"zh_tw": "獲勝",
+"level": 1,
+"topic": "sport"
+},
+{
+"word": "wind",
+"pos": "n",
+"zh_tw": "風",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "window",
+"pos": "n",
+"zh_tw": "窗戶",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "windy",
+"pos": "adj",
+"zh_tw": "風大的",
+"level": 1,
+"topic": "nature"
+},
+{
+"word": "wine",
+"pos": "n",
+"zh_tw": "酒",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "wing",
+"pos": "n",
+"zh_tw": "翅膀",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "winner",
+"pos": "n",
+"zh_tw": "優勝者",
+"level": 2,
+"topic": "sport"
+},
+{
+"word": "winter",
+"pos": "n",
+"zh_tw": "冬天",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "wire",
+"pos": "n",
+"zh_tw": "電線",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "wisdom",
+"pos": "n",
+"zh_tw": "智慧",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "wise",
+"pos": "adj",
+"zh_tw": "明智的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "wish",
+"pos": "v",
+"zh_tw": "希望",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "with",
+"pos": "prep",
+"zh_tw": "有；用",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "within",
+"pos": "prep",
+"zh_tw": "在…之內",
+"level": 2,
+"topic": "daily"
+},
+{
+"word": "without",
+"pos": "prep",
+"zh_tw": "沒有",
+"level": 1,
+"topic": "func"
+},
+{
+"word": "wolf",
+"pos": "n",
+"zh_tw": "狼",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "woman",
+"pos": "n",
+"zh_tw": "女人",
+"level": 1,
+"topic": "person"
+},
+{
+"word": "wonder",
+"pos": "v",
+"zh_tw": "驚訝",
+"level": 2,
+"topic": "action"
+},
+{
+"word": "wonderful",
+"pos": "adj",
+"zh_tw": "極好的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "wood",
+"pos": "n",
+"zh_tw": "木頭",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "wool",
+"pos": "n",
+"zh_tw": "羊毛",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "word",
+"pos": "n",
+"zh_tw": "字",
+"level": 1,
+"topic": "thing"
+},
+{
+"word": "work",
+"pos": "v",
+"zh_tw": "工作",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "worker",
+"pos": "n",
+"zh_tw": "工人",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "world",
+"pos": "n",
+"zh_tw": "世界",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "worm",
+"pos": "n",
+"zh_tw": "蟲",
+"level": 2,
+"topic": "animal"
+},
+{
+"word": "worry",
+"pos": "v",
+"zh_tw": "擔心",
+"level": 1,
+"topic": "action"
+},
+{
+"word": "worth",
+"pos": "n",
+"zh_tw": "價值",
+"level": 2,
+"topic": "thing"
+},
+{
+"word": "wound",
+"pos": "n",
+"zh_tw": "受傷",
+"level": 2,
+"topic": "health"
+},
+{
+"word": "wrist",
+"pos": "n",
+"zh_tw": "手腕",
+"level": 2,
+"topic": "body"
+},
+{
+"word": "write",
+"pos": "v",
+"zh_tw": "寫",
+"level": 1,
+"topic": "school"
+},
+{
+"word": "writer",
+"pos": "n",
+"zh_tw": "作者",
+"level": 1,
+"topic": "job"
+},
+{
+"word": "wrong",
+"pos": "adj",
+"zh_tw": "不對的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "yard",
+"pos": "n",
+"zh_tw": "院子",
+"level": 1,
+"topic": "home"
+},
+{
+"word": "year",
+"pos": "n",
+"zh_tw": "年",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "yellow",
+"pos": "adj",
+"zh_tw": "黃色的",
+"level": 1,
+"topic": "color"
+},
+{
+"word": "yes",
+"pos": "adv",
+"zh_tw": "是的",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "yesterday",
+"pos": "n",
+"zh_tw": "昨天",
+"level": 1,
+"topic": "time"
+},
+{
+"word": "yet",
+"pos": "adv",
+"zh_tw": "尚未",
+"level": 1,
+"topic": "adverb"
+},
+{
+"word": "young",
+"pos": "adj",
+"zh_tw": "年輕的",
+"level": 1,
+"topic": "describe"
+},
+{
+"word": "youth",
+"pos": "n",
+"zh_tw": "青春",
+"level": 2,
+"topic": "person"
+},
+{
+"word": "yummy",
+"pos": "adj",
+"zh_tw": "好吃的",
+"level": 1,
+"topic": "food"
+},
+{
+"word": "zero",
+"pos": "n",
+"zh_tw": "零",
+"level": 1,
+"topic": "number"
+},
+{
+"word": "zoo",
+"pos": "n",
+"zh_tw": "動物園",
+"level": 1,
+"topic": "place"
+},
+{
+"word": "email",
+"pos": "n",
+"zh_tw": "電子郵件",
+"level": 2,
+"topic": "tech"
+},
+{
+"word": "website",
+"pos": "n",
+"zh_tw": "網站",
+"level": 2,
+"topic": "tech"
+},
+{
+"word": "laptop",
+"pos": "n",
+"zh_tw": "筆記型電腦",
+"level": 2,
+"topic": "tech"
+},
+{
+"word": "online",
+"pos": "adv",
+"zh_tw": "在線上",
+"level": 2,
+"topic": "tech"
+},
+{
+"word": "plastic",
+"pos": "n",
+"zh_tw": "塑膠",
+"level": 2,
+"topic": "thing"
+}
+]
+}
